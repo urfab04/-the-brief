@@ -43,3 +43,9 @@ El titular anterior es **solo un ejemplo de estructura**, no una noticia publica
 En GitHub, activa **Settings → Pages → Deploy from a branch → main / root** para servir `index.html` en `https://urfab04.github.io/-the-brief/`. Luego cambia `REPORT_URL` en `the-brief.js` por esa URL.
 
 **Límites actuales:** la portada HTML es una plantilla estática que no carga automáticamente el JSON; no hay alimentador automático de noticias ni tarea diaria configurada en este repositorio. Para mostrar la edición completa se debe generar HTML a partir de noticias verificadas. No se requieren claves de API para el widget.
+
+## Actualización automática (GitHub Actions)
+
+El workflow [daily-news.yml](.github/workflows/daily-news.yml) está programado a las **08:00 Europe/Madrid** y también se puede ejecutar manualmente desde la pestaña **Actions → Publicar noticias THE BRIEF → Run workflow**. Ejecuta [scripts/update_news.py](scripts/update_news.py), recupera titulares de feeds RSS de Google Noticias de los últimos 3 días, selecciona **hasta 10 por sección** (40 máximo) y publica los resultados en `noticias.json`. Si no se obtiene ningún titular, la acción falla y se conserva la edición previa; si alguna fuente falla, puede haber menos de diez noticias por sección. No redacta resúmenes ni realiza verificación periodística independiente. Es una selección automática de titulares y fuentes, no el informe curado original de ChatGPT.
+
+La portada `index.html` ya consulta `noticias.json` y presenta el contenido en cuatro pestañas sin cambiar manualmente el HTML. La publicación de **GitHub Pages** sigue requiriendo activación en Settings → Pages, como se explicó arriba. Verifica en GitHub **Settings → Actions → General → Workflow permissions** que se permita escritura si el commit falla por permisos del `GITHUB_TOKEN`. Las tareas programadas pueden sufrir retrasos por la infraestructura de GitHub.
