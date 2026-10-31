@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "fecha": null,
+  "actualizado_en": null,
+  "descripcion": "Introduce noticias reales y verificadas. Cada sección requiere 10 noticias para la edición completa; no se incluyen titulares ficticios.",
+  "secciones": [
+    {
+      "id": "tecnologia",
+      "titulo": "Tecnología, IA y eCommerce",
+      "noticias": []
+    },
+    {
+      "id": "oportunidades",
+      "titulo": "Empleo, negocios y formación",
+      "noticias": []
+    },
+    {
+      "id": "espana",
+      "titulo": "España y Andalucía",
+      "noticias": []
+    },
+    {
+      "id": "peru",
+      "titulo": "Perú",
+      "noticias": []
+    }
+  ]
+}
