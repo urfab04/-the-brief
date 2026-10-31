@@ -1,0 +1,32 @@
+name: Publicar noticias THE BRIEF
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 8 * * *'
+      timezone: 'Europe/Madrid'
+permissions:
+  contents: write
+concurrency:
+  group: publicar-the-brief
+  cancel-in-progress: false
+jobs:
+  publicar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Recolectar titulares RSS
+        run: python scripts/update_news.py
+      - name: Publicar edición JSON
+        run: |
+          if git diff --quiet -- noticias.json; then
+            echo "Sin modificaciones."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add noticias.json
+          git commit -m "news: actualizar THE BRIEF"
+          git push
