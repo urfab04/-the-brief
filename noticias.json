@@ -1,28 +1,264 @@
 {
   "schema_version": 1,
-  "fecha": null,
-  "actualizado_en": null,
-  "descripcion": "Introduce noticias reales y verificadas. Cada sección requiere 10 noticias para la edición completa; no se incluyen titulares ficticios.",
+  "fecha": "2026-10-31",
+  "actualizado_en": "2026-10-31T14:34:54+01:00",
+  "descripcion": "Agregación automática de titulares RSS. No constituye edición periodística verificada.",
+  "fuentes_con_errores": [],
   "secciones": [
     {
       "id": "tecnologia",
       "titulo": "Tecnología, IA y eCommerce",
-      "noticias": []
+      "noticias": [
+        {
+          "titulo": "La amistad de Jensen Huang, jefe de Nvidia, con una presunta agente china dispara las alarmas sobre el espionaje en el mundo de la IA",
+          "url": "https://elpais.com/tecnologia/2026-10-30/la-amistad-de-jensen-huang-jefe-de-nvidia-con-una-presunta-agente-china-dispara-las-alarmas-sobre-el-espionaje-en-el-mundo-de-la-ia.html",
+          "fuente": "EL PAÍS · Tecnología",
+          "publicado_en": "2026-10-30T11:31:16+00:00",
+          "resumen": ""
+        },
+        {
+          "titulo": "¿Estrés o emoción? Por qué tu reloj inteligente no distingue la diferencia",
+          "url": "https://elpais.com/tecnologia/2026-10-30/estres-o-emocion-por-que-tu-reloj-inteligente-no-distingue-la-diferencia.html",
+          "fuente": "EL PAÍS · Tecnología",
+          "publicado_en": "2026-10-30T04:30:00+00:00",
+          "resumen": ""
+        },
+        {
+          "titulo": "Los hackers norcoreanos del grupo Lazarus se blindan con IA y cifrado poscuántico",
+          "url": "https://elpais.com/tecnologia/2026-10-29/los-hackers-norcoreanos-del-grupo-lazarus-se-blindan-con-ia-y-cifrado-poscuantico.html",
+          "fuente": "EL PAÍS · Tecnología",
+          "publicado_en": "2026-10-29T04:30:01+00:00",
+          "resumen": ""
+        }
+      ]
     },
     {
       "id": "oportunidades",
       "titulo": "Empleo, negocios y formación",
-      "noticias": []
+      "noticias": [
+        {
+          "titulo": "Claves de la nueva tasa de 2 euros a Shein, Temu y AliExpress: así funciona el recargo a las compras ‘online’ extracomunitarias",
+          "url": "https://elpais.com/economia/2026-10-31/claves-de-la-nueva-tasa-de-2-euros-a-shein-temu-y-aliexpress-asi-funciona-el-recargo-a-las-compras-online-extracomunitarias.html",
+          "fuente": "EL PAÍS · Economía",
+          "publicado_en": "2026-10-31T13:18:33+00:00",
+          "resumen": ""
+        },
+        {
+          "titulo": "La UE empieza a cobrar una tasa de dos euros a los paquetes de fuera de la UE",
+          "url": "https://www.expansion.com/economia/2026/10/31/ue-empieza-cobrar-tasa-dos-euros-paquetes-fuera-ue.html",
+          "fuente": "Expansión",
+          "publicado_en": "2026-10-31T12:38:28+00:00",
+          "resumen": ""
+        },
+        {
+          "titulo": "VMO2 prepara miles de despidos para ahorrar costes",
+          "url": "https://www.expansion.com/empresas/2026/10/31/vmo2-prepara-miles-despidos-ahorrar-costes.html",
+          "fuente": "Expansión",
+          "publicado_en": "2026-10-31T12:01:40+00:00",
+          "resumen": ""
+        },
+        {
+          "titulo": "Madrid blinda su 'milla de oro' ante posibles disturbios por la convocatoria de Blocus",
+          "url": "https://www.expansion.com/sociedad/2026/10/31/madrid-blinda-milla-oro-posibles-disturbios-convocatoria-blocus.html",
+          "fuente": "Expansión",
+          "publicado_en": "2026-10-31T11:59:04+00:00",
+          "resumen": ""
+        },
+        {
+          "titulo": "Los costes asociados a un fallecimiento pueden superar los 5.600 euros",
+          "url": "https://www.expansion.com/sociedad/2026/10/31/costes-asociados-fallecimiento-superar-5-600-euros.html",
+          "fuente": "Expansión",
+          "publicado_en": "2026-10-31T11:28:28+00:00",
+          "resumen": ""
+        },
+        {
+          "titulo": "Los consumidores que celebren Halloween gastarán una media de 93 euros",
+          "url": "https://www.expansion.com/sociedad/2026/10/31/consumidores-celebren-halloween-gastaran-media-93-euros.html",
+          "fuente": "Expansión",
+          "publicado_en": "2026-10-31T11:04:51+00:00",
+          "resumen": ""
+        },
+        {
+          "titulo": "La OPEP+ evalúa este domingo si modifica su producción petrolera en diciembre",
+          "url": "https://www.expansion.com/empresas/energia/2026/10/31/opep-evalua-domingo-modifica-produccion-petrolera-diciembre.html",
+          "fuente": "Expansión",
+          "publicado_en": "2026-10-31T10:51:23+00:00",
+          "resumen": ""
+        },
+        {
+          "titulo": "La crisis más grave del tren en España",
+          "url": "https://www.expansion.com/opinion/2026/10/31/crisis-grave-tren-espana.html",
+          "fuente": "Expansión",
+          "publicado_en": "2026-10-31T10:37:05+00:00",
+          "resumen": ""
+        },
+        {
+          "titulo": "Iberdrola gana dos proyectos de transporte eléctrico en Brasil con una inversión de 231 millones",
+          "url": "https://www.expansion.com/empresas/energia/2026/10/31/iberdola-gana-dos-proyectos-transporte-electrico-brasil-inversion-231-millones.html",
+          "fuente": "Expansión",
+          "publicado_en": "2026-10-31T10:28:03+00:00",
+          "resumen": ""
+        },
+        {
+          "titulo": "La Yerma de Lorca regresa al lugar donde nació",
+          "url": "https://www.expansion.com/estilo-vida/cultura/2026/10/31/yerma-lorca-regresa-lugar-nacio.html",
+          "fuente": "Expansión",
+          "publicado_en": "2026-10-31T10:18:21+00:00",
+          "resumen": ""
+        }
+      ]
     },
     {
       "id": "espana",
       "titulo": "España y Andalucía",
-      "noticias": []
+      "noticias": [
+        {
+          "titulo": "¿Cuál es el verdadero origen de Halloween y por qué se celebra el 31 de octubre?",
+          "url": "https://www.eldiario.es/spin/verdadero-origen-halloween-celebra-31-octubre-pm_1_13629037.html",
+          "fuente": "ElDiario.es",
+          "publicado_en": "2026-10-31T13:00:49+00:00",
+          "resumen": ""
+        },
+        {
+          "titulo": "Descubren en Pompeya un armario con objetos personales que llevaban casi 2.000 años sepultados por el Vesubio",
+          "url": "https://www.eldiario.es/spin/descubren-pompeya-armario-objetos-personales-llevaban-2-000-anos-sepultados-vesubio-pm_1_13628858.html",
+          "fuente": "ElDiario.es",
+          "publicado_en": "2026-10-31T12:00:02+00:00",
+          "resumen": ""
+        },
+        {
+          "titulo": "El relato de tres policías que iban en los trenes de Urda: \"Son imágenes que no se olvidan\"",
+          "url": "https://www.eldiario.es/castilla-la-mancha/relato-tres-policias-iban-trenes-urda-son-imagenes-no-olvidan_1_13629094.html",
+          "fuente": "ElDiario.es",
+          "publicado_en": "2026-10-31T11:45:15+00:00",
+          "resumen": ""
+        },
+        {
+          "titulo": "Prisión provisional sin fianza para el joven detenido en Valencia como presunto cabecilla de Blocus en España",
+          "url": "https://www.eldiario.es/comunitat-valenciana/presunto-impulsor-blocus-espana-detenido-valencia-pasan-sabado-disposicion-judicial_1_13629097.html",
+          "fuente": "ElDiario.es",
+          "publicado_en": "2026-10-31T11:16:53+00:00",
+          "resumen": ""
+        },
+        {
+          "titulo": "Irán informa de la explosión de otro petrolero \"infractor\" por una mina en Ormuz, el sexto en las 24 últimas horas",
+          "url": "https://www.eldiario.es/internacional/iran-informa-explosion-petrolero-infractor-mina-ormuz-sexto-24-ultimas-horas_1_13629046.html",
+          "fuente": "ElDiario.es",
+          "publicado_en": "2026-10-31T10:48:19+00:00",
+          "resumen": ""
+        },
+        {
+          "titulo": "Los curiosos nombres de todos estos pueblos acaban con \"de Arriba\" o \"de Abajo\"",
+          "url": "https://www.eldiario.es/spin/curiosos-nombres-pueblos-acaban-abajo-pm_1_13627688.html",
+          "fuente": "ElDiario.es",
+          "publicado_en": "2026-10-31T10:42:28+00:00",
+          "resumen": ""
+        },
+        {
+          "titulo": "Lo quemaron vivo y nació una leyenda de venganza contra el rey y el Papa: el terrible final del último gran maestre templario en 1314",
+          "url": "https://www.eldiario.es/spin/quemaron-vivo-nacio-leyenda-venganza-rey-papa-terrible-final-ultimo-gran-maestre-templario-1314-pm_1_13628447.html",
+          "fuente": "ElDiario.es",
+          "publicado_en": "2026-10-31T10:36:40+00:00",
+          "resumen": ""
+        },
+        {
+          "titulo": "Vandalizan de nuevo el banco arcoíris de la Fuente Torán, en Teruel: “Llamar a estas cosas delito de odio no es exagerar”",
+          "url": "https://www.eldiario.es/aragon/sociedad/vandalizan-nuevo-banco-arcoiris-fuente-toran-teruel-llamar-cosas-delito-odio-no-exagerar_1_13628962.html",
+          "fuente": "ElDiario.es",
+          "publicado_en": "2026-10-31T10:30:25+00:00",
+          "resumen": ""
+        },
+        {
+          "titulo": "\"Ven aquí y dispárame\": la noche en la que las consignas, el caos y las persecuciones racistas tomaron el centro de Palma",
+          "url": "https://www.eldiario.es/illes-balears/sociedad/ven-disparame-noche-consignas-caos-persecuciones-racistas-tomaron-centro-palma_1_13628848.html",
+          "fuente": "ElDiario.es",
+          "publicado_en": "2026-10-31T10:20:38+00:00",
+          "resumen": ""
+        },
+        {
+          "titulo": "La crisis institucional en Polonia por la suspensión del presidente del Constitucional abre una fractura política y desata protestas",
+          "url": "https://www.eldiario.es/internacional/crisis-institucional-polonia-suspension-presidente-constitucional-abre-fractura-politica-desata-protestas_1_13628838.html",
+          "fuente": "ElDiario.es",
+          "publicado_en": "2026-10-31T09:11:34+00:00",
+          "resumen": ""
+        }
+      ]
     },
     {
       "id": "peru",
       "titulo": "Perú",
-      "noticias": []
+      "noticias": [
+        {
+          "titulo": "Procuraduría del JNE denuncia a Rafael López Aliaga y Carlos Álvarez por expresiones contra Roberto Burneo",
+          "url": "https://elcomercio.pe/politica/actualidad/procuraduria-del-jne-denuncia-a-rafael-lopez-aliaga-y-carlos-alvarez-por-expresiones-contra-roberto-burneo-ultimas-noticia/",
+          "fuente": "El Comercio Perú",
+          "publicado_en": "2026-10-31T13:28:41+00:00",
+          "resumen": ""
+        },
+        {
+          "titulo": "La DEA aprueba registros para más de 900 dispensarios de marihuana medicinal",
+          "url": "https://elcomercio.pe/mag/usa/local-us/agencia-antidrogas-de-eeuu-aprueba-registros-para-mas-de-900-dispensarios-de-marihuana-medicinal-nnda-nnni-noticia/",
+          "fuente": "El Comercio Perú",
+          "publicado_en": "2026-10-31T13:23:18+00:00",
+          "resumen": ""
+        },
+        {
+          "titulo": "¿Quiénes son los jubilados ONP que cobran desde la primera semana de noviembre? Revisa las fechas según tu apellido",
+          "url": "https://elcomercio.pe/respuestas/tramites/quienes-son-los-jubilados-onp-que-cobran-desde-la-primera-semana-de-noviembre-revisa-las-fechas-segun-tu-apellido-tdpe-noticia/",
+          "fuente": "El Comercio Perú",
+          "publicado_en": "2026-10-31T13:17:29+00:00",
+          "resumen": ""
+        },
+        {
+          "titulo": "Señor de los Milagros: conoce los desvíos de los servicios de transporte durante el último recorrido del Cristo Moreno",
+          "url": "https://rpp.pe/lima/actualidad/senor-de-los-milagros-conoce-los-desvios-de-los-servicios-de-transporte-durante-el-ultimo-recorrido-del-cristo-moreno-noticia-1715233",
+          "fuente": "RPP",
+          "publicado_en": "2026-10-31T13:15:50+00:00",
+          "resumen": ""
+        },
+        {
+          "titulo": "Cercado de Lima: ciudadanos acuden a Las Nazarenas a un día de la última procesión del Señor de los Milagros",
+          "url": "https://rpp.pe/videos/la-rotativa-del-aire/cercado-de-lima-ciudadanos-acuden-a-las-nazarenas-a-un-dia-de-la-ultima-procesion-del-senor-de-los-milagros-noticia-1715323",
+          "fuente": "RPP",
+          "publicado_en": "2026-10-31T13:12:15+00:00",
+          "resumen": ""
+        },
+        {
+          "titulo": "Lo que decía Immanuel Kant sobre la felicidad: Hay 3 reglas que se basan en algo qué hacer, algo que desear y algo que amar",
+          "url": "https://elcomercio.pe/respuestas/que/lo-que-decia-immanuel-kant-sobre-la-felicidad-hay-3-reglas-que-se-basan-en-algo-que-hacer-algo-que-desear-y-algo-que-amar-tdpe-noticia/",
+          "fuente": "El Comercio Perú",
+          "publicado_en": "2026-10-31T13:11:58+00:00",
+          "resumen": ""
+        },
+        {
+          "titulo": "Experto en cocina y nutrición afirma: “Si quieres que el huevo frito no se pegue y sea más saludable, no agregues aceite, sino basta con un pepino”",
+          "url": "https://elcomercio.pe/respuestas/que/experto-en-cocina-y-nutricion-afirma-si-quieres-que-el-huevo-frito-no-se-pegue-y-sea-mas-saludable-no-agregues-aceite-sino-basta-con-un-pepino-tdpe-noticia/",
+          "fuente": "El Comercio Perú",
+          "publicado_en": "2026-10-31T13:11:46+00:00",
+          "resumen": ""
+        },
+        {
+          "titulo": "Jorge, céntrate, una crónica de Fernando Vivas sobre Nieto, el líder del Partido del Buen Gobierno",
+          "url": "https://elcomercio.pe/politica/jorge-centrate-una-cronica-de-fernando-vivas-sobre-nieto-el-lider-del-partido-del-buen-gobierno-noticia/",
+          "fuente": "El Comercio Perú",
+          "publicado_en": "2026-10-31T13:10:00+00:00",
+          "resumen": ""
+        },
+        {
+          "titulo": "Callao: balean a repartidor de pollería en La Perla y ya son tres ataques contra el negocio en menos de dos semanas",
+          "url": "https://rpp.pe/peru/callao/callao-balean-a-repartidor-de-polleria-en-la-perla-y-ya-son-tres-ataques-contra-el-negocio-en-menos-de-dos-semanas-noticia-1715317",
+          "fuente": "RPP",
+          "publicado_en": "2026-10-31T13:08:08+00:00",
+          "resumen": ""
+        },
+        {
+          "titulo": "Cita del día, Lao-Tse, filósofo chino: “El tiempo es algo creado. Decir ‘No tengo tiempo’ es como decir ‘No quiero’”",
+          "url": "https://elcomercio.pe/mag/respuestas/cita-del-dia-lao-tse-filosofo-chino-el-tiempo-es-algo-creado-decir-no-tengo-tiempo-es-como-decir-no-quiero-nnda-nnni-noticia/",
+          "fuente": "El Comercio Perú",
+          "publicado_en": "2026-10-31T13:02:04+00:00",
+          "resumen": ""
+        }
+      ]
     }
   ]
 }
