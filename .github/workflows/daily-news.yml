@@ -1,6 +1,11 @@
 name: Publicar noticias THE BRIEF
 on:
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/update_news.py'
+      - '.github/workflows/daily-news.yml'
   schedule:
     - cron: '0 8 * * *'
       timezone: 'Europe/Madrid'
