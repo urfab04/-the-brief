@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="es">
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#101114"><title>THE BRIEF — Daily Intelligence</title>
+<style>
+:root{color-scheme:dark;font-family:Inter,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;background:#101114;color:#f2f3f5}
+*{box-sizing:border-box}body{margin:0}a{color:#d7dae0}a:hover{color:white}
+main{max-width:1100px;margin:auto;padding:48px 24px 100px}
+.eyebrow{letter-spacing:.24em;text-transform:uppercase;color:#b7bbc3;font-size:.7rem}
+header{border-bottom:1px solid #62666e;padding-bottom:36px}h1{font-size:clamp(3.3rem,9vw,7rem);letter-spacing:-.085em;margin:12px 0 4px;line-height:1;font-weight:750}
+.sub{max-width:680px;color:#acb0b9;line-height:1.7}.stamp{display:inline-block;border:1px solid #535760;padding:8px 12px;color:#d5d8df;font-size:.78rem;margin-top:12px}
+.tabs{display:flex;flex-wrap:wrap;gap:8px;margin:32px 0 20px}
+input[name=tab]{position:absolute;opacity:0;pointer-events:none}
+.tabs label{cursor:pointer;border:1px solid #494d55;padding:12px 16px;font-size:.83rem;color:#afb4bd;border-radius:3px}
+#t1:checked~.tabs label[for=t1],#t2:checked~.tabs label[for=t2],#t3:checked~.tabs label[for=t3],#t4:checked~.tabs label[for=t4]{background:linear-gradient(110deg,#afb5bd,#e3e5e8);color:#14161b;border-color:#d1d5da}
+.panel{display:none}#t1:checked~.panels #p1,#t2:checked~.panels #p2,#t3:checked~.panels #p3,#t4:checked~.panels #p4{display:block}
+h2{font-size:1.5rem;font-weight:550;letter-spacing:-.03em}.empty{border:1px solid #343740;border-radius:4px;background:#191b20;padding:30px;line-height:1.7;color:#acb0b9;min-height:180px}
+small{color:#8e949f}.foot{border-top:1px solid #353840;margin-top:50px;padding-top:20px;color:#818791;font-size:.8rem}
+@media(max-width:600px){main{padding:32px 16px 70px}.tabs{display:grid;grid-template-columns:1fr 1fr}.tabs label{text-align:center;padding:12px 6px;font-size:.75rem}}
+</style></head>
+<body><main><header><div class="eyebrow">Editorial / Europa & América</div><h1>THE BRIEF<span style="color:#b2b7c0">.</span></h1><p class="sub">Daily Intelligence · Tecnología, oportunidades y actualidad relevante. Una lectura clara, selectiva y útil.</p><span class="stamp">EDICIÓN PENDIENTE DE PUBLICACIÓN</span></header>
+<input type="radio" name="tab" id="t1" checked><input type="radio" name="tab" id="t2"><input type="radio" name="tab" id="t3"><input type="radio" name="tab" id="t4">
+<nav class="tabs" aria-label="Secciones del informe"><label for="t1">Tecnología, IA y eCommerce</label><label for="t2">Empleo y negocios</label><label for="t3">España y Andalucía</label><label for="t4">Perú</label></nav>
+<div class="panels">
+<section class="panel" id="p1"><h2>01 — Tecnología, IA y eCommerce</h2><div class="empty">Todavía no se ha publicado la edición de esta sección.<p><small>Objetivo editorial: al menos 10 noticias verificadas, con fuentes y contexto.</small></p></div></section>
+<section class="panel" id="p2"><h2>02 — Empleo, negocios y formación</h2><div class="empty">Todavía no se ha publicado la edición de esta sección.<p><small>Objetivo editorial: al menos 10 oportunidades y noticias verificadas.</small></p></div></section>
+<section class="panel" id="p3"><h2>03 — España y Andalucía</h2><div class="empty">Todavía no se ha publicado la edición de esta sección.<p><small>Objetivo editorial: al menos 10 noticias verificadas.</small></p></div></section>
+<section class="panel" id="p4"><h2>04 — Perú</h2><div class="empty">Todavía no se ha publicado la edición de esta sección.<p><small>Objetivo editorial: al menos 10 noticias verificadas.</small></p></div></section>
+</div><div class="foot">THE BRIEF / Diseño de lectura sin JavaScript. El contenido editorial se publica tras su verificación. · <a href="https://github.com/urfab04/-the-brief">Repositorio</a></div></main></body></html>
