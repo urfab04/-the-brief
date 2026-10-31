@@ -1,7 +1,7 @@
 // THE BRIEF — Scriptable para iPad (widget mediano)
 // Instala este archivo en Scriptable. Los titulares se leen de noticias.json.
 const BASE = "https://raw.githubusercontent.com/urfab04/-the-brief/main/";
-const REPORT_URL = "https://github.com/urfab04/-the-brief/blob/main/index.html";
+const REPORT_URL = "https://urfab04.github.io/-the-brief/";
 const DATA_URL = BASE + "noticias.json";
 const CACHE_KEY = "the-brief-noticias-cache.json";
 const fm = FileManager.local();
