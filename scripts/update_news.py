@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
-"""THE BRIEF: compacta titulares de RSS; no redacta ni verifica las noticias."""
-import json, re, urllib.request, urllib.parse, xml.etree.ElementTree as ET
+"""Recolección RSS THE BRIEF: sin titulares inventados ni validación editorial."""
+import json, re, urllib.request, xml.etree.ElementTree as ET
 from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
 from pathlib import Path
@@ -9,57 +9,73 @@ from zoneinfo import ZoneInfo
 ROOT = Path(__file__).resolve().parent.parent
 NOW = datetime.now(timezone.utc)
 LIMIT = NOW - timedelta(days=3)
-CONFIG = [
- ("tecnologia", "Tecnología, IA y eCommerce", ["inteligencia artificial empresas", "comercio electrónico ecommerce Europa", "tecnología ciberseguridad Europa", "Magento Shopify comercio"]),
- ("oportunidades", "Empleo, negocios y formación", ["ofertas empleo desarrollador España", "becas formación tecnología España", "subvenciones empresas autónomos Andalucía", "convocatorias oportunidades empleo Europa"]),
- ("espana", "España y Andalucía", ["actualidad España política economía", "Andalucía actualidad", "Almería actualidad", "Unión Europea legislación digital"]),
- ("peru", "Perú", ["Perú actualidad economía", "Perú política noticias", "Perú tecnología emprendimiento", "Perú empleo educación"]),
+# Fuentes directas y clasificadas. Una fuente caída no bloquea a las demás.
+FEEDS = [
+ ("tecnologia", "Tecnología, IA y eCommerce", [
+   ("EL PAÍS · Tecnología", "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/tecnologia/portada"),
+ ]),
+ ("oportunidades", "Empleo, negocios y formación", [
+   ("EL PAÍS · Economía", "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/economia/portada"),
+   ("Expansión", "https://e00-expansion.uecdn.es/rss/portada.xml"),
+ ]),
+ ("espana", "España y Andalucía", [
+   ("EL PAÍS · España", "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/espana/portada"),
+   ("ElDiario.es", "https://www.eldiario.es/rss/"),
+ ]),
+ ("peru", "Perú", [
+   ("RPP", "https://rpp.pe/feed"),
+   ("El Comercio Perú", "https://elcomercio.pe/arc/outboundfeeds/rss/?outputType=xml"),
+ ]),
 ]
-def fetch(query):
-    params = urllib.parse.urlencode({"q": query + " when:3d", "hl": "es", "gl": "ES", "ceid": "ES:es"})
-    url = "https://news.google.com/rss/search?" + params
-    req = urllib.request.Request(url, headers={"User-Agent": "THE-BRIEF-RSS/1.0"})
-    with urllib.request.urlopen(req, timeout=18) as resp:
-        root = ET.fromstring(resp.read(3_000_000))
-    for item in root.findall("./channel/item"):
-        title = (item.findtext("title") or "").strip()
-        link = (item.findtext("link") or "").strip()
-        source = item.find("source")
-        pub = item.findtext("pubDate")
-        try: dt = parsedate_to_datetime(pub).astimezone(timezone.utc)
-        except (TypeError, ValueError): continue
-        if dt < LIMIT or dt > NOW + timedelta(hours=1) or not link.startswith("https://"):
+def read_feed(label, url):
+    req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0 (compatible; THEBRIEF/1.1; RSS)", "Accept": "application/rss+xml, application/xml, text/xml, */*"})
+    with urllib.request.urlopen(req, timeout=9) as response:
+        root = ET.fromstring(response.read(3_000_000))
+    items = root.findall("./channel/item")
+    if not items: items = root.findall(".//{http://www.w3.org/2005/Atom}entry")
+    for elem in items:
+        title = (elem.findtext("title") or elem.findtext("{http://www.w3.org/2005/Atom}title") or "").strip()
+        link = (elem.findtext("link") or "").strip()
+        if not link:
+            atomlink = elem.find("{http://www.w3.org/2005/Atom}link")
+            if atomlink is not None: link = atomlink.attrib.get("href", "")
+        date = elem.findtext("pubDate") or elem.findtext("{http://www.w3.org/2005/Atom}updated")
+        try:
+            dt = parsedate_to_datetime(date).astimezone(timezone.utc)
+        except (TypeError, ValueError, OverflowError):
+            try: dt = datetime.fromisoformat(date.replace("Z","+00:00")).astimezone(timezone.utc)
+            except (TypeError, ValueError, AttributeError): continue
+        if not (LIMIT <= dt <= NOW + timedelta(hours=1)) or not link.startswith("https://") or len(title) < 15:
             continue
-        medio = source.text.strip() if source is not None and source.text else ""
-        if medio and title.endswith(" - " + medio):
-            title = title[:-(len(medio)+3)].strip()
-        if not title or len(title) < 15: continue
-        yield {"titulo":title, "url":link, "fuente":medio or "Google Noticias", "publicado_en":dt.isoformat(), "resumen":""}
+        yield {"titulo":title,"url":link,"fuente":label,"publicado_en":dt.isoformat(),"resumen":""}
 
 def main():
-    sections, global_seen, errors = [], set(), []
-    count = 0
-    for ident, name, queries in CONFIG:
-        found = []
-        for query in queries:
+    sections, errors, total = [], [], 0
+    for ident, heading, sources in FEEDS:
+        found, seen = [], set()
+        for label, url in sources:
             try:
-                for item in fetch(query):
+                for item in read_feed(label, url):
                     key = re.sub(r"\W+", "", item["titulo"].casefold())[:95]
-                    if key in global_seen: continue
-                    global_seen.add(key)
+                    if key in seen: continue
+                    seen.add(key)
                     found.append(item)
             except Exception as e:
-                errors.append(f"{ident}: {type(e).__name__} en una fuente")
-        found.sort(key=lambda x:x["publicado_en"], reverse=True)
+                msg = f"{ident} / {label}: {type(e).__name__}: {e}"
+                print("ADVERTENCIA:", msg, flush=True)
+                errors.append(msg)
+        found.sort(key=lambda n: n["publicado_en"], reverse=True)
         chosen = found[:10]
-        count += len(chosen)
-        sections.append({"id":ident,"titulo":name,"noticias":chosen})
-    if count == 0:
-        raise RuntimeError("Ninguna noticia recuperada: se mantiene la edición anterior.")
-    local = NOW.astimezone(ZoneInfo("Europe/Madrid"))
-    data = {"schema_version":1,"fecha":local.date().isoformat(),"actualizado_en":local.isoformat(timespec="seconds"),
-            "descripcion":"Selección automática de titulares RSS de Google Noticias, sin verificación editorial independiente ni resúmenes generados.",
+        print(f"{ident}: {len(chosen)} titulares", flush=True)
+        total += len(chosen)
+        sections.append({"id":ident,"titulo":heading,"noticias":chosen})
+    if total == 0:
+        raise RuntimeError("Ningún feed respondió con noticias recientes; se conserva la edición anterior.")
+    current = NOW.astimezone(ZoneInfo("Europe/Madrid"))
+    data = {"schema_version":1,"fecha":current.date().isoformat(),"actualizado_en":current.isoformat(timespec="seconds"),
+            "descripcion":"Agregación automática de titulares RSS. No constituye edición periodística verificada.",
             "fuentes_con_errores":errors,"secciones":sections}
-    (ROOT/"noticias.json").write_text(json.dumps(data, ensure_ascii=False, indent=2)+"\n", encoding="utf-8")
-    print(f"Actualizado: {count} titulares; secciones: "+", ".join(str(len(x["noticias"])) for x in sections))
+    (ROOT / "noticias.json").write_text(json.dumps(data,ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
+    print(f"Publicación preparada: {total} titulares",flush=True)
+
 if __name__ == "__main__": main()
