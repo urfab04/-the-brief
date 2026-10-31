@@ -44,7 +44,7 @@ def main():
         for query in queries:
             try:
                 for item in fetch(query):
-                    key = re.sub(r"\\W+", "", item["titulo"].casefold())[:95]
+                    key = re.sub(r"\W+", "", item["titulo"].casefold())[:95]
                     if key in global_seen: continue
                     global_seen.add(key)
                     found.append(item)
@@ -60,6 +60,6 @@ def main():
     data = {"schema_version":1,"fecha":local.date().isoformat(),"actualizado_en":local.isoformat(timespec="seconds"),
             "descripcion":"Selección automática de titulares RSS de Google Noticias, sin verificación editorial independiente ni resúmenes generados.",
             "fuentes_con_errores":errors,"secciones":sections}
-    (ROOT/"noticias.json").write_text(json.dumps(data, ensure_ascii=False, indent=2)+"\\n", encoding="utf-8")
+    (ROOT/"noticias.json").write_text(json.dumps(data, ensure_ascii=False, indent=2)+"\n", encoding="utf-8")
     print(f"Actualizado: {count} titulares; secciones: "+", ".join(str(len(x["noticias"])) for x in sections))
 if __name__ == "__main__": main()
