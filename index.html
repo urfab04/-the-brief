@@ -26,4 +26,44 @@ small{color:#8e949f}.foot{border-top:1px solid #353840;margin-top:50px;padding-t
 <section class="panel" id="p2"><h2>02 — Empleo, negocios y formación</h2><div class="empty">Todavía no se ha publicado la edición de esta sección.<p><small>Objetivo editorial: al menos 10 oportunidades y noticias verificadas.</small></p></div></section>
 <section class="panel" id="p3"><h2>03 — España y Andalucía</h2><div class="empty">Todavía no se ha publicado la edición de esta sección.<p><small>Objetivo editorial: al menos 10 noticias verificadas.</small></p></div></section>
 <section class="panel" id="p4"><h2>04 — Perú</h2><div class="empty">Todavía no se ha publicado la edición de esta sección.<p><small>Objetivo editorial: al menos 10 noticias verificadas.</small></p></div></section>
-</div><div class="foot">THE BRIEF / Diseño de lectura sin JavaScript. El contenido editorial se publica tras su verificación. · <a href="https://github.com/urfab04/-the-brief">Repositorio</a></div></main></body></html>
+</div><div class="foot">THE BRIEF / Diseño de lectura sin JavaScript. El contenido editorial se publica tras su verificación. · <a href="https://github.com/urfab04/-the-brief">Repositorio</a></div></main>
+<script>
+(async function(){
+  try {
+    const response=await fetch('./noticias.json?v='+Math.floor(Date.now()/900000),{cache:'no-store'});
+    if(!response.ok)throw new Error('HTTP '+response.status);
+    const data=await response.json();
+    if(!Array.isArray(data.secciones))throw new Error('Formato inesperado');
+    const stamp=document.querySelector('.stamp');
+    if(stamp)stamp.textContent=data.fecha?'EDICIÓN '+data.fecha:'EDICIÓN PENDIENTE';
+    const target={tecnologia:'p1',oportunidades:'p2',espana:'p3',peru:'p4'};
+    for(const s of data.secciones){
+      const panel=document.querySelector('#'+target[s.id]+' .empty');
+      if(!panel)continue;
+      const items=Array.isArray(s.noticias)?s.noticias:[];
+      if(!items.length)continue;
+      panel.replaceChildren();
+      panel.style.padding='0';
+      panel.style.background='transparent';
+      panel.style.border='0';
+      panel.style.display='grid';
+      panel.style.gap='12px';
+      for(const [i,item] of items.entries()){
+        if(!item.titulo||!/^https:\/\//.test(item.url||''))continue;
+        const article=document.createElement('article');
+        article.style.cssText='background:#191b20;border:1px solid #363941;border-radius:4px;padding:20px 22px';
+        const small=document.createElement('div');
+        small.style.cssText='font-size:11px;letter-spacing:.12em;color:#b7bbc3;margin-bottom:9px';
+        small.textContent=String(i+1).padStart(2,'0')+' / '+(item.fuente||'FUENTE');
+        const a=document.createElement('a');
+        a.href=item.url;a.rel='noopener noreferrer';a.target='_blank';
+        a.style.cssText='font-size:1.1rem;line-height:1.5;font-weight:600;text-decoration:none';
+        a.textContent=item.titulo;
+        article.append(small,a);
+        panel.append(article);
+      }
+    }
+  } catch(err) { console.warn('THE BRIEF: no se pudo cargar noticias.json',err); }
+})();
+</script>
+</body></html>
