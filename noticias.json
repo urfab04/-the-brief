@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "fecha": "2026-11-02",
-  "actualizado_en": "2026-11-02T17:42:09+01:00",
+  "fecha": "2026-11-03",
+  "actualizado_en": "2026-11-03T15:45:16+01:00",
   "descripcion": "Agregación automática de titulares RSS. No constituye edición periodística verificada.",
   "fuentes_con_errores": [],
   "secciones": [
@@ -9,6 +9,20 @@
       "id": "tecnologia",
       "titulo": "Tecnología, IA y eCommerce",
       "noticias": [
+        {
+          "titulo": "Por qué la segunda oleada de ‘hackeos’ a las neveras en supermercados avisa de los riesgos que vienen",
+          "url": "https://elpais.com/tecnologia/2026-11-03/por-que-la-segunda-oleada-de-hackeos-a-las-neveras-avisa-de-lo-que-viene.html",
+          "fuente": "EL PAÍS · Tecnología",
+          "publicado_en": "2026-11-03T04:30:01+00:00",
+          "resumen": ""
+        },
+        {
+          "titulo": "Un ciberataque causa pérdidas millonarias en decenas de supermercados europeos tras disparar la temperatura de las neveras",
+          "url": "https://elpais.com/tecnologia/2026-11-02/un-ciberataque-causa-perdidas-millonarias-en-decenas-de-supermercados-en-belgica-y-suecia.html",
+          "fuente": "EL PAÍS · Tecnología",
+          "publicado_en": "2026-11-02T10:31:15+00:00",
+          "resumen": ""
+        },
         {
           "titulo": "“Hay que cambiar el producto, no a los niños”: la izquierda europea plantea otra forma de regular las redes",
           "url": "https://elpais.com/tecnologia/2026-11-02/hay-que-cambiar-el-producto-no-a-los-ninos-la-izquierda-europea-plantea-otra-forma-de-regular-las-redes.html",
@@ -30,73 +44,73 @@
       "titulo": "Empleo, negocios y formación",
       "noticias": [
         {
-          "titulo": "Marvell compra Lumentum por más de 103.000 millones para crecer en IA",
-          "url": "https://www.expansion.com/empresas/fusiones-y-adquisiciones/2026/11/02/marvell-compra-lumentum-103-000-millones-crecer-ia.html",
+          "titulo": "Una batalla detrás de otra: los turbulentos 21 meses de Trump en el cargo",
+          "url": "https://www.expansion.com/economia/financial-times/2026/11/03/batalla-detras-turbulentos-21-meses-trump-cargo.html",
           "fuente": "Expansión",
-          "publicado_en": "2026-11-02T16:11:55+00:00",
+          "publicado_en": "2026-11-03T14:15:06+00:00",
           "resumen": ""
         },
         {
-          "titulo": "La fiebre de la IA no puede sobrevivir a unos tipos de interés más altos",
-          "url": "https://www.expansion.com/economia/financial-times/2026/11/02/fiebre-ia-sobrevivir-tipos-interes-altos.html",
+          "titulo": "Petronor, Linde y 360 Gases invierten 30 millones en una nueva empresa industrial",
+          "url": "https://www.expansion.com/pais-vasco/2026/11/03/petronor-linde-360-gases-invierten-30-millones-nueva-empresa-industrial.html",
           "fuente": "Expansión",
-          "publicado_en": "2026-11-02T15:59:01+00:00",
+          "publicado_en": "2026-11-03T12:50:27+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Anthropic factura 15.000 millones en el tercer trimestre, según el folleto actualizado de su OPV",
-          "url": "https://www.expansion.com/tecnologia/2026/11/02/anthropic-factura-15-000-millones-tercer-trimestre-folleto-actualizado-opv.html",
+          "titulo": "Tata e Iveco crean un gigante mundial de vehículos industriales con 21.000 millones en ingresos",
+          "url": "https://www.expansion.com/empresas/motor/2026/11/03/tata-e-iveco-crean-gigante-mundial-vehiculos-industriales-21-000-millones-ingresos.html",
           "fuente": "Expansión",
-          "publicado_en": "2026-11-02T15:28:44+00:00",
+          "publicado_en": "2026-11-03T12:27:14+00:00",
           "resumen": ""
         },
         {
-          "titulo": "El petróleo cae un 7% por los avances en las negociaciones con Irán para acabar con la guerra",
-          "url": "https://www.expansion.com/mercados/materias-primas/2026/11/02/petroleo-cae-6-posible-acuerdo-iran-acabar-guerra.html",
+          "titulo": "Botín pide liberar los colchones de capital bancario para crecer más",
+          "url": "https://www.expansion.com/empresas/banca/2026/11/03/botin-pide-liberar-colchones-capital-bancario-crecer.html",
           "fuente": "Expansión",
-          "publicado_en": "2026-11-02T14:59:01+00:00",
+          "publicado_en": "2026-11-03T12:20:45+00:00",
           "resumen": ""
         },
         {
-          "titulo": "El último truco del mago de las finanzas Juan González",
-          "url": "https://elpais.com/economia/2026-11-02/el-ultimo-truco-del-mago-de-las-finanzas-juan-gonzalez.html",
-          "fuente": "EL PAÍS · Economía",
-          "publicado_en": "2026-11-02T14:43:03+00:00",
+          "titulo": "Pinchazo en la Cumbre Iberoamericana: Lula y Sheinbaum dejan solo a Sánchez",
+          "url": "https://www.expansion.com/economia/2026/11/03/pinchazo-cumbre-iberoamericana-lula-shainbaum-dejan-sanchez.html",
+          "fuente": "Expansión",
+          "publicado_en": "2026-11-03T12:13:56+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Hello Kitty se ve atrapada en una disputa entre Japón y China",
-          "url": "https://www.expansion.com/economia/financial-times/2026/11/02/hello-kitty-ve-atrapada-disputa-japon-china.html",
+          "titulo": "Así será la subida de las pensiones en 2027 tras conocerse el IPC de octubre",
+          "url": "https://www.expansion.com/economia/2026/11/03/asi-sera-subida-pensiones-2027-conocerse-ipc-octubre.html",
           "fuente": "Expansión",
-          "publicado_en": "2026-11-02T14:28:33+00:00",
+          "publicado_en": "2026-11-03T12:01:21+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Illa pide mantener la alta velocidad entre Madrid y Barcelona pese a las obras",
-          "url": "https://www.expansion.com/catalunya/2026/11/02/illa-pide-mantener-alta-velocidad-madrid-barcelona-pese-obras.html",
+          "titulo": "El Ejecutivo reducirá las frecuencias en la línea Madrid-Sevilla hasta que se cambie el sistema de seguridad",
+          "url": "https://www.expansion.com/economia/2026/11/03/gobierno-reducira-frecuencias-linea-madrid-sevilla-cambie-sistema-seguridad.html",
           "fuente": "Expansión",
-          "publicado_en": "2026-11-02T14:22:32+00:00",
+          "publicado_en": "2026-11-03T12:00:02+00:00",
           "resumen": ""
         },
         {
-          "titulo": "El significado de las elecciones de mitad de mandato",
-          "url": "https://www.expansion.com/economia/financial-times/2026/11/02/significado-elecciones-mitad-mandato.html",
+          "titulo": "El proveedor de chicles de Mercadona dispara un 30% su beneficio",
+          "url": "https://www.expansion.com/empresas/distribucion/2026/11/03/proveedor-chicles-mercadona-dispara-30-beneficio.html",
           "fuente": "Expansión",
-          "publicado_en": "2026-11-02T14:15:44+00:00",
+          "publicado_en": "2026-11-03T11:40:59+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Iberdrola y Norges Bank Investment Management alcanzan los 1.800 megavatios de potencia instalada",
-          "url": "https://www.expansion.com/pais-vasco/2026/11/02/iberdrola-norges-bank-investment-management-alcanzan-1-800-megavatios-potencia-instalada.html",
+          "titulo": "El Gobierno aprueba las indemnizaciones por Urda: hasta 216.000 euros por fallecido e incapacidad temporal \"mejorada\"",
+          "url": "https://www.expansion.com/economia/2026/11/03/gobierno-aprueba-indemnizaciones-afectados-urda-216-000-euros-fallecido-e-incapacidad-temporal-mejorada.html",
           "fuente": "Expansión",
-          "publicado_en": "2026-11-02T14:14:56+00:00",
+          "publicado_en": "2026-11-03T11:36:56+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Los contratos de alquiler caen un 10% en Cataluña en dos años",
-          "url": "https://www.expansion.com/catalunya/2026/11/02/contratos-alquiler-caen-10-cataluna-dos-anos.html",
+          "titulo": "Alivio petrolero previo a las elecciones en Estados Unidos",
+          "url": "https://www.expansion.com/opinion/2026/11/03/alivio-petrolero-previo-elecciones-estados-unidos.html",
           "fuente": "Expansión",
-          "publicado_en": "2026-11-02T13:07:23+00:00",
+          "publicado_en": "2026-11-03T11:29:10+00:00",
           "resumen": ""
         }
       ]
@@ -106,73 +120,73 @@
       "titulo": "España y Andalucía",
       "noticias": [
         {
-          "titulo": "Sin sorpresas en México: Kimi Antonelli hace historia en Fórmula 1 y Alonso piensa ya en la próxima temporada",
-          "url": "https://www.eldiario.es/spin/deportes/sorpresas-mexico-kimi-antonelli-historia-formula-1-alonso-piensa-proxima-temporada-pm_1_13632249.html",
-          "fuente": "ElDiario.es",
-          "publicado_en": "2026-11-02T16:35:34+00:00",
-          "resumen": ""
-        },
-        {
-          "titulo": "¿Puede la IA crearse a sí misma? La ciencia explora el camino hacia algoritmos que se programan solos",
-          "url": "https://www.eldiario.es/spin/ia-crearse-si-ciencia-explora-camino-algoritmos-programan-solos-pm_1_13632090.html",
-          "fuente": "ElDiario.es",
-          "publicado_en": "2026-11-02T16:00:44+00:00",
-          "resumen": ""
-        },
-        {
-          "titulo": "À Punt desprograma la película sobre el asesinato de Guillem Agulló pese a haberla anunciado todo el fin de semana",
-          "url": "https://www.eldiario.es/comunitat-valenciana/politica/punt-desprograma-pelicula-asesinato-guillem-agullo-pese-haberla-anunciado-finde-semana_1_13632160.html",
-          "fuente": "ElDiario.es",
-          "publicado_en": "2026-11-02T15:55:23+00:00",
-          "resumen": ""
-        },
-        {
-          "titulo": "La Guardia Civil investiga a un cazador que presumió en redes de abatir un ciervo en un coto de Caravaca sin autorización",
-          "url": "https://www.eldiario.es/murcia/sociedad/guardia-civil-investiga-cazador-presumio-redes-abatir-ciervo-coto-caravaca-autorizacion_1_13632110.html",
-          "fuente": "ElDiario.es",
-          "publicado_en": "2026-11-02T15:54:13+00:00",
-          "resumen": ""
-        },
-        {
-          "titulo": "Colau propone un pacto de Estado sobre trenes que permita \"reunificar\" Renfe y Adif",
-          "url": "https://www.eldiario.es/catalunya/colau-propone-pacto-trenes-permita-reunificar-renfe-adif_1_13632096.html",
-          "fuente": "ElDiario.es",
-          "publicado_en": "2026-11-02T15:09:51+00:00",
-          "resumen": ""
-        },
-        {
-          "titulo": "Año de aniversarios en el presupuesto de Cultura: 90 de Gernika, 75 del Zinemaldia, 30 del Guggenheim y 25 de Artium",
-          "url": "https://www.eldiario.es/euskadi/ano-aniversarios-presupuesto-cultura-90-gernika-75-zinemaldia-30-guggenheim-25-artium_1_13632083.html",
-          "fuente": "ElDiario.es",
-          "publicado_en": "2026-11-02T15:01:00+00:00",
-          "resumen": ""
-        },
-        {
-          "titulo": "Se frena el 'boom' de TikTok: la app registra su primer retroceso en España mientras Instagram afianza su liderazgo",
-          "url": "https://www.eldiario.es/spin/frena-boom-tiktok-app-registra-primer-retroceso-espana-instagram-afianza-liderazgo-pm_1_13631836.html",
-          "fuente": "ElDiario.es",
-          "publicado_en": "2026-11-02T14:30:27+00:00",
-          "resumen": ""
-        },
-        {
-          "titulo": "Volkswagen planta cara al dominio de Toyota en el mercado español con sus mismas bazas",
-          "url": "https://www.eldiario.es/motor/sector_y_mercado/volkswagen-planta-cara-dominio-toyota-mercado-espanol-bazas_1_13631957.html",
-          "fuente": "ElDiario.es",
-          "publicado_en": "2026-11-02T13:56:02+00:00",
-          "resumen": ""
-        },
-        {
-          "titulo": "El Gobierno trabaja para desmontar plazas de migrantes en Ceuta y anuncia que 13.000 ya han vuelto a Marruecos",
-          "url": "https://www.eldiario.es/desalambre/gobierno-trabaja-desmontar-plazas-inmigrantes-ceuta-anuncia-13-000-han-vuelto-marruecos_1_13631938.html",
-          "fuente": "ElDiario.es",
-          "publicado_en": "2026-11-02T13:33:07+00:00",
-          "resumen": ""
-        },
-        {
-          "titulo": "Iryo defiende la fiabilidad de sus trenes, incluido el siniestrado, en la línea Madrid-Sevilla",
-          "url": "https://elpais.com/espana/2026-11-02/iryo-defiende-la-fiabilidad-de-sus-trenes-incluido-el-siniestrado-en-la-linea-madrid-sevilla.html",
+          "titulo": "El Supremo confirma los 39.000 euros de costas impuestas al exfiscal general por los honorarios de defensa de la pareja de Ayuso",
+          "url": "https://elpais.com/espana/2026-11-03/el-supremo-confirma-los-39000-euros-de-costas-impuestas-al-exfiscal-general-por-los-honorarios-de-defensa-de-la-pareja-de-ayuso.html",
           "fuente": "EL PAÍS · España",
-          "publicado_en": "2026-11-02T13:28:55+00:00",
+          "publicado_en": "2026-11-03T14:39:14+00:00",
+          "resumen": ""
+        },
+        {
+          "titulo": "Construido en 1240, este castillo alberga 40 casas palaciegas y uno los teatros barrocos mejor conservados de Europa",
+          "url": "https://www.eldiario.es/spin/construido-1240-castillo-alberga-40-casas-palaciegas-teatros-barrocos-mejor-conservados-europa-pm_1_13634099.html",
+          "fuente": "ElDiario.es",
+          "publicado_en": "2026-11-03T14:30:14+00:00",
+          "resumen": ""
+        },
+        {
+          "titulo": "La Junta de Castilla y León ofrece el 9 de enero para la obra de Lorca suspendida en Valladolid",
+          "url": "https://www.eldiario.es/castilla-y-leon/cultura/junta-castilla-leon-ofrece-9-enero-obra-lorca-suspendida-valladolid_1_13634534.html",
+          "fuente": "ElDiario.es",
+          "publicado_en": "2026-11-03T14:12:40+00:00",
+          "resumen": ""
+        },
+        {
+          "titulo": "Sobrevivieron a un naufragio en el fin del mundo y su puede haber aparecido dos siglos después",
+          "url": "https://www.eldiario.es/spin/sobrevivieron-naufragio-mundo-campamento-acaba-aparecer-siglos-despues-pm_1_13631917.html",
+          "fuente": "ElDiario.es",
+          "publicado_en": "2026-11-03T14:00:54+00:00",
+          "resumen": ""
+        },
+        {
+          "titulo": "Llarena cierra la instrucción contra Puigdemont, Comín y Puig y envía el caso a la Sala Penal para que aplique la amnistía",
+          "url": "https://elpais.com/espana/elecciones-generales/2026-11-03/llarena-cierra-el-sumario-contra-puigdemont-comin-y-puig-y-lo-envia-a-la-sala-penal-para-que-aplique-la-amnistia.html",
+          "fuente": "EL PAÍS · España",
+          "publicado_en": "2026-11-03T13:55:47+00:00",
+          "resumen": ""
+        },
+        {
+          "titulo": "El juez del caso Plus Ultra pide a la Policía que identifique al autor del punzón de las joyas de Zapatero",
+          "url": "https://www.eldiario.es/politica/juez-caso-plus-ultra-pide-policia-identifique-autor-punzon-joyas-zapatero_1_13634445.html",
+          "fuente": "ElDiario.es",
+          "publicado_en": "2026-11-03T13:53:48+00:00",
+          "resumen": ""
+        },
+        {
+          "titulo": "Las ausencias de Lula y Sheinbaum dejan solo a Sánchez frente a Milei en la Cumbre Iberoamericana de Madrid",
+          "url": "https://elpais.com/espana/2026-11-03/las-ausencias-de-lula-y-sheinbaum-dejan-solo-a-sanchez-frente-a-milei-en-la-cumbre-iberoamericana-de-madrid.html",
+          "fuente": "EL PAÍS · España",
+          "publicado_en": "2026-11-03T13:51:56+00:00",
+          "resumen": ""
+        },
+        {
+          "titulo": "Miguel Tellado, 'número dos' del PP, pide el voto para Vox en tres provincias el 29N: \"Por supuesto que sí\"",
+          "url": "https://www.eldiario.es/politica/miguel-tellado-numero-pp-pide-voto-vox-tres-provincias-29n-supuesto-si_1_13634268.html",
+          "fuente": "ElDiario.es",
+          "publicado_en": "2026-11-03T13:49:02+00:00",
+          "resumen": ""
+        },
+        {
+          "titulo": "Jack Grealish, apartado del Everton tras dos noches seguidas de fiesta, alcohol y karaoke",
+          "url": "https://www.eldiario.es/spin/deportes/jack-grealish-apartado-everton-noches-seguidas-fiesta-alcohol-karaoke-pm_1_13633904.html",
+          "fuente": "ElDiario.es",
+          "publicado_en": "2026-11-03T13:45:45+00:00",
+          "resumen": ""
+        },
+        {
+          "titulo": "La Fiscalía ve “muy difícil” un proceso penal sobre la muerte de De Miguel",
+          "url": "https://www.eldiario.es/canariasahora/Deportes/futbol/fiscalia-ve-dificil-proceso-muerte-miguel_1_13634415.html",
+          "fuente": "ElDiario.es",
+          "publicado_en": "2026-11-03T13:44:48+00:00",
           "resumen": ""
         }
       ]
@@ -182,73 +196,73 @@
       "titulo": "Perú",
       "noticias": [
         {
-          "titulo": "Cyber Wow 2026: adelanta la Navidad del 2 al 5 de noviembre con los mejores precios en tecnología, electrohogar y juguetes.",
-          "url": "https://rpp.pe/campanas/publirreportaje/cyber-wow-2026-adelanta-la-navidad-del-2-al-5-de-noviembre-con-los-mejores-precios-en-tecnologia-electrohogar-y-juguetes-noticia-1715584",
+          "titulo": "Keiko Fujimori destaca “mensaje de unidad y esfuerzo conjunto” entre sector público y privado tras destrabe de Torre Trecca",
+          "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-destaca-mensaje-de-unidad-y-esfuerzo-conjunto-entre-sector-publico-y-privado-tras-destrabe-de-torre-trecca-ultimas-noticia/",
+          "fuente": "El Comercio Perú",
+          "publicado_en": "2026-11-03T14:37:53+00:00",
+          "resumen": ""
+        },
+        {
+          "titulo": "Jorge Fossati (73 años): “De los títulos más importantes que tengo, es que cuando me cruce con alguien que dirigí, venga y me abrace. Significa que no le fallé como persona”",
+          "url": "https://elcomercio.pe/respuestas/que/jorge-fossati-73-anos-de-los-titulos-mas-importantes-que-tengo-es-que-cuando-me-cruce-con-alguien-que-dirigi-venga-y-me-abrace-significa-que-no-le-falle-como-persona-tdpe-noticia/",
+          "fuente": "El Comercio Perú",
+          "publicado_en": "2026-11-03T14:37:01+00:00",
+          "resumen": ""
+        },
+        {
+          "titulo": "Papa León XIV en Las Palmas: conoce qué objetos estarán permitidos y cuáles serán restringidos",
+          "url": "https://elcomercio.pe/lima/sucesos/papa-leon-xiv-en-peru-conoce-que-objetos-estaran-permitidos-y-cuales-seran-restringidos-durante-su-visita-en-la-palmas-apuesplan-ultimas-noticia/",
+          "fuente": "El Comercio Perú",
+          "publicado_en": "2026-11-03T14:34:28+00:00",
+          "resumen": ""
+        },
+        {
+          "titulo": "Yenifer Paredes: Sobrina de Pedro Castillo pide informes a sector Interior y PNP sobre detención de golpista",
+          "url": "https://elcomercio.pe/politica/yenifer-paredes-sobrina-de-pedro-castillo-pide-informes-a-sector-interior-y-pnp-sobre-detencion-de-golpista-noticia/",
+          "fuente": "El Comercio Perú",
+          "publicado_en": "2026-11-03T14:34:00+00:00",
+          "resumen": ""
+        },
+        {
+          "titulo": "Adulto mayor consiguió cita en el Hospital II Lima Norte después de tres años",
+          "url": "https://rpp.pe/rotafono/servicios-publicos/adulto-mayor-consiguio-cita-en-otorrinolaringologia-en-el-hospital-ii-lima-norte-despues-de-tres-anos-noticia-1715717",
           "fuente": "RPP",
-          "publicado_en": "2026-11-02T17:00:30+00:00",
+          "publicado_en": "2026-11-03T14:33:56+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Con un tráiler a cargo del emblemático estudio Toei Animation: el anime “One Piece” desembarca en el universo “Fortnite”",
-          "url": "https://elcomercio.pe/mag/fama/que-ver/one-piece-toei-animation-produce-el-trailer-de-la-colaboracion-del-anime-de-crunchyroll-con-fornite-nnda-nnlt-noticia/",
+          "titulo": "Trump anuncia que cortará US$ 4.000 millones en ayuda militar a Israel a final de año: “No lo necesitan”",
+          "url": "https://elcomercio.pe/mundo/eeuu/trump-anuncia-que-cortara-la-ayuda-militar-de-estados-unidos-a-israel-a-finales-de-ano-no-lo-necesitan-noticia/",
           "fuente": "El Comercio Perú",
-          "publicado_en": "2026-11-02T16:41:01+00:00",
+          "publicado_en": "2026-11-03T14:33:23+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Jude Bellingham se convierte en el nuevo rostro de Calvin Klein",
-          "url": "https://elcomercio.pe/respuestas/farandula/jude-bellingham-se-convierte-en-el-nuevo-rostro-de-calvin-klein-tdpe-noticia/",
+          "titulo": "Del cansancio al miedo a envejecer: por qué los millennials están llenando su rutina de vitaminas y suplementos, ¿cuánto están dispuestos a gastar?",
+          "url": "https://elcomercio.pe/economia/dia-1/del-cansancio-al-miedo-a-envejecer-por-que-los-millennials-estan-llenando-su-rutina-de-vitaminas-y-suplementos-cuanto-estan-dispuestos-a-gastar-noticia/",
           "fuente": "El Comercio Perú",
-          "publicado_en": "2026-11-02T16:40:06+00:00",
+          "publicado_en": "2026-11-03T14:33:13+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Tabla Acumulada y Clausura 2026 de la Liga 1, EN VIVO: resultados y partidos en DIRECTO de la fecha 15",
-          "url": "https://elcomercio.pe/deporte-total/futbol-peruano/tabla-de-posiciones-del-clausura-2026-en-vivo-como-van-los-puntajes-y-resultados-del-acumulado-tdpe-noticia/",
+          "titulo": "“No hay palabras”: El conmovedor mensaje de Lionel Messi tras la muerte de Jesús de Miguel",
+          "url": "https://elcomercio.pe/deporte-total/futbol-mundial/lionel-messi-y-el-conmovedor-mensaje-tras-la-muerte-de-jesus-de-miguel-no-hay-palabras-cd-tenerife-noticia/",
           "fuente": "El Comercio Perú",
-          "publicado_en": "2026-11-02T16:39:37+00:00",
+          "publicado_en": "2026-11-03T14:30:47+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Temblor en Chile: epicentro y magnitud reportados hoy",
-          "url": "https://elcomercio.pe/respuestas/chile/temblor-en-chile-epicentro-y-magnitud-reportados-hoy-por-el-csn-centro-sismologico-nacional-santiago-lbposting-noticia/",
+          "titulo": "Quién es Jesús Owono, el portero que chocó con De Miguel en el Tenerife-Andorra",
+          "url": "https://elcomercio.pe/deporte-total/futbol-mundial/quien-es-jesus-owono-el-portero-que-choco-con-jesus-de-miguel-en-el-tenerife-andorra-ultimas-noticia/",
           "fuente": "El Comercio Perú",
-          "publicado_en": "2026-11-02T16:39:35+00:00",
+          "publicado_en": "2026-11-03T14:30:13+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Mbappé y el costo de perder el mercado chino: ¿qué está en juego y cómo se puede revertir la crisis? Esto dicen los expertos",
-          "url": "https://elcomercio.pe/economia/mbappe-y-el-costo-de-perder-el-mercado-chino-que-esta-en-juego-y-como-se-puede-revertir-la-crisis-esto-dicen-los-expertos-noticia/",
+          "titulo": "Suspensión perfecta de labores por El Niño: ¿qué condiciones deben cumplir las empresas?",
+          "url": "https://elcomercio.pe/economia/peru/suspension-perfecta-de-labores-por-el-nino-que-condiciones-deben-cumplir-las-empresas-apuesplan-noticia/",
           "fuente": "El Comercio Perú",
-          "publicado_en": "2026-11-02T16:39:33+00:00",
-          "resumen": ""
-        },
-        {
-          "titulo": "Qué es el calentamiento súbito estratosférico",
-          "url": "https://elcomercio.pe/respuestas/que/que-es-el-calentamiento-subito-estratosferico-tdpe-noticia/",
-          "fuente": "El Comercio Perú",
-          "publicado_en": "2026-11-02T16:37:17+00:00",
-          "resumen": ""
-        },
-        {
-          "titulo": "Refinería Talara: se paraliza operaciones por interrupción del suministro eléctrico en el norte del Perú",
-          "url": "https://elcomercio.pe/economia/peru/refineria-talara-se-paraliza-operaciones-por-interrupcion-del-suministro-electrico-en-el-norte-del-peru-l-ultimas-noticia/",
-          "fuente": "El Comercio Perú",
-          "publicado_en": "2026-11-02T16:34:19+00:00",
-          "resumen": ""
-        },
-        {
-          "titulo": "Morgan Housel, experto en finanzas: “Gastar dinero para mostrarle a la gente cuánto dinero tienes es la forma más rápida de tener menos dinero”",
-          "url": "https://elcomercio.pe/mag/respuestas/morgan-housel-experto-en-finanzas-gastar-dinero-para-mostrarle-a-la-gente-cuanto-tienes-es-la-forma-mas-rapida-de-tener-menos-nnda-nnrt-noticia/",
-          "fuente": "El Comercio Perú",
-          "publicado_en": "2026-11-02T16:33:25+00:00",
-          "resumen": ""
-        },
-        {
-          "titulo": "Fernando Vivanco, VP de Nuevos Negocios del Grupo Coril: “Alfin Banco pasará a ser la unidad más importante de Grupo Coril”",
-          "url": "https://elcomercio.pe/economia/dia-1/fernando-vivanco-alfin-banco-pasara-a-ser-la-unidad-mas-importante-de-grupo-coril-noticia/",
-          "fuente": "El Comercio Perú",
-          "publicado_en": "2026-11-02T16:32:32+00:00",
+          "publicado_en": "2026-11-03T14:29:19+00:00",
           "resumen": ""
         }
       ]
