@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "fecha": "2026-11-03",
-  "actualizado_en": "2026-11-03T15:45:16+01:00",
+  "fecha": "2026-11-04",
+  "actualizado_en": "2026-11-04T15:57:54+01:00",
   "descripcion": "Agregación automática de titulares RSS. No constituye edición periodística verificada.",
   "fuentes_con_errores": [],
   "secciones": [
@@ -9,6 +9,20 @@
       "id": "tecnologia",
       "titulo": "Tecnología, IA y eCommerce",
       "noticias": [
+        {
+          "titulo": "El Gobierno francés admite que varios bancos de sangre también han sido objetivo de ciberataques",
+          "url": "https://elpais.com/tecnologia/2026-11-04/el-gobierno-frances-admite-que-varios-bancos-de-sangre-tambien-han-sido-objetivo-de-ciberataques.html",
+          "fuente": "EL PAÍS · Tecnología",
+          "publicado_en": "2026-11-04T13:04:44+00:00",
+          "resumen": ""
+        },
+        {
+          "titulo": "Una red que garantiza buena salud",
+          "url": "https://elpais.com/tecnologia/branded/la-red-que-lo-hace-posible/2026-11-03/una-red-que-garantiza-buena-salud.html",
+          "fuente": "EL PAÍS · Tecnología",
+          "publicado_en": "2026-11-03T11:28:38+00:00",
+          "resumen": ""
+        },
         {
           "titulo": "Por qué la segunda oleada de ‘hackeos’ a las neveras en supermercados avisa de los riesgos que vienen",
           "url": "https://elpais.com/tecnologia/2026-11-03/por-que-la-segunda-oleada-de-hackeos-a-las-neveras-avisa-de-lo-que-viene.html",
@@ -29,13 +43,6 @@
           "fuente": "EL PAÍS · Tecnología",
           "publicado_en": "2026-11-02T04:30:01+00:00",
           "resumen": ""
-        },
-        {
-          "titulo": "Un solo hombre frente a los ciberataques que tumbaron miles de webs: “Hace falta querer hacer algo por los demás”",
-          "url": "https://elpais.com/tecnologia/2026-11-01/un-solo-hombre-frente-a-los-ciberataques-que-tumbaron-miles-de-webs-hace-falta-querer-hacer-algo-por-los-demas.html",
-          "fuente": "EL PAÍS · Tecnología",
-          "publicado_en": "2026-11-01T04:30:00+00:00",
-          "resumen": ""
         }
       ]
     },
@@ -44,73 +51,73 @@
       "titulo": "Empleo, negocios y formación",
       "noticias": [
         {
-          "titulo": "Una batalla detrás de otra: los turbulentos 21 meses de Trump en el cargo",
-          "url": "https://www.expansion.com/economia/financial-times/2026/11/03/batalla-detras-turbulentos-21-meses-trump-cargo.html",
+          "titulo": "Revolut eleva su valoración a 115.000 millones de dólares tras la última ronda",
+          "url": "https://www.expansion.com/empresas/banca/2026/11/04/revolut-eleva-valoracion-115-000-millones-dolares-ultima-ronda.html",
           "fuente": "Expansión",
-          "publicado_en": "2026-11-03T14:15:06+00:00",
+          "publicado_en": "2026-11-04T14:12:21+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Petronor, Linde y 360 Gases invierten 30 millones en una nueva empresa industrial",
-          "url": "https://www.expansion.com/pais-vasco/2026/11/03/petronor-linde-360-gases-invierten-30-millones-nueva-empresa-industrial.html",
+          "titulo": "Botín invierte otros dos millones de euros en acciones de Santander y supera los 50 millones en su presidencia",
+          "url": "https://www.expansion.com/empresas/banca/2026/11/04/botin-invierte-otros-dos-millones-euros-acciones-santander-supera-50-millones-presidencia.html",
           "fuente": "Expansión",
-          "publicado_en": "2026-11-03T12:50:27+00:00",
+          "publicado_en": "2026-11-04T13:53:14+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Tata e Iveco crean un gigante mundial de vehículos industriales con 21.000 millones en ingresos",
-          "url": "https://www.expansion.com/empresas/motor/2026/11/03/tata-e-iveco-crean-gigante-mundial-vehiculos-industriales-21-000-millones-ingresos.html",
+          "titulo": "Cinco conclusiones de las elecciones de medio mandato",
+          "url": "https://www.expansion.com/economia/financial-times/2026/11/04/cinco-conclusiones-elecciones-medio-mandato.html",
           "fuente": "Expansión",
-          "publicado_en": "2026-11-03T12:27:14+00:00",
+          "publicado_en": "2026-11-04T13:43:22+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Botín pide liberar los colchones de capital bancario para crecer más",
-          "url": "https://www.expansion.com/empresas/banca/2026/11/03/botin-pide-liberar-colchones-capital-bancario-crecer.html",
+          "titulo": "El ‘efecto OCDE’ golpea las cuentas de Apple: su tasa impositiva efectiva escala al 17%",
+          "url": "https://www.expansion.com/fiscal/2026/11/04/efecto-ocde-golpea-cuentas-apple-tasa-impositiva-efectiva-escala-17.html",
           "fuente": "Expansión",
-          "publicado_en": "2026-11-03T12:20:45+00:00",
+          "publicado_en": "2026-11-04T13:12:07+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Pinchazo en la Cumbre Iberoamericana: Lula y Sheinbaum dejan solo a Sánchez",
-          "url": "https://www.expansion.com/economia/2026/11/03/pinchazo-cumbre-iberoamericana-lula-shainbaum-dejan-sanchez.html",
+          "titulo": "Airbus modernizará y mantendrá los aviones C295 y A330 MRTT del Ejército por 1.400 millones",
+          "url": "https://www.expansion.com/empresas/2026/11/04/airbus-modernizara-mantendra-aviones-c295-a330-mrtt-ejercito-1-400-millones.html",
           "fuente": "Expansión",
-          "publicado_en": "2026-11-03T12:13:56+00:00",
+          "publicado_en": "2026-11-04T13:07:15+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Así será la subida de las pensiones en 2027 tras conocerse el IPC de octubre",
-          "url": "https://www.expansion.com/economia/2026/11/03/asi-sera-subida-pensiones-2027-conocerse-ipc-octubre.html",
+          "titulo": "Rafa Nadal, a un paso de entrar en la Junta Directiva del Real Madrid",
+          "url": "https://www.expansion.com/deporte-negocio/2026/11/04/rafa-nadal-paso-entrar-junta-directiva-real-madrid.html",
           "fuente": "Expansión",
-          "publicado_en": "2026-11-03T12:01:21+00:00",
+          "publicado_en": "2026-11-04T12:54:27+00:00",
           "resumen": ""
         },
         {
-          "titulo": "El Ejecutivo reducirá las frecuencias en la línea Madrid-Sevilla hasta que se cambie el sistema de seguridad",
-          "url": "https://www.expansion.com/economia/2026/11/03/gobierno-reducira-frecuencias-linea-madrid-sevilla-cambie-sistema-seguridad.html",
+          "titulo": "Hacienda cobra este jueves 5 de noviembre el segundo pago de IRPF si la declaración de la Renta le salió a ingresar",
+          "url": "https://www.expansion.com/economia/declaracion-renta/2026/11/04/hacienda-cobra-jueves-5-noviembre-segundo-pago-irpf-declaracion-renta-le-salio-ingresar.html",
           "fuente": "Expansión",
-          "publicado_en": "2026-11-03T12:00:02+00:00",
+          "publicado_en": "2026-11-04T12:35:54+00:00",
           "resumen": ""
         },
         {
-          "titulo": "El proveedor de chicles de Mercadona dispara un 30% su beneficio",
-          "url": "https://www.expansion.com/empresas/distribucion/2026/11/03/proveedor-chicles-mercadona-dispara-30-beneficio.html",
+          "titulo": "Huertas propone crear un consorcio de seguros en Latinoamérica para catástrofes naturales",
+          "url": "https://www.expansion.com/empresas/2026/11/04/huertas-propone-crear-consorcio-seguros-latinoamerica-catastrofes-naturales.html",
           "fuente": "Expansión",
-          "publicado_en": "2026-11-03T11:40:59+00:00",
+          "publicado_en": "2026-11-04T12:12:29+00:00",
           "resumen": ""
         },
         {
-          "titulo": "El Gobierno aprueba las indemnizaciones por Urda: hasta 216.000 euros por fallecido e incapacidad temporal \"mejorada\"",
-          "url": "https://www.expansion.com/economia/2026/11/03/gobierno-aprueba-indemnizaciones-afectados-urda-216-000-euros-fallecido-e-incapacidad-temporal-mejorada.html",
-          "fuente": "Expansión",
-          "publicado_en": "2026-11-03T11:36:56+00:00",
+          "titulo": "La Airef empeora su previsión de déficit y lo sitúa en el 2,8% del PIB este año",
+          "url": "https://elpais.com/economia/2026-11-04/la-airef-empeora-su-prevision-de-deficit-y-lo-situa-en-el-28-del-pib-este-ano.html",
+          "fuente": "EL PAÍS · Economía",
+          "publicado_en": "2026-11-04T11:58:56+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Alivio petrolero previo a las elecciones en Estados Unidos",
-          "url": "https://www.expansion.com/opinion/2026/11/03/alivio-petrolero-previo-elecciones-estados-unidos.html",
-          "fuente": "Expansión",
-          "publicado_en": "2026-11-03T11:29:10+00:00",
+          "titulo": "El banco de desarrollo CAF estrena sede en Madrid para movilizar más recursos en proyectos para América Latina",
+          "url": "https://elpais.com/economia/2026-11-04/el-banco-de-desarrollo-caf-estrena-sede-en-madrid-para-movilizar-mas-recursos-en-proyectos-para-america-latina.html",
+          "fuente": "EL PAÍS · Economía",
+          "publicado_en": "2026-11-04T11:52:42+00:00",
           "resumen": ""
         }
       ]
@@ -120,73 +127,73 @@
       "titulo": "España y Andalucía",
       "noticias": [
         {
-          "titulo": "El Supremo confirma los 39.000 euros de costas impuestas al exfiscal general por los honorarios de defensa de la pareja de Ayuso",
-          "url": "https://elpais.com/espana/2026-11-03/el-supremo-confirma-los-39000-euros-de-costas-impuestas-al-exfiscal-general-por-los-honorarios-de-defensa-de-la-pareja-de-ayuso.html",
+          "titulo": "El TSJ-CV confirma una sanción de 25.000 euros a una empresa de catering por obligar a sus empleadas a llevar una cofia",
+          "url": "https://www.eldiario.es/comunitat-valenciana/tsj-cv-confirma-sancion-25-000-euros-empresa-catering-obligar-empleadas-llevar-cofia_1_13638086.html",
+          "fuente": "ElDiario.es",
+          "publicado_en": "2026-11-04T14:10:07+00:00",
+          "resumen": ""
+        },
+        {
+          "titulo": "El ciberataque a los supermercados afectó también al banco nacional de sangre francés",
+          "url": "https://www.eldiario.es/tecnologia/ciberataque-frigorificos-forzo-evacuacion-emergencia-banco-sangre-frances_1_13637984.html",
+          "fuente": "ElDiario.es",
+          "publicado_en": "2026-11-04T14:07:43+00:00",
+          "resumen": ""
+        },
+        {
+          "titulo": "Ignacio González proclama su inocencia en su primer juicio en la Audiencia Nacional: “Jamás he pedido nada en favor de nadie”",
+          "url": "https://elpais.com/espana/2026-11-04/ignacio-gonzalez-proclama-su-inocencia-en-su-primer-juicio-en-la-audiencia-nacional-jamas-he-pedido-nada-en-favor-de-nadie.html",
           "fuente": "EL PAÍS · España",
-          "publicado_en": "2026-11-03T14:39:14+00:00",
+          "publicado_en": "2026-11-04T14:04:05+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Construido en 1240, este castillo alberga 40 casas palaciegas y uno los teatros barrocos mejor conservados de Europa",
-          "url": "https://www.eldiario.es/spin/construido-1240-castillo-alberga-40-casas-palaciegas-teatros-barrocos-mejor-conservados-europa-pm_1_13634099.html",
+          "titulo": "Los primeros humanos requirieron algo más que acceso a agua para asentarse en los desiertos de la antigua Arabia",
+          "url": "https://www.eldiario.es/spin/primeros-humanos-requirieron-acceso-agua-asentarse-desiertos-antigua-arabia-pm_1_13637952.html",
           "fuente": "ElDiario.es",
-          "publicado_en": "2026-11-03T14:30:14+00:00",
+          "publicado_en": "2026-11-04T14:01:50+00:00",
           "resumen": ""
         },
         {
-          "titulo": "La Junta de Castilla y León ofrece el 9 de enero para la obra de Lorca suspendida en Valladolid",
-          "url": "https://www.eldiario.es/castilla-y-leon/cultura/junta-castilla-leon-ofrece-9-enero-obra-lorca-suspendida-valladolid_1_13634534.html",
+          "titulo": "Las Corts Valencianes llevan casi dos meses sin entregar a la jueza de las VPO de Alicante una grabación oficial",
+          "url": "https://www.eldiario.es/comunitat-valenciana/corts-valencianes-llevan-meses-entregar-jueza-vpo-alicante-grabacion-oficial_1_13637998.html",
           "fuente": "ElDiario.es",
-          "publicado_en": "2026-11-03T14:12:40+00:00",
+          "publicado_en": "2026-11-04T14:01:31+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Sobrevivieron a un naufragio en el fin del mundo y su puede haber aparecido dos siglos después",
-          "url": "https://www.eldiario.es/spin/sobrevivieron-naufragio-mundo-campamento-acaba-aparecer-siglos-despues-pm_1_13631917.html",
+          "titulo": "Gabriel Rufián afirma que la reforma laboral \"fue buena\" pese a que votó en contra de su aprobación",
+          "url": "https://www.eldiario.es/politica/gabriel-rufian-afirma-reforma-laboral-buena-pese-voto-aprobacion_1_13637865.html",
           "fuente": "ElDiario.es",
-          "publicado_en": "2026-11-03T14:00:54+00:00",
+          "publicado_en": "2026-11-04T14:00:36+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Llarena cierra la instrucción contra Puigdemont, Comín y Puig y envía el caso a la Sala Penal para que aplique la amnistía",
-          "url": "https://elpais.com/espana/elecciones-generales/2026-11-03/llarena-cierra-el-sumario-contra-puigdemont-comin-y-puig-y-lo-envia-a-la-sala-penal-para-que-aplique-la-amnistia.html",
+          "titulo": "El Supremo rechaza imputar a Pedro Sánchez por la crisis de Ceuta a petición de Vox y Manos Limpias",
+          "url": "https://www.eldiario.es/politica/supremo-rechaza-imputar-pedro-sanchez-crisis-ceuta-peticion-vox-manos-limpias_1_13637976.html",
+          "fuente": "ElDiario.es",
+          "publicado_en": "2026-11-04T13:55:58+00:00",
+          "resumen": ""
+        },
+        {
+          "titulo": "El alcalde de Salamanca del PP alude a Pedro Sánchez como un \"cáncer\" que \"sigue ahí\" tras la dimisión de Puente",
+          "url": "https://www.eldiario.es/castilla-y-leon/politica/alcalde-salamanca-pp-alude-pedro-sanchez-cancer-sigue-dimision-puente_1_13637970.html",
+          "fuente": "ElDiario.es",
+          "publicado_en": "2026-11-04T13:51:53+00:00",
+          "resumen": ""
+        },
+        {
+          "titulo": "Cristina Fernández Cubas, Premio Cervantes 2026: “Los cuentos son como un amante infiel, si no les haces caso, se van con otra”",
+          "url": "https://www.eldiario.es/cultura/cristina-fernandez-cubas-premio-cervantes-2026-cuentos-son-amante-infiel-si-no-les-caso_1_13637909.html",
+          "fuente": "ElDiario.es",
+          "publicado_en": "2026-11-04T13:49:12+00:00",
+          "resumen": ""
+        },
+        {
+          "titulo": "¿Qué diferencia un lance del juego de un delito? El improbable recorrido penal de la patada que le ha costado la vida a Jesús de Miguel",
+          "url": "https://elpais.com/espana/2026-11-04/que-diferencia-un-lance-del-juego-de-un-delito-el-improbable-recorrido-penal-de-la-patada-que-le-ha-costado-la-vida-a-jesus-de-miguel.html",
           "fuente": "EL PAÍS · España",
-          "publicado_en": "2026-11-03T13:55:47+00:00",
-          "resumen": ""
-        },
-        {
-          "titulo": "El juez del caso Plus Ultra pide a la Policía que identifique al autor del punzón de las joyas de Zapatero",
-          "url": "https://www.eldiario.es/politica/juez-caso-plus-ultra-pide-policia-identifique-autor-punzon-joyas-zapatero_1_13634445.html",
-          "fuente": "ElDiario.es",
-          "publicado_en": "2026-11-03T13:53:48+00:00",
-          "resumen": ""
-        },
-        {
-          "titulo": "Las ausencias de Lula y Sheinbaum dejan solo a Sánchez frente a Milei en la Cumbre Iberoamericana de Madrid",
-          "url": "https://elpais.com/espana/2026-11-03/las-ausencias-de-lula-y-sheinbaum-dejan-solo-a-sanchez-frente-a-milei-en-la-cumbre-iberoamericana-de-madrid.html",
-          "fuente": "EL PAÍS · España",
-          "publicado_en": "2026-11-03T13:51:56+00:00",
-          "resumen": ""
-        },
-        {
-          "titulo": "Miguel Tellado, 'número dos' del PP, pide el voto para Vox en tres provincias el 29N: \"Por supuesto que sí\"",
-          "url": "https://www.eldiario.es/politica/miguel-tellado-numero-pp-pide-voto-vox-tres-provincias-29n-supuesto-si_1_13634268.html",
-          "fuente": "ElDiario.es",
-          "publicado_en": "2026-11-03T13:49:02+00:00",
-          "resumen": ""
-        },
-        {
-          "titulo": "Jack Grealish, apartado del Everton tras dos noches seguidas de fiesta, alcohol y karaoke",
-          "url": "https://www.eldiario.es/spin/deportes/jack-grealish-apartado-everton-noches-seguidas-fiesta-alcohol-karaoke-pm_1_13633904.html",
-          "fuente": "ElDiario.es",
-          "publicado_en": "2026-11-03T13:45:45+00:00",
-          "resumen": ""
-        },
-        {
-          "titulo": "La Fiscalía ve “muy difícil” un proceso penal sobre la muerte de De Miguel",
-          "url": "https://www.eldiario.es/canariasahora/Deportes/futbol/fiscalia-ve-dificil-proceso-muerte-miguel_1_13634415.html",
-          "fuente": "ElDiario.es",
-          "publicado_en": "2026-11-03T13:44:48+00:00",
+          "publicado_en": "2026-11-04T13:46:23+00:00",
           "resumen": ""
         }
       ]
@@ -196,73 +203,73 @@
       "titulo": "Perú",
       "noticias": [
         {
-          "titulo": "Keiko Fujimori destaca “mensaje de unidad y esfuerzo conjunto” entre sector público y privado tras destrabe de Torre Trecca",
-          "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-destaca-mensaje-de-unidad-y-esfuerzo-conjunto-entre-sector-publico-y-privado-tras-destrabe-de-torre-trecca-ultimas-noticia/",
+          "titulo": "Tabla del acumulado y Clausura 2026 (Liga 1), EN VIVO: resultados, partidos de hoy más",
+          "url": "https://elcomercio.pe/deporte-total/futbol-peruano/ver-tabla-acumulada-y-torneo-clausura-2026-liga-1-en-vivo-resultados-partidos-de-alianza-lima-universitario-sporting-cristal-y-mas-via-liga-1-max-video-tdpe-noticia/",
           "fuente": "El Comercio Perú",
-          "publicado_en": "2026-11-03T14:37:53+00:00",
+          "publicado_en": "2026-11-04T14:54:17+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Jorge Fossati (73 años): “De los títulos más importantes que tengo, es que cuando me cruce con alguien que dirigí, venga y me abrace. Significa que no le fallé como persona”",
-          "url": "https://elcomercio.pe/respuestas/que/jorge-fossati-73-anos-de-los-titulos-mas-importantes-que-tengo-es-que-cuando-me-cruce-con-alguien-que-dirigi-venga-y-me-abrace-significa-que-no-le-falle-como-persona-tdpe-noticia/",
+          "titulo": "Erich Fromm, psicoanalista, sobre la sociedad: “La tarea psíquica que una persona puede y debe establecer para sí misma no es sentirse segura, sino ser capaz de tolerar la inseguridad”",
+          "url": "https://elcomercio.pe/mag/respuestas/erich-fromm-psicoanalista-sobre-la-sociedad-la-tarea-psiquica-que-una-persona-puede-y-debe-establecer-para-si-misma-no-es-sentirse-segura-sino-ser-capaz-de-tolerar-la-inseguridad-nnda-nnni-noticia/",
           "fuente": "El Comercio Perú",
-          "publicado_en": "2026-11-03T14:37:01+00:00",
+          "publicado_en": "2026-11-04T14:53:34+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Papa León XIV en Las Palmas: conoce qué objetos estarán permitidos y cuáles serán restringidos",
-          "url": "https://elcomercio.pe/lima/sucesos/papa-leon-xiv-en-peru-conoce-que-objetos-estaran-permitidos-y-cuales-seran-restringidos-durante-su-visita-en-la-palmas-apuesplan-ultimas-noticia/",
+          "titulo": "Ignacio Buse vs. Daniil Medvédev EN VIVO: ¡‘Nacho’ gana 6-4 el primer set!",
+          "url": "https://elcomercio.pe/deporte-total/tenis/ignacio-buse-vs-daniil-medvedev-en-vivo-hora-y-canales-para-ver-partido-por-masters-1000-de-paris-2026-noticia/",
           "fuente": "El Comercio Perú",
-          "publicado_en": "2026-11-03T14:34:28+00:00",
+          "publicado_en": "2026-11-04T14:50:59+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Yenifer Paredes: Sobrina de Pedro Castillo pide informes a sector Interior y PNP sobre detención de golpista",
-          "url": "https://elcomercio.pe/politica/yenifer-paredes-sobrina-de-pedro-castillo-pide-informes-a-sector-interior-y-pnp-sobre-detencion-de-golpista-noticia/",
+          "titulo": "Keiko Fujimori confirma construcción de dos penales: “En pocos meses estaremos inaugurando”",
+          "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-confirma-construccion-de-dos-penales-en-pocos-meses-estaremos-inaugurando-inpe-minjusdh-ultimas-noticia/",
           "fuente": "El Comercio Perú",
-          "publicado_en": "2026-11-03T14:34:00+00:00",
+          "publicado_en": "2026-11-04T14:50:55+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Adulto mayor consiguió cita en el Hospital II Lima Norte después de tres años",
-          "url": "https://rpp.pe/rotafono/servicios-publicos/adulto-mayor-consiguio-cita-en-otorrinolaringologia-en-el-hospital-ii-lima-norte-despues-de-tres-anos-noticia-1715717",
+          "titulo": "Lluvias en Perú por El Niño en vivo hoy: regiones en alerta, lluvias y pronóstico de Senamhi",
+          "url": "https://elcomercio.pe/peru/lluvias-en-peru-por-el-nino-en-vivo-hoy-regiones-en-alerta-lluvias-y-pronostico-de-senamhi-lbposting-noticia/",
+          "fuente": "El Comercio Perú",
+          "publicado_en": "2026-11-04T14:49:20+00:00",
+          "resumen": ""
+        },
+        {
+          "titulo": "Hoy, Ignacio Buse vs Daniil Medvédev EN VIVO: sigue el partido por la segunda ronda del Masters 1000 de París 2026",
+          "url": "https://rpp.pe/tenis/master-1000/ignacio-buse-vs-daniil-medvedev-en-vivo-a-que-hora-juegan-y-donde-ver-la-segunda-ronda-del-masters-1000-de-paris-2026-via-espn-y-disney-tenis-en-vivo-noticia-1715779",
           "fuente": "RPP",
-          "publicado_en": "2026-11-03T14:33:56+00:00",
+          "publicado_en": "2026-11-04T14:48:01+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Trump anuncia que cortará US$ 4.000 millones en ayuda militar a Israel a final de año: “No lo necesitan”",
-          "url": "https://elcomercio.pe/mundo/eeuu/trump-anuncia-que-cortara-la-ayuda-militar-de-estados-unidos-a-israel-a-finales-de-ano-no-lo-necesitan-noticia/",
+          "titulo": "¿Quién va ganando las elecciones medio término en EE.UU. 2026 EN VIVO hoy 3 de noviembre? Resultados en directo",
+          "url": "https://elcomercio.pe/mag/usa/en-vivo-us/quien-va-ganando-las-elecciones-medio-termino-en-eeuu-2026-en-vivo-hoy-3-de-noviembre-resultados-en-directo-estados-unidos-texas-michigan-nnda-nnrt-noticia/",
           "fuente": "El Comercio Perú",
-          "publicado_en": "2026-11-03T14:33:23+00:00",
+          "publicado_en": "2026-11-04T14:46:41+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Del cansancio al miedo a envejecer: por qué los millennials están llenando su rutina de vitaminas y suplementos, ¿cuánto están dispuestos a gastar?",
-          "url": "https://elcomercio.pe/economia/dia-1/del-cansancio-al-miedo-a-envejecer-por-que-los-millennials-estan-llenando-su-rutina-de-vitaminas-y-suplementos-cuanto-estan-dispuestos-a-gastar-noticia/",
-          "fuente": "El Comercio Perú",
-          "publicado_en": "2026-11-03T14:33:13+00:00",
+          "titulo": "El verano que se nos viene: sensación térmica en Lima podría alcanzar los 38 °C, según jefa del Senamhi",
+          "url": "https://rpp.pe/lima/actualidad/senamhi-sensacion-termica-en-lima-podria-alcanzar-los-38-0c-durante-el-verano-noticia-1715881",
+          "fuente": "RPP",
+          "publicado_en": "2026-11-04T14:46:29+00:00",
           "resumen": ""
         },
         {
-          "titulo": "“No hay palabras”: El conmovedor mensaje de Lionel Messi tras la muerte de Jesús de Miguel",
-          "url": "https://elcomercio.pe/deporte-total/futbol-mundial/lionel-messi-y-el-conmovedor-mensaje-tras-la-muerte-de-jesus-de-miguel-no-hay-palabras-cd-tenerife-noticia/",
-          "fuente": "El Comercio Perú",
-          "publicado_en": "2026-11-03T14:30:47+00:00",
+          "titulo": "Muere a los 93 años Tinto Brass, director de 'Calígula' y referente del cine erótico italiano",
+          "url": "https://rpp.pe/famosos/celebridades/muere-a-los-93-anos-tinto-brass-director-de-caligula-y-referente-del-cine-erotico-italiano-noticia-1715877",
+          "fuente": "RPP",
+          "publicado_en": "2026-11-04T14:45:01+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Quién es Jesús Owono, el portero que chocó con De Miguel en el Tenerife-Andorra",
-          "url": "https://elcomercio.pe/deporte-total/futbol-mundial/quien-es-jesus-owono-el-portero-que-choco-con-jesus-de-miguel-en-el-tenerife-andorra-ultimas-noticia/",
+          "titulo": "Vía Liga 1 MAX por internet: cómo ver, Universitario vs. Sport Boys por el Torneo Clausura de Liga 1",
+          "url": "https://elcomercio.pe/deporte-total/futbol-peruano/video-liga-1-max-en-vivo-gratis-universitario-vs-boys-por-internet-via-futbol-libre-tv-liga-1-play-dgo-por-torneo-clausura-de-liga-1-noticia/",
           "fuente": "El Comercio Perú",
-          "publicado_en": "2026-11-03T14:30:13+00:00",
-          "resumen": ""
-        },
-        {
-          "titulo": "Suspensión perfecta de labores por El Niño: ¿qué condiciones deben cumplir las empresas?",
-          "url": "https://elcomercio.pe/economia/peru/suspension-perfecta-de-labores-por-el-nino-que-condiciones-deben-cumplir-las-empresas-apuesplan-noticia/",
-          "fuente": "El Comercio Perú",
-          "publicado_en": "2026-11-03T14:29:19+00:00",
+          "publicado_en": "2026-11-04T14:43:25+00:00",
           "resumen": ""
         }
       ]
