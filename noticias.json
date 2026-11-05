@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "fecha": "2026-11-04",
-  "actualizado_en": "2026-11-04T15:57:54+01:00",
+  "fecha": "2026-11-05",
+  "actualizado_en": "2026-11-05T16:02:54+01:00",
   "descripcion": "Agregación automática de titulares RSS. No constituye edición periodística verificada.",
   "fuentes_con_errores": [],
   "secciones": [
@@ -29,20 +29,6 @@
           "fuente": "EL PAÍS · Tecnología",
           "publicado_en": "2026-11-03T04:30:01+00:00",
           "resumen": ""
-        },
-        {
-          "titulo": "Un ciberataque causa pérdidas millonarias en decenas de supermercados europeos tras disparar la temperatura de las neveras",
-          "url": "https://elpais.com/tecnologia/2026-11-02/un-ciberataque-causa-perdidas-millonarias-en-decenas-de-supermercados-en-belgica-y-suecia.html",
-          "fuente": "EL PAÍS · Tecnología",
-          "publicado_en": "2026-11-02T10:31:15+00:00",
-          "resumen": ""
-        },
-        {
-          "titulo": "“Hay que cambiar el producto, no a los niños”: la izquierda europea plantea otra forma de regular las redes",
-          "url": "https://elpais.com/tecnologia/2026-11-02/hay-que-cambiar-el-producto-no-a-los-ninos-la-izquierda-europea-plantea-otra-forma-de-regular-las-redes.html",
-          "fuente": "EL PAÍS · Tecnología",
-          "publicado_en": "2026-11-02T04:30:01+00:00",
-          "resumen": ""
         }
       ]
     },
@@ -51,73 +37,73 @@
       "titulo": "Empleo, negocios y formación",
       "noticias": [
         {
-          "titulo": "Revolut eleva su valoración a 115.000 millones de dólares tras la última ronda",
-          "url": "https://www.expansion.com/empresas/banca/2026/11/04/revolut-eleva-valoracion-115-000-millones-dolares-ultima-ronda.html",
-          "fuente": "Expansión",
-          "publicado_en": "2026-11-04T14:12:21+00:00",
-          "resumen": ""
-        },
-        {
-          "titulo": "Botín invierte otros dos millones de euros en acciones de Santander y supera los 50 millones en su presidencia",
-          "url": "https://www.expansion.com/empresas/banca/2026/11/04/botin-invierte-otros-dos-millones-euros-acciones-santander-supera-50-millones-presidencia.html",
-          "fuente": "Expansión",
-          "publicado_en": "2026-11-04T13:53:14+00:00",
-          "resumen": ""
-        },
-        {
-          "titulo": "Cinco conclusiones de las elecciones de medio mandato",
-          "url": "https://www.expansion.com/economia/financial-times/2026/11/04/cinco-conclusiones-elecciones-medio-mandato.html",
-          "fuente": "Expansión",
-          "publicado_en": "2026-11-04T13:43:22+00:00",
-          "resumen": ""
-        },
-        {
-          "titulo": "El ‘efecto OCDE’ golpea las cuentas de Apple: su tasa impositiva efectiva escala al 17%",
-          "url": "https://www.expansion.com/fiscal/2026/11/04/efecto-ocde-golpea-cuentas-apple-tasa-impositiva-efectiva-escala-17.html",
-          "fuente": "Expansión",
-          "publicado_en": "2026-11-04T13:12:07+00:00",
-          "resumen": ""
-        },
-        {
-          "titulo": "Airbus modernizará y mantendrá los aviones C295 y A330 MRTT del Ejército por 1.400 millones",
-          "url": "https://www.expansion.com/empresas/2026/11/04/airbus-modernizara-mantendra-aviones-c295-a330-mrtt-ejercito-1-400-millones.html",
-          "fuente": "Expansión",
-          "publicado_en": "2026-11-04T13:07:15+00:00",
-          "resumen": ""
-        },
-        {
-          "titulo": "Rafa Nadal, a un paso de entrar en la Junta Directiva del Real Madrid",
-          "url": "https://www.expansion.com/deporte-negocio/2026/11/04/rafa-nadal-paso-entrar-junta-directiva-real-madrid.html",
-          "fuente": "Expansión",
-          "publicado_en": "2026-11-04T12:54:27+00:00",
-          "resumen": ""
-        },
-        {
-          "titulo": "Hacienda cobra este jueves 5 de noviembre el segundo pago de IRPF si la declaración de la Renta le salió a ingresar",
-          "url": "https://www.expansion.com/economia/declaracion-renta/2026/11/04/hacienda-cobra-jueves-5-noviembre-segundo-pago-irpf-declaracion-renta-le-salio-ingresar.html",
-          "fuente": "Expansión",
-          "publicado_en": "2026-11-04T12:35:54+00:00",
-          "resumen": ""
-        },
-        {
-          "titulo": "Huertas propone crear un consorcio de seguros en Latinoamérica para catástrofes naturales",
-          "url": "https://www.expansion.com/empresas/2026/11/04/huertas-propone-crear-consorcio-seguros-latinoamerica-catastrofes-naturales.html",
-          "fuente": "Expansión",
-          "publicado_en": "2026-11-04T12:12:29+00:00",
-          "resumen": ""
-        },
-        {
-          "titulo": "La Airef empeora su previsión de déficit y lo sitúa en el 2,8% del PIB este año",
-          "url": "https://elpais.com/economia/2026-11-04/la-airef-empeora-su-prevision-de-deficit-y-lo-situa-en-el-28-del-pib-este-ano.html",
+          "titulo": "El PP vincula el accidente de Urda y la crisis de vivienda con la falta de inversión del Gobierno",
+          "url": "https://elpais.com/economia/2026-11-05/el-pp-vincula-el-accidente-de-urda-y-la-crisis-de-vivienda-con-la-falta-de-inversion-del-gobierno.html",
           "fuente": "EL PAÍS · Economía",
-          "publicado_en": "2026-11-04T11:58:56+00:00",
+          "publicado_en": "2026-11-05T14:40:51+00:00",
           "resumen": ""
         },
         {
-          "titulo": "El banco de desarrollo CAF estrena sede en Madrid para movilizar más recursos en proyectos para América Latina",
-          "url": "https://elpais.com/economia/2026-11-04/el-banco-de-desarrollo-caf-estrena-sede-en-madrid-para-movilizar-mas-recursos-en-proyectos-para-america-latina.html",
+          "titulo": "Telefónica dejará de prestar el servicio universal de telecomunicaciones el 1 de enero de 2027",
+          "url": "https://cincodias.elpais.com/companias/2026-11-05/telefonica-dejara-de-prestar-el-servicio-universal-de-telecomunicaciones-el-1-de-enero-de-2027.html",
           "fuente": "EL PAÍS · Economía",
-          "publicado_en": "2026-11-04T11:52:42+00:00",
+          "publicado_en": "2026-11-05T14:40:21+00:00",
+          "resumen": ""
+        },
+        {
+          "titulo": "El Banco de Inglaterra sube los tipos de interés por primera vez en tres años hasta alcanzar el 4%",
+          "url": "https://elpais.com/economia/2026-11-05/el-banco-de-inglaterra-sube-los-tipos-de-interes-por-primera-vez-en-tres-anos-hasta-alcanzar-el-4.html",
+          "fuente": "EL PAÍS · Economía",
+          "publicado_en": "2026-11-05T13:08:24+00:00",
+          "resumen": ""
+        },
+        {
+          "titulo": "Las empresas reclaman dejar de pagar las bajas laborales y dar el control a las mutuas para frenar el absentismo",
+          "url": "https://elpais.com/economia/2026-11-05/las-empresas-reclaman-dejar-de-pagar-las-bajas-laborales-y-dar-el-control-a-las-mutuas-para-frenar-el-absentismo.html",
+          "fuente": "EL PAÍS · Economía",
+          "publicado_en": "2026-11-05T12:30:06+00:00",
+          "resumen": ""
+        },
+        {
+          "titulo": "Competencia propone convertir en urbanizable todo el suelo no protegido para acelerar la construcción de vivienda",
+          "url": "https://elpais.com/economia/vivienda/2026-11-05/competencia-propone-convertir-en-urbanizable-todo-el-suelo-no-protegido-para-acelerar-la-construccion-de-vivienda.html",
+          "fuente": "EL PAÍS · Economía",
+          "publicado_en": "2026-11-05T12:25:13+00:00",
+          "resumen": ""
+        },
+        {
+          "titulo": "El Ministerio de Transportes solo recibe el 2% de las modificaciones presupuestarias del Gobierno",
+          "url": "https://elpais.com/economia/2026-11-05/el-ministerio-de-transportes-solo-recibe-el-2-de-las-modificaciones-presupuestarias-del-gobierno.html",
+          "fuente": "EL PAÍS · Economía",
+          "publicado_en": "2026-11-05T08:20:41+00:00",
+          "resumen": ""
+        },
+        {
+          "titulo": "Dcoop y Acesur se imponen en la puja por Deoleo por 520 millones para crear un gigante aceitero español",
+          "url": "https://cincodias.elpais.com/companias/2026-11-05/dcoop-y-acesur-se-imponen-en-la-puja-por-deoleo-por-520-millones-para-crear-un-gigante-aceitero-espanol.html",
+          "fuente": "EL PAÍS · Economía",
+          "publicado_en": "2026-11-05T07:10:54+00:00",
+          "resumen": ""
+        },
+        {
+          "titulo": "El salario mínimo subirá un 5,3% en 2027, hasta 1.286 euros al mes",
+          "url": "https://elpais.com/economia/2026-11-05/el-salario-minimo-subira-un-53-en-2027-hasta-1286-euros-al-mes.html",
+          "fuente": "EL PAÍS · Economía",
+          "publicado_en": "2026-11-05T06:49:00+00:00",
+          "resumen": ""
+        },
+        {
+          "titulo": "Marte se ensaya en la Tierra: dos semanas para aprender a vivir en otro planeta",
+          "url": "https://elpais.com/economia/formacion/2026-11-05/marte-se-ensaya-en-la-tierra-dos-semanas-para-aprender-a-vivir-en-otro-planeta.html",
+          "fuente": "EL PAÍS · Economía",
+          "publicado_en": "2026-11-05T06:00:00+00:00",
+          "resumen": ""
+        },
+        {
+          "titulo": "El decreto de vivienda tendrá un coste de unos 1.300 millones anuales hasta 2031",
+          "url": "https://elpais.com/economia/2026-11-05/el-decreto-de-vivienda-tendra-un-coste-de-unos-1300-millones-anuales-hasta-2031.html",
+          "fuente": "EL PAÍS · Economía",
+          "publicado_en": "2026-11-05T04:45:01+00:00",
           "resumen": ""
         }
       ]
@@ -127,73 +113,73 @@
       "titulo": "España y Andalucía",
       "noticias": [
         {
-          "titulo": "El TSJ-CV confirma una sanción de 25.000 euros a una empresa de catering por obligar a sus empleadas a llevar una cofia",
-          "url": "https://www.eldiario.es/comunitat-valenciana/tsj-cv-confirma-sancion-25-000-euros-empresa-catering-obligar-empleadas-llevar-cofia_1_13638086.html",
+          "titulo": "El Real Madrid ata a JJ Gabriel, la joya de la cantera del Manchester United apodada 'Kid Messi'",
+          "url": "https://www.eldiario.es/spin/deportes/real-madrid-ata-jj-gabriel-joya-cantera-manchester-united-apodada-kid-messi-pm_1_13640183.html",
           "fuente": "ElDiario.es",
-          "publicado_en": "2026-11-04T14:10:07+00:00",
+          "publicado_en": "2026-11-05T14:30:00+00:00",
           "resumen": ""
         },
         {
-          "titulo": "El ciberataque a los supermercados afectó también al banco nacional de sangre francés",
-          "url": "https://www.eldiario.es/tecnologia/ciberataque-frigorificos-forzo-evacuacion-emergencia-banco-sangre-frances_1_13637984.html",
+          "titulo": "La Junta Electoral rechaza borrar a Óscar Puente de las papeletas del PSOE en Valladolid",
+          "url": "https://www.eldiario.es/castilla-y-leon/politica/junta-electoral-rechaza-borrar-oscar-puente-papeletas-psoe-valladolid_1_13641444.html",
           "fuente": "ElDiario.es",
-          "publicado_en": "2026-11-04T14:07:43+00:00",
+          "publicado_en": "2026-11-05T14:15:42+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Ignacio González proclama su inocencia en su primer juicio en la Audiencia Nacional: “Jamás he pedido nada en favor de nadie”",
-          "url": "https://elpais.com/espana/2026-11-04/ignacio-gonzalez-proclama-su-inocencia-en-su-primer-juicio-en-la-audiencia-nacional-jamas-he-pedido-nada-en-favor-de-nadie.html",
+          "titulo": "Localizados en Portugal dos de los menores supuestamente vendidos por una trama en Badajoz",
+          "url": "https://elpais.com/espana/2026-11-05/localizados-en-portugal-dos-de-los-menores-supuestamente-vendidos-por-una-trama-en-badajoz.html",
           "fuente": "EL PAÍS · España",
-          "publicado_en": "2026-11-04T14:04:05+00:00",
+          "publicado_en": "2026-11-05T14:01:58+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Los primeros humanos requirieron algo más que acceso a agua para asentarse en los desiertos de la antigua Arabia",
-          "url": "https://www.eldiario.es/spin/primeros-humanos-requirieron-acceso-agua-asentarse-desiertos-antigua-arabia-pm_1_13637952.html",
+          "titulo": "Trump usa Alaska para sembrar dudas sobre las elecciones tras las 'midterms' que han hundido a los republicanos",
+          "url": "https://www.eldiario.es/internacional/trump-alaska-sembrar-dudas-elecciones-midterms-han-hundido-republicanos_1_13641377.html",
           "fuente": "ElDiario.es",
-          "publicado_en": "2026-11-04T14:01:50+00:00",
+          "publicado_en": "2026-11-05T14:00:43+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Las Corts Valencianes llevan casi dos meses sin entregar a la jueza de las VPO de Alicante una grabación oficial",
-          "url": "https://www.eldiario.es/comunitat-valenciana/corts-valencianes-llevan-meses-entregar-jueza-vpo-alicante-grabacion-oficial_1_13637998.html",
+          "titulo": "Una roca extraterrestre rosa hallada en el desierto del Sáhara es uno de los meteoritos más antiguos de Marte",
+          "url": "https://www.eldiario.es/sociedad/roca-extraterrestre-rosa-hallada-desierto-sahara-meteoritos-antiguos-marte_1_13640956.html",
           "fuente": "ElDiario.es",
-          "publicado_en": "2026-11-04T14:01:31+00:00",
+          "publicado_en": "2026-11-05T13:46:38+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Gabriel Rufián afirma que la reforma laboral \"fue buena\" pese a que votó en contra de su aprobación",
-          "url": "https://www.eldiario.es/politica/gabriel-rufian-afirma-reforma-laboral-buena-pese-voto-aprobacion_1_13637865.html",
-          "fuente": "ElDiario.es",
-          "publicado_en": "2026-11-04T14:00:36+00:00",
-          "resumen": ""
-        },
-        {
-          "titulo": "El Supremo rechaza imputar a Pedro Sánchez por la crisis de Ceuta a petición de Vox y Manos Limpias",
-          "url": "https://www.eldiario.es/politica/supremo-rechaza-imputar-pedro-sanchez-crisis-ceuta-peticion-vox-manos-limpias_1_13637976.html",
-          "fuente": "ElDiario.es",
-          "publicado_en": "2026-11-04T13:55:58+00:00",
-          "resumen": ""
-        },
-        {
-          "titulo": "El alcalde de Salamanca del PP alude a Pedro Sánchez como un \"cáncer\" que \"sigue ahí\" tras la dimisión de Puente",
-          "url": "https://www.eldiario.es/castilla-y-leon/politica/alcalde-salamanca-pp-alude-pedro-sanchez-cancer-sigue-dimision-puente_1_13637970.html",
-          "fuente": "ElDiario.es",
-          "publicado_en": "2026-11-04T13:51:53+00:00",
-          "resumen": ""
-        },
-        {
-          "titulo": "Cristina Fernández Cubas, Premio Cervantes 2026: “Los cuentos son como un amante infiel, si no les haces caso, se van con otra”",
-          "url": "https://www.eldiario.es/cultura/cristina-fernandez-cubas-premio-cervantes-2026-cuentos-son-amante-infiel-si-no-les-caso_1_13637909.html",
-          "fuente": "ElDiario.es",
-          "publicado_en": "2026-11-04T13:49:12+00:00",
-          "resumen": ""
-        },
-        {
-          "titulo": "¿Qué diferencia un lance del juego de un delito? El improbable recorrido penal de la patada que le ha costado la vida a Jesús de Miguel",
-          "url": "https://elpais.com/espana/2026-11-04/que-diferencia-un-lance-del-juego-de-un-delito-el-improbable-recorrido-penal-de-la-patada-que-le-ha-costado-la-vida-a-jesus-de-miguel.html",
+          "titulo": "Iberoamérica exhibe sus grietas ideológicas en la cumbre de Madrid",
+          "url": "https://elpais.com/internacional/2026-11-05/iberoamerica-exhibe-sus-grietas-ideologicas-en-la-cumbre-de-madrid.html",
           "fuente": "EL PAÍS · España",
-          "publicado_en": "2026-11-04T13:46:23+00:00",
+          "publicado_en": "2026-11-05T13:40:34+00:00",
+          "resumen": ""
+        },
+        {
+          "titulo": "Ocho trucos para eliminar los pelos de tu perro o tu gato de los tejidos antes y después de la lavadora",
+          "url": "https://www.eldiario.es/consumoclaro/ocho-trucos-eliminar-pelos-perro-gato-tejidos-despues-lavadora_1_13640525.html",
+          "fuente": "ElDiario.es",
+          "publicado_en": "2026-11-05T13:37:09+00:00",
+          "resumen": ""
+        },
+        {
+          "titulo": "Irene Montero, sobre la subida del SMI: “¿Se puede vivir con 1.286 euros?”",
+          "url": "https://elpais.com/espana/elecciones-generales/2026-11-05/irene-montero-sobre-la-subida-del-smi-se-puede-vivir-con-1286-euros.html",
+          "fuente": "EL PAÍS · España",
+          "publicado_en": "2026-11-05T13:36:02+00:00",
+          "resumen": ""
+        },
+        {
+          "titulo": "La policía detiene a un profesor en las protestas docentes en Madrid",
+          "url": "https://www.eldiario.es/sociedad/policia-detiene-profesor-protestas-docentes-madrid_1_13641048.html",
+          "fuente": "ElDiario.es",
+          "publicado_en": "2026-11-05T13:14:10+00:00",
+          "resumen": ""
+        },
+        {
+          "titulo": "Koldo García desde prisión insiste en que el PP le ofreció dinero: \"Yo daré el remate final\"",
+          "url": "https://www.eldiario.es/politica/koldo-garcia-prision-insiste-pp-le-ofrecio-dinero-dare-remate-final_1_13640815.html",
+          "fuente": "ElDiario.es",
+          "publicado_en": "2026-11-05T13:12:21+00:00",
           "resumen": ""
         }
       ]
@@ -203,73 +189,73 @@
       "titulo": "Perú",
       "noticias": [
         {
-          "titulo": "Tabla del acumulado y Clausura 2026 (Liga 1), EN VIVO: resultados, partidos de hoy más",
-          "url": "https://elcomercio.pe/deporte-total/futbol-peruano/ver-tabla-acumulada-y-torneo-clausura-2026-liga-1-en-vivo-resultados-partidos-de-alianza-lima-universitario-sporting-cristal-y-mas-via-liga-1-max-video-tdpe-noticia/",
+          "titulo": "“Los diarios de la boticaria” Temporada 3, Capítulo 6: Hora confirmada de estreno",
+          "url": "https://elcomercio.pe/respuestas/a-que-hora/los-diarios-de-la-boticaria-temporada-3-capitulo-6-hora-confirmada-de-estreno-anime-crunchyroll-tdpe-noticia/",
           "fuente": "El Comercio Perú",
-          "publicado_en": "2026-11-04T14:54:17+00:00",
+          "publicado_en": "2026-11-05T14:55:45+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Erich Fromm, psicoanalista, sobre la sociedad: “La tarea psíquica que una persona puede y debe establecer para sí misma no es sentirse segura, sino ser capaz de tolerar la inseguridad”",
-          "url": "https://elcomercio.pe/mag/respuestas/erich-fromm-psicoanalista-sobre-la-sociedad-la-tarea-psiquica-que-una-persona-puede-y-debe-establecer-para-si-misma-no-es-sentirse-segura-sino-ser-capaz-de-tolerar-la-inseguridad-nnda-nnni-noticia/",
+          "titulo": "¿Puede un refrigerador doméstico ser hackeado como ocurrió en Europa? ¿Cuáles son los riesgos?",
+          "url": "https://elcomercio.pe/tecnologia/ciberseguridad/puede-un-refrigerador-domestico-ser-hackeado-como-ocurrio-en-europa-cuales-son-los-riesgos-internet-de-las-cosas-iot-noticia/",
           "fuente": "El Comercio Perú",
-          "publicado_en": "2026-11-04T14:53:34+00:00",
+          "publicado_en": "2026-11-05T14:55:05+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Ignacio Buse vs. Daniil Medvédev EN VIVO: ¡‘Nacho’ gana 6-4 el primer set!",
-          "url": "https://elcomercio.pe/deporte-total/tenis/ignacio-buse-vs-daniil-medvedev-en-vivo-hora-y-canales-para-ver-partido-por-masters-1000-de-paris-2026-noticia/",
+          "titulo": "Cristiano Ronaldo y sus 10 grandes hitos con Portugal: los momentos que marcaron su historia | FOTOS",
+          "url": "https://elcomercio.pe/deporte-total/futbol-mundial/cristiano-ronaldo-y-sus-10-grandes-hitos-con-la-seleccion-de-portugal-los-momentos-que-marcaron-su-historia-fotos-ultimas-noticia/",
           "fuente": "El Comercio Perú",
-          "publicado_en": "2026-11-04T14:50:59+00:00",
+          "publicado_en": "2026-11-05T14:53:20+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Keiko Fujimori confirma construcción de dos penales: “En pocos meses estaremos inaugurando”",
-          "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-confirma-construccion-de-dos-penales-en-pocos-meses-estaremos-inaugurando-inpe-minjusdh-ultimas-noticia/",
+          "titulo": "¿Apta para niños? Esta es la edad recomendada para ver “Godzilla Minus Zero” y la duración total de la película japonesa",
+          "url": "https://elcomercio.pe/mag/fama/que-ver/godzilla-minus-zero-cuanto-dura-y-cual-es-la-edad-recomendada-para-ver-la-pelicula-japonesa-nnda-nnlt-noticia/",
           "fuente": "El Comercio Perú",
-          "publicado_en": "2026-11-04T14:50:55+00:00",
+          "publicado_en": "2026-11-05T14:53:07+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Lluvias en Perú por El Niño en vivo hoy: regiones en alerta, lluvias y pronóstico de Senamhi",
-          "url": "https://elcomercio.pe/peru/lluvias-en-peru-por-el-nino-en-vivo-hoy-regiones-en-alerta-lluvias-y-pronostico-de-senamhi-lbposting-noticia/",
+          "titulo": "Kate Candela revela su lucha contra la artritis reumatoide: “Me dijeron que quizás a cierta edad ya no pueda caminar”",
+          "url": "https://elcomercio.pe/luces/musica/kate-candela-revela-su-lucha-contra-la-artritis-reumatoide-me-dijeron-que-quizas-a-cierta-edad-ya-no-pueda-caminar-noticia/",
           "fuente": "El Comercio Perú",
-          "publicado_en": "2026-11-04T14:49:20+00:00",
+          "publicado_en": "2026-11-05T14:53:00+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Hoy, Ignacio Buse vs Daniil Medvédev EN VIVO: sigue el partido por la segunda ronda del Masters 1000 de París 2026",
-          "url": "https://rpp.pe/tenis/master-1000/ignacio-buse-vs-daniil-medvedev-en-vivo-a-que-hora-juegan-y-donde-ver-la-segunda-ronda-del-masters-1000-de-paris-2026-via-espn-y-disney-tenis-en-vivo-noticia-1715779",
+          "titulo": "Russell Brand es declarado culpable de violación y agresión sexual",
+          "url": "https://rpp.pe/famosos/celebridades/russell-brand-es-declarado-culpable-de-violacion-y-agresion-sexual-noticia-1716057",
           "fuente": "RPP",
-          "publicado_en": "2026-11-04T14:48:01+00:00",
+          "publicado_en": "2026-11-05T14:52:59+00:00",
           "resumen": ""
         },
         {
-          "titulo": "¿Quién va ganando las elecciones medio término en EE.UU. 2026 EN VIVO hoy 3 de noviembre? Resultados en directo",
-          "url": "https://elcomercio.pe/mag/usa/en-vivo-us/quien-va-ganando-las-elecciones-medio-termino-en-eeuu-2026-en-vivo-hoy-3-de-noviembre-resultados-en-directo-estados-unidos-texas-michigan-nnda-nnrt-noticia/",
-          "fuente": "El Comercio Perú",
-          "publicado_en": "2026-11-04T14:46:41+00:00",
-          "resumen": ""
-        },
-        {
-          "titulo": "El verano que se nos viene: sensación térmica en Lima podría alcanzar los 38 °C, según jefa del Senamhi",
-          "url": "https://rpp.pe/lima/actualidad/senamhi-sensacion-termica-en-lima-podria-alcanzar-los-38-0c-durante-el-verano-noticia-1715881",
+          "titulo": "INPE: trasladan a 30 delincuentes de Los Pulpos, La Jauría y Chicago Bulls a penales de máxima seguridad",
+          "url": "https://rpp.pe/peru/actualidad/gobierno-traslada-a-30-internos-de-alta-peligrosidad-a-penales-de-mayor-seguridad-noticia-1716051",
           "fuente": "RPP",
-          "publicado_en": "2026-11-04T14:46:29+00:00",
+          "publicado_en": "2026-11-05T14:50:25+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Muere a los 93 años Tinto Brass, director de 'Calígula' y referente del cine erótico italiano",
-          "url": "https://rpp.pe/famosos/celebridades/muere-a-los-93-anos-tinto-brass-director-de-caligula-y-referente-del-cine-erotico-italiano-noticia-1715877",
+          "titulo": "Serie A: Venezia busca dejar el fondo de la tabla ante Udinese",
+          "url": "https://rpp.pe/futbol/ligas-internacionales/serie-a-venezia-busca-dejar-el-fondo-de-la-tabla-ante-udinese-noticia-1716065",
           "fuente": "RPP",
-          "publicado_en": "2026-11-04T14:45:01+00:00",
+          "publicado_en": "2026-11-05T14:49:40+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Vía Liga 1 MAX por internet: cómo ver, Universitario vs. Sport Boys por el Torneo Clausura de Liga 1",
-          "url": "https://elcomercio.pe/deporte-total/futbol-peruano/video-liga-1-max-en-vivo-gratis-universitario-vs-boys-por-internet-via-futbol-libre-tv-liga-1-play-dgo-por-torneo-clausura-de-liga-1-noticia/",
+          "titulo": "Liga de Francia: Toulouse y RC Strasbourg se miden por la fecha 10",
+          "url": "https://rpp.pe/futbol/ligas-internacionales/liga-de-francia-toulouse-y-rc-strasbourg-se-miden-por-la-fecha-10-noticia-1716064",
+          "fuente": "RPP",
+          "publicado_en": "2026-11-05T14:49:39+00:00",
+          "resumen": ""
+        },
+        {
+          "titulo": "Juicio político a Santiago Peña en Paraguay EN VIVO: el Congreso debate si admite la acusación por el caso Ueno Bank",
+          "url": "https://elcomercio.pe/mundo/latinoamerica/juicio-politico-a-santiago-pena-por-ueno-bank-en-paraguay-en-vivo-congreso-debate-su-destitucion-por-el-caso-ueno-bank-noticia/",
           "fuente": "El Comercio Perú",
-          "publicado_en": "2026-11-04T14:43:25+00:00",
+          "publicado_en": "2026-11-05T14:48:49+00:00",
           "resumen": ""
         }
       ]
