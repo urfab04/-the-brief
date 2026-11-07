@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "fecha": "2026-11-06",
-  "actualizado_en": "2026-11-06T15:41:59+01:00",
+  "fecha": "2026-11-07",
+  "actualizado_en": "2026-11-07T14:39:29+01:00",
   "descripcion": "Agregación automática de titulares RSS. No constituye edición periodística verificada.",
   "fuentes_con_errores": [],
   "secciones": [
@@ -10,17 +10,24 @@
       "titulo": "Tecnología, IA y eCommerce",
       "noticias": [
         {
+          "titulo": "Llega la primera movilización europea contra los centros de datos: “No queremos ser el patio trasero de nadie”",
+          "url": "https://elpais.com/tecnologia/2026-11-07/llega-la-primera-movilizacion-europea-contra-los-centros-de-datos-no-queremos-ser-el-patio-trasero-de-nadie.html",
+          "fuente": "EL PAÍS · Tecnología",
+          "publicado_en": "2026-11-07T04:30:01+00:00",
+          "resumen": ""
+        },
+        {
+          "titulo": "Un ciberataque expone los datos médicos y financieros de casi un quinto de la población de Moldavia",
+          "url": "https://elpais.com/sociedad/2026-11-06/un-ciberataque-expone-los-datos-medicos-y-financieros-de-casi-un-cuarto-de-la-poblacion-de-moldavia.html",
+          "fuente": "EL PAÍS · Tecnología",
+          "publicado_en": "2026-11-06T14:40:09+00:00",
+          "resumen": ""
+        },
+        {
           "titulo": "IA soberana: la apuesta de las grandes empresas para ocultar sus datos a los tecnoligarcas estadounidenses",
           "url": "https://elpais.com/tecnologia/2026-11-06/ia-soberana-la-apuesta-de-las-grandes-empresas-para-ocultar-sus-datos-a-los-tecnoligarcas-estadounidenses.html",
           "fuente": "EL PAÍS · Tecnología",
           "publicado_en": "2026-11-06T04:30:01+00:00",
-          "resumen": ""
-        },
-        {
-          "titulo": "El Gobierno francés admite que varios bancos de sangre también han sido objetivo de ciberataques",
-          "url": "https://elpais.com/tecnologia/2026-11-04/el-gobierno-frances-admite-que-varios-bancos-de-sangre-tambien-han-sido-objetivo-de-ciberataques.html",
-          "fuente": "EL PAÍS · Tecnología",
-          "publicado_en": "2026-11-04T13:04:44+00:00",
           "resumen": ""
         }
       ]
@@ -30,73 +37,73 @@
       "titulo": "Empleo, negocios y formación",
       "noticias": [
         {
-          "titulo": "Díaz se acerca a la votación de su candidatura a la OIT con los sindicatos divididos y las patronales en contra",
-          "url": "https://elpais.com/economia/2026-11-06/diaz-se-acerca-a-la-votacion-de-su-candidatura-a-la-oit-con-los-sindicatos-divididos-y-las-patronales-en-contra.html",
+          "titulo": "El Gobierno agota la legislatura sin anticipar la jubilación en los sectores con más muertes y bajas",
+          "url": "https://elpais.com/economia/2026-11-07/el-gobierno-agota-la-legislatura-sin-anticipar-la-jubilacion-en-los-sectores-con-mas-muertes-y-bajas.html",
           "fuente": "EL PAÍS · Economía",
-          "publicado_en": "2026-11-06T14:26:46+00:00",
+          "publicado_en": "2026-11-07T04:45:01+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Hacienda actualizará la deducción del salario mínimo hasta los 1.030 euros para que sus perceptores no paguen IRPF",
-          "url": "https://elpais.com/economia/2026-11-06/hacienda-actualizara-la-deduccion-del-salario-minimo-hasta-los-1030-euros-para-que-sus-perceptores-no-paguen-irpf.html",
+          "titulo": "Las comunidades autónomas proyectan rebajas fiscales por 2.300 millones hasta 2031",
+          "url": "https://elpais.com/economia/2026-11-07/las-comunidades-autonomas-proyectan-rebajas-fiscales-por-2300-millones-hasta-2031.html",
           "fuente": "EL PAÍS · Economía",
-          "publicado_en": "2026-11-06T04:45:01+00:00",
+          "publicado_en": "2026-11-07T04:45:01+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Acabar con el déficit de 750.000 viviendas que calcula el Banco de España exige una inversión equivalente al 11% del PIB",
-          "url": "https://elpais.com/economia/vivienda/2026-11-06/acabar-con-el-deficit-de-750000-viviendas-que-calcula-el-banco-de-espana-exige-una-inversion-equivalente-al-11-del-pib.html",
+          "titulo": "La población activa en España envejece más rápido que la media europea",
+          "url": "https://elpais.com/economia/2026-11-07/la-poblacion-activa-en-espana-envejece-mas-rapido-que-la-media-europea.html",
           "fuente": "EL PAÍS · Economía",
-          "publicado_en": "2026-11-06T04:45:01+00:00",
+          "publicado_en": "2026-11-07T04:45:01+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Agnès Pannier-Runacher, exministra francesa de Energía: “La única estrategia viable para Europa consiste en producir más y consumir menos”",
-          "url": "https://cincodias.elpais.com/economia/2026-11-06/agnes-pannier-runacher-exministra-francesa-de-energia-la-unica-estrategia-viable-para-europa-consiste-en-producir-mas-y-consumir-menos.html",
+          "titulo": "Branko Milanovic: “Esta derrota de Trump no tendrá gran impacto en la política hacia Asia o hacia Europa”",
+          "url": "https://elpais.com/economia/2026-11-07/branko-milanovic-esta-derrota-de-trump-no-tendra-gran-impacto-en-la-politica-hacia-asia-o-hacia-europa.html",
           "fuente": "EL PAÍS · Economía",
-          "publicado_en": "2026-11-06T04:45:01+00:00",
+          "publicado_en": "2026-11-07T04:45:01+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Los riesgos económicos se intensifican a la espera del impacto del súper ciclo electoral",
-          "url": "https://cincodias.elpais.com/opinion/2026-11-06/los-riesgos-economicos-se-intensifican-a-la-espera-del-impacto-del-super-ciclo-electoral.html",
+          "titulo": "Fulgor, desplomes y ruinas en la IA",
+          "url": "https://elpais.com/economia/2026-11-07/fulgor-desplomes-y-ruinas-en-la-ia.html",
           "fuente": "EL PAÍS · Economía",
-          "publicado_en": "2026-11-06T04:45:00+00:00",
+          "publicado_en": "2026-11-07T04:45:01+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Liberalizar no es privatizar",
-          "url": "https://cincodias.elpais.com/opinion/2026-11-06/liberalizar-no-es-privatizar.html",
+          "titulo": "Jubilación anticipada pendiente",
+          "url": "https://cincodias.elpais.com/opinion/2026-11-07/jubilacion-anticipada-pendiente.html",
           "fuente": "EL PAÍS · Economía",
-          "publicado_en": "2026-11-06T04:45:00+00:00",
+          "publicado_en": "2026-11-07T04:40:00+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Fiesta en las bodegas, luto en Sanidad: el consumo de alcohol se dispara",
-          "url": "https://cincodias.elpais.com/opinion/2026-11-06/fiesta-en-las-bodegas-luto-en-sanidad-el-consumo-de-alcohol-se-dispara.html",
+          "titulo": "Los votantes de EE UU dieron un palo a la IA. La Bolsa tardó en entenderlo",
+          "url": "https://cincodias.elpais.com/opinion/2026-11-07/los-votantes-de-ee-uu-dieron-un-palo-a-la-ia-la-bolsa-tardo-en-entenderlo.html",
           "fuente": "EL PAÍS · Economía",
-          "publicado_en": "2026-11-06T04:40:00+00:00",
+          "publicado_en": "2026-11-07T04:40:00+00:00",
           "resumen": ""
         },
         {
-          "titulo": "La puesta a punto de BMW resuelve el problema de hoy, no el de mañana",
-          "url": "https://cincodias.elpais.com/opinion/2026-11-06/la-puesta-a-punto-de-bmw-resuelve-el-problema-de-hoy-no-el-de-manana.html",
+          "titulo": "El pasado siempre tiene razón",
+          "url": "https://cincodias.elpais.com/opinion/2026-11-07/el-pasado-siempre-tiene-razon.html",
           "fuente": "EL PAÍS · Economía",
-          "publicado_en": "2026-11-06T04:40:00+00:00",
+          "publicado_en": "2026-11-07T04:40:00+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Las claves: subir el suelo salarial no basta para elevar los sueldos",
-          "url": "https://cincodias.elpais.com/opinion/2026-11-06/las-claves-subir-el-suelo-salarial-no-basta-para-elevar-los-sueldos.html",
+          "titulo": "El truco de magia de Mélenchon",
+          "url": "https://cincodias.elpais.com/opinion/2026-11-07/el-truco-de-magia-de-melenchon.html",
           "fuente": "EL PAÍS · Economía",
-          "publicado_en": "2026-11-06T04:40:00+00:00",
+          "publicado_en": "2026-11-07T04:40:00+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Asustaviejas: la palabra que Cádiz popularizó para señalar el acoso inmobiliario",
-          "url": "https://elpais.com/espana/2026-11-06/asustaviejas-la-palabra-que-cadiz-popularizo-para-senalar-el-acoso-inmobiliario.html",
+          "titulo": "Correos, ‘whatsapps’, alertas, reuniones... por qué el nuevo lujo laboral es mantener la concentración más de una hora",
+          "url": "https://elpais.com/economia/negocios/2026-11-07/correos-whatsapps-alertas-reuniones-por-que-el-nuevo-lujo-laboral-es-mantener-la-concentracion-mas-de-una-hora.html",
           "fuente": "EL PAÍS · Economía",
-          "publicado_en": "2026-11-06T04:30:01+00:00",
+          "publicado_en": "2026-11-07T04:30:00+00:00",
           "resumen": ""
         }
       ]
@@ -106,73 +113,73 @@
       "titulo": "España y Andalucía",
       "noticias": [
         {
-          "titulo": "La Audiencia Nacional analiza si la pareja de Ábalos pagó un 'loft' en Vallecas con fondos obtenidos de mordidas",
-          "url": "https://www.eldiario.es/politica/audiencia-nacional-analiza-si-pareja-abalos-pago-loft-vallecas-fondos-obtenidos-mordidas_1_13644021.html",
+          "titulo": "Feijóo centra en Puente su mitin en Valladolid: \"Han dado más abrazos al ministro dimitido que a las víctimas”",
+          "url": "https://www.eldiario.es/castilla-y-leon/politica/feijoo-dice-no-valladolid-dimision-puente-plaga-mitin-ataques-exministro_1_13646296.html",
           "fuente": "ElDiario.es",
-          "publicado_en": "2026-11-06T14:23:05+00:00",
+          "publicado_en": "2026-11-07T13:06:37+00:00",
           "resumen": ""
         },
         {
-          "titulo": "El pueblo de la Costa Brava que se transforma este fin de semana con espectáculos callejeros y una recreación histórica",
-          "url": "https://www.eldiario.es/viajes/pueblo-costa-brava-transforma-semana-espectaculos-callejeros-recreacion-historica_1_13643687.html",
+          "titulo": "Una exposición reúne más de 700 piezas arqueológicas de 83 yacimientos para mostrar cómo era la vida en el Madrid visigodo",
+          "url": "https://www.eldiario.es/spin/exposicion-reune-700-piezas-arqueologicas-83-yacimientos-mostrar-vida-madrid-visigodo-pm_1_13646279.html",
           "fuente": "ElDiario.es",
-          "publicado_en": "2026-11-06T13:42:47+00:00",
+          "publicado_en": "2026-11-07T13:00:33+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Qué ver en la villa de Euskadi que celebra este 7 de noviembre su tradicional homenaje a uno de los productos más preciados de su huerta",
-          "url": "https://www.eldiario.es/viajes/ver-villa-euskadi-celebra-7-noviembre-tradicional-homenaje-productos-preciados-huerta_1_13643342.html",
+          "titulo": "Rufián y Montero llaman a secundar la huelga \"para paralizar el país\" y defienden una izquierda no sometida al PSOE",
+          "url": "https://www.eldiario.es/politica/rufian-montero-llaman-secundar-huelga-paralizar-pais-defienden-izquierda-no-sometida-psoe_1_13646217.html",
           "fuente": "ElDiario.es",
-          "publicado_en": "2026-11-06T13:39:21+00:00",
+          "publicado_en": "2026-11-07T12:41:24+00:00",
           "resumen": ""
         },
         {
-          "titulo": "El juez Pedraz llama a declarar a la testigo del supuesto plan para atentar contra Biedma y la cita a cinco días de las elecciones",
-          "url": "https://www.eldiario.es/politica/juez-pedraz-llama-declarar-testigo-supuesto-plan-atentar-biedma-cita-cinco-dias-elecciones_1_13644224.html",
+          "titulo": "Sánchez pide una mayoría \"amplia y progresista\" ante el desmoronamiento de la ola ultraderechista",
+          "url": "https://www.eldiario.es/politica/sanchez-pide-mayoria-amplia-progresista-desmoronamiento-ola-ultraderechista_1_13646333.html",
           "fuente": "ElDiario.es",
-          "publicado_en": "2026-11-06T13:25:50+00:00",
+          "publicado_en": "2026-11-07T12:18:25+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Cuerpo se compromete con las víctimas de Adamuz a poner en marcha una oficina para atenderlas",
-          "url": "https://www.eldiario.es/economia/cuerpo-compromete-victimas-adamuz-poner-marcha-oficina-atenderlas_1_13644248.html",
+          "titulo": "La investigación del accidente de Urda recomienda tres medidas provisionales para reforzar la seguridad ferroviaria",
+          "url": "https://www.eldiario.es/castilla-la-mancha/provincias/toledo/investigacion-accidente-urda-reclama-tres-medidas-provisionales-reforzar-seguridad-ferroviaria_1_13646339.html",
           "fuente": "ElDiario.es",
-          "publicado_en": "2026-11-06T13:11:28+00:00",
+          "publicado_en": "2026-11-07T12:09:19+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Barrios, Jacobo Ramón y Valles: novedades y lista completa de la selección española para la Nations League",
-          "url": "https://www.eldiario.es/spin/deportes/barrios-jacobo-ramon-valles-novedades-lista-completa-seleccion-espanola-nations-league-pm_1_13644074.html",
+          "titulo": "La gran feria del queso que llega a España en noviembre: una escapada gastronómica entre degustaciones y productos artesanos",
+          "url": "https://www.eldiario.es/viajes/gran-feria-queso-llega-espana-noviembre-escapada-gastronomica-degustaciones-productos-artesanos-pm_1_13646115.html",
           "fuente": "ElDiario.es",
-          "publicado_en": "2026-11-06T12:42:30+00:00",
+          "publicado_en": "2026-11-07T12:00:53+00:00",
           "resumen": ""
         },
         {
-          "titulo": "El consejero de Hacienda de Aragón califica de \"charlotada\" la huelga general",
-          "url": "https://www.eldiario.es/aragon/politica/consejero-hacienda-aragon-califica-charlotada-huelga-general-critica-nuevo-protestas-educativas_1_13643992.html",
+          "titulo": "\"Putos rojos\": la sede del PSOE en Rincón de la Victoria (Málaga) amanece con pintadas nazis e insultos",
+          "url": "https://www.eldiario.es/andalucia/putos-rojos-sede-psoe-rincon-victoria-malaga-amanece-pintadas-nazis-e-insultos_1_13646215.html",
           "fuente": "ElDiario.es",
-          "publicado_en": "2026-11-06T12:41:05+00:00",
+          "publicado_en": "2026-11-07T11:00:47+00:00",
           "resumen": ""
         },
         {
-          "titulo": "El Frente Amplio plantea una ley para expropiar viviendas a los fondos buitre",
-          "url": "https://www.eldiario.es/politica/frente-amplio-plantea-ley-expropiar-viviendas-fondos-buitre_1_13643839.html",
+          "titulo": "El Sindicat de Llogateres lleva a Barcelona a los tribunales por incumplir la norma del 30% de vivienda protegida",
+          "url": "https://www.eldiario.es/catalunya/sindicat-llogateres-lleva-barcelona-tribunales-incumplir-norma-30-vivienda-protegida_1_13646098.html",
           "fuente": "ElDiario.es",
-          "publicado_en": "2026-11-06T12:35:52+00:00",
+          "publicado_en": "2026-11-07T10:33:06+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Yolanda Díaz llama a secundar la huelga general del 11N y convertirla en una \"marea de esperanza\" para las elecciones",
-          "url": "https://www.eldiario.es/economia/yolanda-diaz-llama-secundar-huelga-general-11n-convertirla-marea-esperanza-elecciones_1_13643921.html",
+          "titulo": "La alubia que no es de color blanco sino marfil verdoso y que se cultiva en fincas y huertas de este pequeño pueblo navarro",
+          "url": "https://www.eldiario.es/spin/alubia-no-color-blanco-marfil-verdoso-cultiva-fincas-huertas-pequeno-pueblo-navarro-pm_1_13645988.html",
           "fuente": "ElDiario.es",
-          "publicado_en": "2026-11-06T12:34:30+00:00",
+          "publicado_en": "2026-11-07T10:30:55+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Continúa la oleada de falsas amenazas por bomba en aviones en Europa",
-          "url": "https://www.eldiario.es/internacional/continua-oleada-falsas-amenazas-bomba-aeropuertos-europeos_1_13643832.html",
+          "titulo": "Castilla-La Mancha desactiva el Plan Territorial de Emergencias por el accidente de Urda",
+          "url": "https://www.eldiario.es/castilla-la-mancha/provincias/toledo/castilla-mancha-desactiva-plan-territorial-emergencias-accidente-urda_1_13646176.html",
           "fuente": "ElDiario.es",
-          "publicado_en": "2026-11-06T12:32:03+00:00",
+          "publicado_en": "2026-11-07T10:29:47+00:00",
           "resumen": ""
         }
       ]
@@ -182,73 +189,73 @@
       "titulo": "Perú",
       "noticias": [
         {
-          "titulo": "The 50 Best Restaurants 2026: así se vivió en Lima la alfombra roja del mayor evento gastronómico del mundo",
-          "url": "https://elcomercio.pe/somos/estilo/the-50-best-restaurants-2026-asi-se-vive-en-lima-la-alfombra-roja-del-mayor-evento-gastronomico-del-mundo-apuesplan-noticia/",
-          "fuente": "El Comercio Perú",
-          "publicado_en": "2026-11-06T14:37:55+00:00",
-          "resumen": ""
-        },
-        {
-          "titulo": "El Comercio en el vuelo del Papa León XIV",
-          "url": "https://elcomercio.pe/videos/elcomercio/el-comercio-en-el-vuelo-del-papa-leon-xiv-para-su-gira-por-sudamerica-noticia/",
-          "fuente": "El Comercio Perú",
-          "publicado_en": "2026-11-06T14:37:47+00:00",
-          "resumen": ""
-        },
-        {
-          "titulo": "Brunella Torpoco vence a Marc Anthony y Rubén Blades en los Premios HEAT 2026",
-          "url": "https://elcomercio.pe/luces/musica/premios-heat-2026-brunella-torpoco-vence-a-marc-anthony-y-ruben-blades-en-la-categoria-mejor-artista-de-salsa-ultimas-noticia/",
-          "fuente": "El Comercio Perú",
-          "publicado_en": "2026-11-06T14:32:22+00:00",
-          "resumen": ""
-        },
-        {
-          "titulo": "\"Claro que pensaba que volvería\": Jorge Jesus reveló que iba a convocar a Cristiano Ronaldo antes de que anunciara su retiro de Portugal",
-          "url": "https://rpp.pe/futbol/futbol-mundial/cristiano-ronaldo-tecnico-jorge-jesus-pensaba-que-el-delantero-volveria-a-la-seleccion-de-portugal-nations-league-noticia-1716286",
+          "titulo": "Así fue el emotivo homenaje en memoria de Jesús de Miguel en el Sevilla vs. Alavés [FOTOS]",
+          "url": "https://rpp.pe/futbol/futbol-mundial/jesus-de-miguel-asi-fue-el-emotivo-homenaje-en-memoria-de-jesus-de-miguel-en-sevilla-vs-alaves-noticia-1716502",
           "fuente": "RPP",
-          "publicado_en": "2026-11-06T14:30:54+00:00",
+          "publicado_en": "2026-11-07T13:30:09+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Así operaba la estafa con IA que habría robado 129 millones de dólares a empresas en varios países",
-          "url": "https://elcomercio.pe/mag/usa/local-us/asi-operaba-la-estafa-con-ia-que-habria-robado-129-millones-de-dolares-a-empresas-en-varios-paises-nnda-nnrt-noticia/",
-          "fuente": "El Comercio Perú",
-          "publicado_en": "2026-11-06T14:24:12+00:00",
+          "titulo": "RPP en Paysandú: postales desde el parque París Londres, donde León XIV oficiará su primera misa en Latinoamérica",
+          "url": "https://rpp.pe/mundo/latinoamerica/rpp-en-paysandu-postales-desde-el-parque-paris-londres-donde-leon-xiv-oficiara-su-primera-misa-en-latinoamerica-noticia-1716503",
+          "fuente": "RPP",
+          "publicado_en": "2026-11-07T13:25:12+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Impulsared de Repsol: más de 65 emprendimientos formalizados y 20 mil personas beneficiadas",
-          "url": "https://elcomercio.pe/publirreportaje/impulsared-de-repsol-mas-de-65-emprendimientos-formalizados-y-20-mil-personas-beneficiadas-noticia/",
+          "titulo": "El séquito del Papa en el extranjero: la seguridad y los periodistas que siguen cada uno de sus pasos",
+          "url": "https://elcomercio.pe/mundo/actualidad/el-sequito-del-papa-en-el-extranjero-la-seguridad-y-los-periodistas-que-siguen-cada-uno-de-sus-pasos-apuesplan-noticia/",
           "fuente": "El Comercio Perú",
-          "publicado_en": "2026-11-06T14:22:42+00:00",
+          "publicado_en": "2026-11-07T13:22:39+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Final explicado de “Black Doves” - Temporada 2: la identidad real de Katia, las muertes y el destino de Helen y Wallace",
-          "url": "https://elcomercio.pe/mag/fama/que-ver/black-doves-temporada-2-final-explicado-de-la-serie-de-netflix-palomas-negras-nnda-nnlt-noticia/",
-          "fuente": "El Comercio Perú",
-          "publicado_en": "2026-11-06T14:21:59+00:00",
+          "titulo": "Callao: hombre es asesinado a balazos cuando salía de su vivienda en Carmen de la Legua",
+          "url": "https://rpp.pe/peru/callao/callao-hombre-es-asesinado-a-balazos-cuando-salia-de-su-vivienda-noticia-1716499",
+          "fuente": "RPP",
+          "publicado_en": "2026-11-07T13:15:51+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Precio del dólar en Perú: compra y venta del viernes 6 de noviembre",
-          "url": "https://elcomercio.pe/economia/mercados/precio-del-dolar-en-peru-2026-a-cuanto-esta-el-dolar-este-viernes-6-de-noviembre-tipo-de-cambio-segun-el-bcrp-tasa-cotizacion-compra-y-venta-segun-bcrp-dolares-a-soles-sbs-ocona-lbposting-noticia/",
+          "titulo": "Temblor en EE.UU. EN VIVO hoy, 7 de noviembre 2026: hora exacta, magnitud y dónde fue el epicentro del último sismo vía USGS",
+          "url": "https://elcomercio.pe/mag/usa/local-us/temblor-en-eeuu-en-vivo-hoy-7-y-8-de-noviembre-2026-hora-exacta-magnitud-y-donde-fue-el-epicentro-del-ultimo-sismo-via-usgs-california-nnda-nnrt-noticia/",
           "fuente": "El Comercio Perú",
-          "publicado_en": "2026-11-06T14:18:43+00:00",
+          "publicado_en": "2026-11-07T13:15:10+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Temblor en Venezuela: lugar, hora y magnitud del último sismo reportado hoy, viernes 6 de noviembre",
-          "url": "https://elcomercio.pe/respuestas/venezuela/temblor-en-venezuela-hoy-en-vivo-via-funvisis-y-ultimos-sismos-del-5-al-6-de-noviembre-de-2026-epicentro-y-magnitud-lbposting-noticia/",
+          "titulo": "Temblor en México EN VIVO hoy, 7 de noviembre 2026: hora exacta, magnitud y dónde fue el epicentro del último sismo vía SSN",
+          "url": "https://elcomercio.pe/mag/respuestas/temblor-en-mexico-en-vivo-hoy-7-y-8-de-noviembre-2026-hora-exacta-magnitud-y-donde-fue-el-epicentro-del-ultimo-sismo-via-ssn-microsismo-cdmx-nnda-nnrt-noticia/",
           "fuente": "El Comercio Perú",
-          "publicado_en": "2026-11-06T14:15:35+00:00",
+          "publicado_en": "2026-11-07T13:13:49+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Fiscalía europea investiga posible fraude en línea ferroviaria accidentada en España",
-          "url": "https://elcomercio.pe/mundo/espana/fiscalia-europea-investiga-posible-fraude-en-linea-ferroviaria-accidentada-en-espana-choque-de-trenes-toledo-ultimas-noticia/",
+          "titulo": "Panorama desde los exteriores de la Nunciatura Apostólica, espacio donde se alojará el papa León XIV durante su estancia en Lima",
+          "url": "https://rpp.pe/videos/la-rotativa-del-aire/panorama-desde-los-exteriores-de-la-nunciatura-apostolica-espacio-donde-se-alojara-el-papa-leon-xiv-durante-su-estancia-en-lima-noticia-1716500",
+          "fuente": "RPP",
+          "publicado_en": "2026-11-07T13:08:53+00:00",
+          "resumen": ""
+        },
+        {
+          "titulo": "Temblor en Perú HOY, sábado 7 de noviembre: epicentro y magnitud del último sismo reportado por el IGP",
+          "url": "https://elcomercio.pe/respuestas/hoy-temblor-en-peru-en-vivo-ultimos-sismos-7-y-8-de-noviembre-2026-hora-magnitud-y-epicentro-del-reporte-segun-el-igp-instituto-geofisico-del-peru-ancash-lima-indeci-noticia/",
           "fuente": "El Comercio Perú",
-          "publicado_en": "2026-11-06T14:14:58+00:00",
+          "publicado_en": "2026-11-07T13:08:41+00:00",
+          "resumen": ""
+        },
+        {
+          "titulo": "Horóscopo de HOY, sábado 7 de noviembre: predicciones según tu signo zodiacal",
+          "url": "https://elcomercio.pe/luces/vida-social/horoscopo-de-hoy-en-vivo-y-predicciones-gratis-sabado-7-de-noviembre-2026-segun-tu-signo-zodiacal-aries-tauro-geminis-cancer-leo-virgo-libra-escorpio-sagitario-capricornio-acuario-piscis-lbposting-noticia/",
+          "fuente": "El Comercio Perú",
+          "publicado_en": "2026-11-07T13:06:07+00:00",
+          "resumen": ""
+        },
+        {
+          "titulo": "Municipalidad de Lima: estos son los resultados de la ONPE al 99.992% de actas contabilizadas",
+          "url": "https://elcomercio.pe/politica/elecciones/alcaldia-de-lima-resultados-onpe-100-de-elecciones-regionales-y-municipales-2026-rafael-lopez-aliaga-de-renovacion-popular-y-francis-allison-de-avanza-pais-ultimas-noticia/",
+          "fuente": "El Comercio Perú",
+          "publicado_en": "2026-11-07T13:04:27+00:00",
           "resumen": ""
         }
       ]
