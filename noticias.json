@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "fecha": "2026-11-07",
-  "actualizado_en": "2026-11-07T14:39:29+01:00",
+  "fecha": "2026-11-08",
+  "actualizado_en": "2026-11-08T14:58:14+01:00",
   "descripcion": "Agregación automática de titulares RSS. No constituye edición periodística verificada.",
   "fuentes_con_errores": [],
   "secciones": [
@@ -9,6 +9,13 @@
       "id": "tecnologia",
       "titulo": "Tecnología, IA y eCommerce",
       "noticias": [
+        {
+          "titulo": "De la nevera al agua del grifo o la luz: los ciberataques ya impactan en la vida cotidiana",
+          "url": "https://elpais.com/tecnologia/2026-11-08/de-la-nevera-al-agua-del-grifo-o-la-luz-los-ciberataques-ya-impactan-en-la-vida-cotidiana.html",
+          "fuente": "EL PAÍS · Tecnología",
+          "publicado_en": "2026-11-08T04:30:01+00:00",
+          "resumen": ""
+        },
         {
           "titulo": "Llega la primera movilización europea contra los centros de datos: “No queremos ser el patio trasero de nadie”",
           "url": "https://elpais.com/tecnologia/2026-11-07/llega-la-primera-movilizacion-europea-contra-los-centros-de-datos-no-queremos-ser-el-patio-trasero-de-nadie.html",
@@ -37,73 +44,73 @@
       "titulo": "Empleo, negocios y formación",
       "noticias": [
         {
-          "titulo": "El Gobierno agota la legislatura sin anticipar la jubilación en los sectores con más muertes y bajas",
-          "url": "https://elpais.com/economia/2026-11-07/el-gobierno-agota-la-legislatura-sin-anticipar-la-jubilacion-en-los-sectores-con-mas-muertes-y-bajas.html",
+          "titulo": "Las recetas de los supermercados para evitar los ‘hackeos’: segmentar las redes y cifrar los métodos de acceso",
+          "url": "https://elpais.com/economia/2026-11-08/las-recetas-de-los-supermercados-para-evitar-los-hackeos-segmentar-las-redes-y-cifrar-los-metodos-de-acceso.html",
           "fuente": "EL PAÍS · Economía",
-          "publicado_en": "2026-11-07T04:45:01+00:00",
+          "publicado_en": "2026-11-08T04:45:01+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Las comunidades autónomas proyectan rebajas fiscales por 2.300 millones hasta 2031",
-          "url": "https://elpais.com/economia/2026-11-07/las-comunidades-autonomas-proyectan-rebajas-fiscales-por-2300-millones-hasta-2031.html",
+          "titulo": "¿Qué pasa con la vivienda? 11 gráficos para entender causas y consecuencias del problema",
+          "url": "https://elpais.com/economia/vivienda/2026-11-08/que-pasa-con-la-vivienda-11-graficos-para-entender-causas-y-consecuencias-del-problema.html",
           "fuente": "EL PAÍS · Economía",
-          "publicado_en": "2026-11-07T04:45:01+00:00",
+          "publicado_en": "2026-11-08T04:45:01+00:00",
           "resumen": ""
         },
         {
-          "titulo": "La población activa en España envejece más rápido que la media europea",
-          "url": "https://elpais.com/economia/2026-11-07/la-poblacion-activa-en-espana-envejece-mas-rapido-que-la-media-europea.html",
+          "titulo": "Las claves: el mecanismo de retirada del aceite deberá ser evaluado con atención",
+          "url": "https://cincodias.elpais.com/opinion/2026-11-08/las-claves-el-mecanismo-de-retirada-del-aceite-debera-ser-evaluado-con-atencion.html",
           "fuente": "EL PAÍS · Economía",
-          "publicado_en": "2026-11-07T04:45:01+00:00",
+          "publicado_en": "2026-11-08T04:40:00+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Branko Milanovic: “Esta derrota de Trump no tendrá gran impacto en la política hacia Asia o hacia Europa”",
-          "url": "https://elpais.com/economia/2026-11-07/branko-milanovic-esta-derrota-de-trump-no-tendra-gran-impacto-en-la-politica-hacia-asia-o-hacia-europa.html",
+          "titulo": "Sam Houser, el hombre invisible detrás del imperio de ‘Grand Theft Auto’",
+          "url": "https://cincodias.elpais.com/opinion/2026-11-08/sam-houser-el-hombre-invisible-detras-del-imperio-de-grand-theft-auto.html",
           "fuente": "EL PAÍS · Economía",
-          "publicado_en": "2026-11-07T04:45:01+00:00",
+          "publicado_en": "2026-11-08T04:40:00+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Fulgor, desplomes y ruinas en la IA",
-          "url": "https://elpais.com/economia/2026-11-07/fulgor-desplomes-y-ruinas-en-la-ia.html",
+          "titulo": "De la nevera al agua del grifo o la luz: los ciberataques ya impactan en la vida cotidiana",
+          "url": "https://elpais.com/tecnologia/2026-11-08/de-la-nevera-al-agua-del-grifo-o-la-luz-los-ciberataques-ya-impactan-en-la-vida-cotidiana.html",
           "fuente": "EL PAÍS · Economía",
-          "publicado_en": "2026-11-07T04:45:01+00:00",
+          "publicado_en": "2026-11-08T04:30:01+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Jubilación anticipada pendiente",
-          "url": "https://cincodias.elpais.com/opinion/2026-11-07/jubilacion-anticipada-pendiente.html",
+          "titulo": "Un Estado fuerte para un mercado libre",
+          "url": "https://elpais.com/economia/negocios/2026-11-08/un-estado-fuerte-para-un-mercado-libre.html",
           "fuente": "EL PAÍS · Economía",
-          "publicado_en": "2026-11-07T04:40:00+00:00",
+          "publicado_en": "2026-11-08T04:30:00+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Los votantes de EE UU dieron un palo a la IA. La Bolsa tardó en entenderlo",
-          "url": "https://cincodias.elpais.com/opinion/2026-11-07/los-votantes-de-ee-uu-dieron-un-palo-a-la-ia-la-bolsa-tardo-en-entenderlo.html",
+          "titulo": "IA segura: el equilibrio entre el riesgo y la oportunidad",
+          "url": "https://elpais.com/economia/negocios/2026-11-08/ia-segura-el-equilibrio-entre-el-riesgo-y-la-oportunidad.html",
           "fuente": "EL PAÍS · Economía",
-          "publicado_en": "2026-11-07T04:40:00+00:00",
+          "publicado_en": "2026-11-08T04:30:00+00:00",
           "resumen": ""
         },
         {
-          "titulo": "El pasado siempre tiene razón",
-          "url": "https://cincodias.elpais.com/opinion/2026-11-07/el-pasado-siempre-tiene-razon.html",
+          "titulo": "España necesita presupuestos",
+          "url": "https://elpais.com/economia/negocios/2026-11-08/espana-necesita-presupuestos.html",
           "fuente": "EL PAÍS · Economía",
-          "publicado_en": "2026-11-07T04:40:00+00:00",
+          "publicado_en": "2026-11-08T04:30:00+00:00",
           "resumen": ""
         },
         {
-          "titulo": "El truco de magia de Mélenchon",
-          "url": "https://cincodias.elpais.com/opinion/2026-11-07/el-truco-de-magia-de-melenchon.html",
+          "titulo": "GTA VI: por qué el lanzamiento del siglo cambiará el sector de los videojuegos (y será más difícil prestarlos o revenderlos)",
+          "url": "https://elpais.com/economia/negocios/2026-11-08/gta-vi-por-que-el-lanzamiento-del-siglo-cambiara-el-sector-de-los-videojuegos-y-sera-mas-dificil-prestarlos-o-revenderlos.html",
           "fuente": "EL PAÍS · Economía",
-          "publicado_en": "2026-11-07T04:40:00+00:00",
+          "publicado_en": "2026-11-08T04:30:00+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Correos, ‘whatsapps’, alertas, reuniones... por qué el nuevo lujo laboral es mantener la concentración más de una hora",
-          "url": "https://elpais.com/economia/negocios/2026-11-07/correos-whatsapps-alertas-reuniones-por-que-el-nuevo-lujo-laboral-es-mantener-la-concentracion-mas-de-una-hora.html",
+          "titulo": "Los deberes económicos tras el 29-N: vivienda, infraestructuras, Presupuestos y  pensiones, entre los más urgentes",
+          "url": "https://elpais.com/economia/negocios/2026-11-07/los-deberes-economicos-tras-el-29-n-vivienda-infraestructuras-presupuestos-y-pensiones-entre-los-mas-urgentes.html",
           "fuente": "EL PAÍS · Economía",
-          "publicado_en": "2026-11-07T04:30:00+00:00",
+          "publicado_en": "2026-11-07T16:30:00+00:00",
           "resumen": ""
         }
       ]
@@ -113,73 +120,73 @@
       "titulo": "España y Andalucía",
       "noticias": [
         {
-          "titulo": "Feijóo centra en Puente su mitin en Valladolid: \"Han dado más abrazos al ministro dimitido que a las víctimas”",
-          "url": "https://www.eldiario.es/castilla-y-leon/politica/feijoo-dice-no-valladolid-dimision-puente-plaga-mitin-ataques-exministro_1_13646296.html",
+          "titulo": "Rufián apuesta por el catalanismo en su primer mitin en solitario: \"Quiero un PSOE sometido a fuerzas soberanistas\"",
+          "url": "https://www.eldiario.es/catalunya/rufian-apuesta-catalanismo-primer-mitin-solitario-quiero-psoe-sometido-fuerzas-sobreranistas_1_13647784.html",
           "fuente": "ElDiario.es",
-          "publicado_en": "2026-11-07T13:06:37+00:00",
+          "publicado_en": "2026-11-08T13:17:07+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Una exposición reúne más de 700 piezas arqueológicas de 83 yacimientos para mostrar cómo era la vida en el Madrid visigodo",
-          "url": "https://www.eldiario.es/spin/exposicion-reune-700-piezas-arqueologicas-83-yacimientos-mostrar-vida-madrid-visigodo-pm_1_13646279.html",
+          "titulo": "Sánchez pide un \"voto en masa contra la involución\" de PP y Vox: \"Feijóo no es más triste porque no quiere\"",
+          "url": "https://www.eldiario.es/euskadi/sanchez-pide-voto-masa-involucion-pp-vox-feijoo-no-triste-no-quiere_1_13647215.html",
           "fuente": "ElDiario.es",
-          "publicado_en": "2026-11-07T13:00:33+00:00",
+          "publicado_en": "2026-11-08T12:59:45+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Rufián y Montero llaman a secundar la huelga \"para paralizar el país\" y defienden una izquierda no sometida al PSOE",
-          "url": "https://www.eldiario.es/politica/rufian-montero-llaman-secundar-huelga-paralizar-pais-defienden-izquierda-no-sometida-psoe_1_13646217.html",
+          "titulo": "Feijóo tacha a Sánchez de \"personaje de cartón piedra\" y le pide \"menos mirar a Trump y más a los trenes\"",
+          "url": "https://www.eldiario.es/politica/feijoo-tacha-sanchez-personaje-carton-piedra-le-pide-mirar-trump-mirar-trenes_1_13647717.html",
           "fuente": "ElDiario.es",
-          "publicado_en": "2026-11-07T12:41:24+00:00",
+          "publicado_en": "2026-11-08T12:40:38+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Sánchez pide una mayoría \"amplia y progresista\" ante el desmoronamiento de la ola ultraderechista",
-          "url": "https://www.eldiario.es/politica/sanchez-pide-mayoria-amplia-progresista-desmoronamiento-ola-ultraderechista_1_13646333.html",
+          "titulo": "La ruta por este valle extremeño con más de mil hectáreas de castaños además de especies características del clima atlántico y mediterráneo",
+          "url": "https://www.eldiario.es/viajes/ruta-valle-extremeno-mil-hectareas-castanos-ademas-especies-caracteristicas-clima-atlantico-mediterraneo-pm_1_13647505.html",
           "fuente": "ElDiario.es",
-          "publicado_en": "2026-11-07T12:18:25+00:00",
+          "publicado_en": "2026-11-08T12:00:04+00:00",
           "resumen": ""
         },
         {
-          "titulo": "La investigación del accidente de Urda recomienda tres medidas provisionales para reforzar la seguridad ferroviaria",
-          "url": "https://www.eldiario.es/castilla-la-mancha/provincias/toledo/investigacion-accidente-urda-reclama-tres-medidas-provisionales-reforzar-seguridad-ferroviaria_1_13646339.html",
+          "titulo": "La borrasca Bruna llega a Canarias más debilitada de lo previsto y Emergencias rebaja la alerta por lluvias y oleaje",
+          "url": "https://www.eldiario.es/canariasahora/sociedad/borrasca-bruna-llega-canarias-debilitada-previsto-emergencias-rebaja-alerta-lluvias-oleaje_1_13647817.html",
           "fuente": "ElDiario.es",
-          "publicado_en": "2026-11-07T12:09:19+00:00",
+          "publicado_en": "2026-11-08T11:58:26+00:00",
           "resumen": ""
         },
         {
-          "titulo": "La gran feria del queso que llega a España en noviembre: una escapada gastronómica entre degustaciones y productos artesanos",
-          "url": "https://www.eldiario.es/viajes/gran-feria-queso-llega-espana-noviembre-escapada-gastronomica-degustaciones-productos-artesanos-pm_1_13646115.html",
+          "titulo": "Nueva tragedia en la ruta canaria: al menos veinte muertos al encallar una embarcación en la costa de Senegal",
+          "url": "https://www.eldiario.es/canariasahora/migraciones/nueva-tragedia-migratoria-veinte-muertos-encallar-embarcacion-costa-senegal_1_13647749.html",
           "fuente": "ElDiario.es",
-          "publicado_en": "2026-11-07T12:00:53+00:00",
+          "publicado_en": "2026-11-08T11:32:13+00:00",
           "resumen": ""
         },
         {
-          "titulo": "\"Putos rojos\": la sede del PSOE en Rincón de la Victoria (Málaga) amanece con pintadas nazis e insultos",
-          "url": "https://www.eldiario.es/andalucia/putos-rojos-sede-psoe-rincon-victoria-malaga-amanece-pintadas-nazis-e-insultos_1_13646215.html",
+          "titulo": "Cargas de los Mossos durante el desalojo de un edificio de la Sareb que llevaba una década vacío en Manresa",
+          "url": "https://www.eldiario.es/catalunya/cargas-mossos-durante-desalojo-edificio-sareb-llevaba-decada-vacio_1_13647713.html",
           "fuente": "ElDiario.es",
-          "publicado_en": "2026-11-07T11:00:47+00:00",
+          "publicado_en": "2026-11-08T11:25:52+00:00",
           "resumen": ""
         },
         {
-          "titulo": "El Sindicat de Llogateres lleva a Barcelona a los tribunales por incumplir la norma del 30% de vivienda protegida",
-          "url": "https://www.eldiario.es/catalunya/sindicat-llogateres-lleva-barcelona-tribunales-incumplir-norma-30-vivienda-protegida_1_13646098.html",
+          "titulo": "La basura del Pacífico ya no solo amenaza a los animales marinos: ahora podría estar alterando el color del agua",
+          "url": "https://www.eldiario.es/spin/basura-pacifico-no-amenaza-animales-marinos-ahora-alterando-color-agua-pm_1_13645880.html",
           "fuente": "ElDiario.es",
-          "publicado_en": "2026-11-07T10:33:06+00:00",
+          "publicado_en": "2026-11-08T11:21:14+00:00",
           "resumen": ""
         },
         {
-          "titulo": "La alubia que no es de color blanco sino marfil verdoso y que se cultiva en fincas y huertas de este pequeño pueblo navarro",
-          "url": "https://www.eldiario.es/spin/alubia-no-color-blanco-marfil-verdoso-cultiva-fincas-huertas-pequeno-pueblo-navarro-pm_1_13645988.html",
+          "titulo": "Homenajeado en el Masters 1.000 de su ciudad natal, este divertido jugador se ha despedido del tenis con una emotiva carta",
+          "url": "https://www.eldiario.es/spin/deportes/homenajeado-masters-1-000-ciudad-natal-divertido-jugador-despedido-tenis-emotiva-carta-pm_1_13647497.html",
           "fuente": "ElDiario.es",
-          "publicado_en": "2026-11-07T10:30:55+00:00",
+          "publicado_en": "2026-11-08T10:30:06+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Castilla-La Mancha desactiva el Plan Territorial de Emergencias por el accidente de Urda",
-          "url": "https://www.eldiario.es/castilla-la-mancha/provincias/toledo/castilla-mancha-desactiva-plan-territorial-emergencias-accidente-urda_1_13646176.html",
+          "titulo": "Construido en el siglo XV para frenar a otomanos y tártaros, este castillo es una de las joyas arquitectónicas de esta antigua república soviética",
+          "url": "https://www.eldiario.es/viajes/construido-siglo-xv-frenar-otomanos-tartaros-castillo-joyas-arquitectonicas-antigua-republica-sovietica-pm_1_13647487.html",
           "fuente": "ElDiario.es",
-          "publicado_en": "2026-11-07T10:29:47+00:00",
+          "publicado_en": "2026-11-08T10:00:45+00:00",
           "resumen": ""
         }
       ]
@@ -189,73 +196,73 @@
       "titulo": "Perú",
       "noticias": [
         {
-          "titulo": "Así fue el emotivo homenaje en memoria de Jesús de Miguel en el Sevilla vs. Alavés [FOTOS]",
-          "url": "https://rpp.pe/futbol/futbol-mundial/jesus-de-miguel-asi-fue-el-emotivo-homenaje-en-memoria-de-jesus-de-miguel-en-sevilla-vs-alaves-noticia-1716502",
-          "fuente": "RPP",
-          "publicado_en": "2026-11-07T13:30:09+00:00",
-          "resumen": ""
-        },
-        {
-          "titulo": "RPP en Paysandú: postales desde el parque París Londres, donde León XIV oficiará su primera misa en Latinoamérica",
-          "url": "https://rpp.pe/mundo/latinoamerica/rpp-en-paysandu-postales-desde-el-parque-paris-londres-donde-leon-xiv-oficiara-su-primera-misa-en-latinoamerica-noticia-1716503",
-          "fuente": "RPP",
-          "publicado_en": "2026-11-07T13:25:12+00:00",
-          "resumen": ""
-        },
-        {
-          "titulo": "El séquito del Papa en el extranjero: la seguridad y los periodistas que siguen cada uno de sus pasos",
-          "url": "https://elcomercio.pe/mundo/actualidad/el-sequito-del-papa-en-el-extranjero-la-seguridad-y-los-periodistas-que-siguen-cada-uno-de-sus-pasos-apuesplan-noticia/",
+          "titulo": "Temblor en México hoy, domingo 8 de noviembre, según el SSN: epicentro y magnitud",
+          "url": "https://elcomercio.pe/respuestas/mexico/temblor-en-mexico-hoy-en-vivo-7-y-8-de-noviembre-2026-ultimos-sismos-segun-el-ssn-servicio-sismologico-nacional-lbposting-noticia/",
           "fuente": "El Comercio Perú",
-          "publicado_en": "2026-11-07T13:22:39+00:00",
+          "publicado_en": "2026-11-08T13:53:27+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Callao: hombre es asesinado a balazos cuando salía de su vivienda en Carmen de la Legua",
-          "url": "https://rpp.pe/peru/callao/callao-hombre-es-asesinado-a-balazos-cuando-salia-de-su-vivienda-noticia-1716499",
-          "fuente": "RPP",
-          "publicado_en": "2026-11-07T13:15:51+00:00",
-          "resumen": ""
-        },
-        {
-          "titulo": "Temblor en EE.UU. EN VIVO hoy, 7 de noviembre 2026: hora exacta, magnitud y dónde fue el epicentro del último sismo vía USGS",
-          "url": "https://elcomercio.pe/mag/usa/local-us/temblor-en-eeuu-en-vivo-hoy-7-y-8-de-noviembre-2026-hora-exacta-magnitud-y-donde-fue-el-epicentro-del-ultimo-sismo-via-usgs-california-nnda-nnrt-noticia/",
+          "titulo": "Temblor hoy en Colombia, domingo 8 de noviembre: reportes de los sismos según el SGC",
+          "url": "https://elcomercio.pe/respuestas/colombia/temblor-en-colombia-hoy-en-vivo-7-y-8-de-noviembre-2026-ultimos-sismos-segun-el-sgc-servicio-geologico-colombiano-lbposting-noticia/",
           "fuente": "El Comercio Perú",
-          "publicado_en": "2026-11-07T13:15:10+00:00",
+          "publicado_en": "2026-11-08T13:52:11+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Temblor en México EN VIVO hoy, 7 de noviembre 2026: hora exacta, magnitud y dónde fue el epicentro del último sismo vía SSN",
-          "url": "https://elcomercio.pe/mag/respuestas/temblor-en-mexico-en-vivo-hoy-7-y-8-de-noviembre-2026-hora-exacta-magnitud-y-donde-fue-el-epicentro-del-ultimo-sismo-via-ssn-microsismo-cdmx-nnda-nnrt-noticia/",
+          "titulo": "El papa León XIV en Uruguay: agenda completa, misas y recorrido en EN VIVO",
+          "url": "https://elcomercio.pe/mundo/latinoamerica/papa-leon-xiv-en-uruguay-en-vivo-hoy-ultimas-noticias-cuando-llega-donde-estara-rutas-agenda-de-su-visita-en-montevideo-paysandu-y-mas-noticias-del-sumo-pontifice-vaticano-lbposting-noticia/",
           "fuente": "El Comercio Perú",
-          "publicado_en": "2026-11-07T13:13:49+00:00",
+          "publicado_en": "2026-11-08T13:48:38+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Panorama desde los exteriores de la Nunciatura Apostólica, espacio donde se alojará el papa León XIV durante su estancia en Lima",
-          "url": "https://rpp.pe/videos/la-rotativa-del-aire/panorama-desde-los-exteriores-de-la-nunciatura-apostolica-espacio-donde-se-alojara-el-papa-leon-xiv-durante-su-estancia-en-lima-noticia-1716500",
-          "fuente": "RPP",
-          "publicado_en": "2026-11-07T13:08:53+00:00",
+          "titulo": "Irán ejecuta a tres hombres por su participación en las protestas de enero: ya son 39 en total",
+          "url": "https://elcomercio.pe/mundo/oriente-medio/iran-ejecuta-a-tres-hombres-por-su-participacion-en-las-protestas-de-enero-ya-son-39-en-total-ultimas-noticia/",
+          "fuente": "El Comercio Perú",
+          "publicado_en": "2026-11-08T13:46:28+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Temblor en Perú HOY, sábado 7 de noviembre: epicentro y magnitud del último sismo reportado por el IGP",
+          "titulo": "Maido Hub, el nuevo laboratorio creativo del ganador del 50 Best Restaurants, liderado por ‘Micha’ Tsumura",
+          "url": "https://elcomercio.pe/somos/gastronomia/maido-hub-el-nuevo-laboratorio-creativo-del-ganador-del-the-50-best-restaurants-liderado-por-micha-tsumura-apuesplan-noticia/",
+          "fuente": "El Comercio Perú",
+          "publicado_en": "2026-11-08T13:45:56+00:00",
+          "resumen": ""
+        },
+        {
+          "titulo": "Temblor en Venezuela hoy, domingo 8 de noviembre: epicentro, hora y magnitud",
+          "url": "https://elcomercio.pe/respuestas/venezuela/temblor-en-venezuela-en-vivo-profundidad-intensidad-epicentro-y-magnitud-del-ultimo-sismo-reportado-este-7-y-8-de-noviembre-de-2026-segun-el-funvisis-noticia/",
+          "fuente": "El Comercio Perú",
+          "publicado_en": "2026-11-08T13:45:47+00:00",
+          "resumen": ""
+        },
+        {
+          "titulo": "Temblor hoy en Perú, domingo 8 de noviembre: epicentro, magnitud y hora exacta",
           "url": "https://elcomercio.pe/respuestas/hoy-temblor-en-peru-en-vivo-ultimos-sismos-7-y-8-de-noviembre-2026-hora-magnitud-y-epicentro-del-reporte-segun-el-igp-instituto-geofisico-del-peru-ancash-lima-indeci-noticia/",
           "fuente": "El Comercio Perú",
-          "publicado_en": "2026-11-07T13:08:41+00:00",
+          "publicado_en": "2026-11-08T13:43:03+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Horóscopo de HOY, sábado 7 de noviembre: predicciones según tu signo zodiacal",
-          "url": "https://elcomercio.pe/luces/vida-social/horoscopo-de-hoy-en-vivo-y-predicciones-gratis-sabado-7-de-noviembre-2026-segun-tu-signo-zodiacal-aries-tauro-geminis-cancer-leo-virgo-libra-escorpio-sagitario-capricornio-acuario-piscis-lbposting-noticia/",
-          "fuente": "El Comercio Perú",
-          "publicado_en": "2026-11-07T13:06:07+00:00",
+          "titulo": "Comas: vecinos se solidarizan con dueño de local que habría perdido todas sus pertenencias en incendio",
+          "url": "https://rpp.pe/lima/actualidad/comas-vecinos-se-solidarizan-con-dueno-de-local-que-habria-perdido-todas-sus-pertenencias-en-incendio-noticia-1716633",
+          "fuente": "RPP",
+          "publicado_en": "2026-11-08T13:38:38+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Municipalidad de Lima: estos son los resultados de la ONPE al 99.992% de actas contabilizadas",
-          "url": "https://elcomercio.pe/politica/elecciones/alcaldia-de-lima-resultados-onpe-100-de-elecciones-regionales-y-municipales-2026-rafael-lopez-aliaga-de-renovacion-popular-y-francis-allison-de-avanza-pais-ultimas-noticia/",
+          "titulo": "Lluvias en Perú por Fenómeno El Niño en vivo hoy: lluvias, inundaciones, activaciones de quebradas y pronóstico de Senamhi",
+          "url": "https://elcomercio.pe/peru/lluvias-en-peru-por-fenomeno-el-nino-en-vivo-hoy-regiones-en-alerta-lluvias-inundaciones-y-pronostico-de-senamhi-lbposting-noticia/",
           "fuente": "El Comercio Perú",
-          "publicado_en": "2026-11-07T13:04:27+00:00",
+          "publicado_en": "2026-11-08T13:36:30+00:00",
+          "resumen": ""
+        },
+        {
+          "titulo": "Papa León XIV en Argentina EN VIVO: agenda y actividades en Buenos Aires, Córdoba y Luján",
+          "url": "https://elcomercio.pe/mundo/latinoamerica/papa-leon-xiv-en-argentina-en-vivo-hoy-domingo-8-de-noviembre-cuando-llega-agenda-de-su-visita-buenos-aires-cordoba-lujan-javier-milei-y-mas-noticias-del-sumo-pontifice-vaticano-lbposting-noticia/",
+          "fuente": "El Comercio Perú",
+          "publicado_en": "2026-11-08T13:35:09+00:00",
           "resumen": ""
         }
       ]
