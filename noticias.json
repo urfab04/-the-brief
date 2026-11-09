@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "fecha": "2026-11-08",
-  "actualizado_en": "2026-11-08T14:58:14+01:00",
+  "fecha": "2026-11-09",
+  "actualizado_en": "2026-11-09T17:59:01+01:00",
   "descripcion": "Agregación automática de titulares RSS. No constituye edición periodística verificada.",
   "fuentes_con_errores": [],
   "secciones": [
@@ -9,6 +9,27 @@
       "id": "tecnologia",
       "titulo": "Tecnología, IA y eCommerce",
       "noticias": [
+        {
+          "titulo": "El ‘hacker’ fantasma de Kim Jong-un: Park Jin-hyok y las conexiones exteriores del cibercrimen norcoreano",
+          "url": "https://elpais.com/tecnologia/2026-11-09/el-hacker-fantasma-de-kim-jong-un-park-jin-hyok-y-las-conexiones-exteriores-del-cibercrimen-norcoreano.html",
+          "fuente": "EL PAÍS · Tecnología",
+          "publicado_en": "2026-11-09T12:07:30+00:00",
+          "resumen": ""
+        },
+        {
+          "titulo": "El Gobierno se plantea paralizar los servicios de TikTok en España por permitir abuso sexual infantil",
+          "url": "https://elpais.com/tecnologia/2026-11-09/el-gobierno-se-plantea-paralizar-los-servicios-de-tiktok-en-espana-por-permitir-abuso-sexual-infantil.html",
+          "fuente": "EL PAÍS · Tecnología",
+          "publicado_en": "2026-11-09T09:58:21+00:00",
+          "resumen": ""
+        },
+        {
+          "titulo": "Una investigación española descubre miles de nuevos vídeos y perfiles pedófilos en TikTok",
+          "url": "https://elpais.com/tecnologia/2026-11-09/una-investigacion-espanola-descubre-miles-de-nuevos-videos-y-perfiles-pedofilos-en-tiktok.html",
+          "fuente": "EL PAÍS · Tecnología",
+          "publicado_en": "2026-11-09T06:00:00+00:00",
+          "resumen": ""
+        },
         {
           "titulo": "De la nevera al agua del grifo o la luz: los ciberataques ya impactan en la vida cotidiana",
           "url": "https://elpais.com/tecnologia/2026-11-08/de-la-nevera-al-agua-del-grifo-o-la-luz-los-ciberataques-ya-impactan-en-la-vida-cotidiana.html",
@@ -22,20 +43,6 @@
           "fuente": "EL PAÍS · Tecnología",
           "publicado_en": "2026-11-07T04:30:01+00:00",
           "resumen": ""
-        },
-        {
-          "titulo": "Un ciberataque expone los datos médicos y financieros de casi un quinto de la población de Moldavia",
-          "url": "https://elpais.com/sociedad/2026-11-06/un-ciberataque-expone-los-datos-medicos-y-financieros-de-casi-un-cuarto-de-la-poblacion-de-moldavia.html",
-          "fuente": "EL PAÍS · Tecnología",
-          "publicado_en": "2026-11-06T14:40:09+00:00",
-          "resumen": ""
-        },
-        {
-          "titulo": "IA soberana: la apuesta de las grandes empresas para ocultar sus datos a los tecnoligarcas estadounidenses",
-          "url": "https://elpais.com/tecnologia/2026-11-06/ia-soberana-la-apuesta-de-las-grandes-empresas-para-ocultar-sus-datos-a-los-tecnoligarcas-estadounidenses.html",
-          "fuente": "EL PAÍS · Tecnología",
-          "publicado_en": "2026-11-06T04:30:01+00:00",
-          "resumen": ""
         }
       ]
     },
@@ -44,73 +51,73 @@
       "titulo": "Empleo, negocios y formación",
       "noticias": [
         {
-          "titulo": "Las recetas de los supermercados para evitar los ‘hackeos’: segmentar las redes y cifrar los métodos de acceso",
-          "url": "https://elpais.com/economia/2026-11-08/las-recetas-de-los-supermercados-para-evitar-los-hackeos-segmentar-las-redes-y-cifrar-los-metodos-de-acceso.html",
+          "titulo": "El Gobierno inicia el trámite para reconocer el origen profesional de las enfermedades de las ‘kellys’",
+          "url": "https://elpais.com/economia/2026-11-09/el-gobierno-reconocera-el-origen-profesional-de-las-enfermedades-de-las-kellys.html",
           "fuente": "EL PAÍS · Economía",
-          "publicado_en": "2026-11-08T04:45:01+00:00",
+          "publicado_en": "2026-11-09T15:54:05+00:00",
           "resumen": ""
         },
         {
-          "titulo": "¿Qué pasa con la vivienda? 11 gráficos para entender causas y consecuencias del problema",
-          "url": "https://elpais.com/economia/vivienda/2026-11-08/que-pasa-con-la-vivienda-11-graficos-para-entender-causas-y-consecuencias-del-problema.html",
+          "titulo": "Elon Musk contempla la compra de un operador móvil para acelerar su despliegue inalámbrico en EE UU",
+          "url": "https://cincodias.elpais.com/companias/2026-11-09/elon-musk-contempla-la-compra-de-un-operador-movil-para-acelerar-su-despliegue-inalambrico-en-ee-uu.html",
           "fuente": "EL PAÍS · Economía",
-          "publicado_en": "2026-11-08T04:45:01+00:00",
+          "publicado_en": "2026-11-09T12:10:32+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Las claves: el mecanismo de retirada del aceite deberá ser evaluado con atención",
-          "url": "https://cincodias.elpais.com/opinion/2026-11-08/las-claves-el-mecanismo-de-retirada-del-aceite-debera-ser-evaluado-con-atencion.html",
+          "titulo": "CaixaBank prevé que el PIB español crezca un 2% en 2027, por encima de la zona euro",
+          "url": "https://elpais.com/economia/2026-11-09/caixabank-preve-que-el-pib-espanol-crezca-un-2-en-2027-por-encima-de-la-zona-euro.html",
           "fuente": "EL PAÍS · Economía",
-          "publicado_en": "2026-11-08T04:40:00+00:00",
+          "publicado_en": "2026-11-09T12:01:04+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Sam Houser, el hombre invisible detrás del imperio de ‘Grand Theft Auto’",
-          "url": "https://cincodias.elpais.com/opinion/2026-11-08/sam-houser-el-hombre-invisible-detras-del-imperio-de-grand-theft-auto.html",
+          "titulo": "Estos son los servicios mínimos de transporte y otras áreas para la huelga general del 11 de noviembre",
+          "url": "https://elpais.com/economia/2026-11-09/estos-son-los-servicios-minimos-de-transporte-y-otras-areas-para-la-huelga-general-del-11-de-noviembre.html",
           "fuente": "EL PAÍS · Economía",
-          "publicado_en": "2026-11-08T04:40:00+00:00",
+          "publicado_en": "2026-11-09T11:27:01+00:00",
           "resumen": ""
         },
         {
-          "titulo": "De la nevera al agua del grifo o la luz: los ciberataques ya impactan en la vida cotidiana",
-          "url": "https://elpais.com/tecnologia/2026-11-08/de-la-nevera-al-agua-del-grifo-o-la-luz-los-ciberataques-ya-impactan-en-la-vida-cotidiana.html",
+          "titulo": "Los sindicatos se preparan para un seguimiento “desigual” de la huelga por territorios, sectores y edades",
+          "url": "https://elpais.com/economia/2026-11-09/los-sindicatos-preven-un-seguimiento-desigual-por-territorios-sectores-y-edades-en-la-huelga-general.html",
           "fuente": "EL PAÍS · Economía",
-          "publicado_en": "2026-11-08T04:30:01+00:00",
+          "publicado_en": "2026-11-09T04:45:01+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Un Estado fuerte para un mercado libre",
-          "url": "https://elpais.com/economia/negocios/2026-11-08/un-estado-fuerte-para-un-mercado-libre.html",
+          "titulo": "El tropiezo de la IA que comenzó en China se extiende a Estados Unidos",
+          "url": "https://cincodias.elpais.com/mercados-financieros/2026-11-09/la-burbuja-bursatil-de-la-ia-pincho-primero-en-china-el-star-50-pierde-casi-la-mitad-de-su-valor.html",
           "fuente": "EL PAÍS · Economía",
-          "publicado_en": "2026-11-08T04:30:00+00:00",
+          "publicado_en": "2026-11-09T04:45:01+00:00",
           "resumen": ""
         },
         {
-          "titulo": "IA segura: el equilibrio entre el riesgo y la oportunidad",
-          "url": "https://elpais.com/economia/negocios/2026-11-08/ia-segura-el-equilibrio-entre-el-riesgo-y-la-oportunidad.html",
+          "titulo": "Más de la mitad de la oferta de alquiler de vivienda es de habitaciones y de temporada",
+          "url": "https://elpais.com/economia/vivienda/2026-11-09/mas-de-la-mitad-de-la-oferta-de-alquiler-de-vivienda-es-de-habitaciones-y-de-temporada.html",
           "fuente": "EL PAÍS · Economía",
-          "publicado_en": "2026-11-08T04:30:00+00:00",
+          "publicado_en": "2026-11-09T04:45:01+00:00",
           "resumen": ""
         },
         {
-          "titulo": "España necesita presupuestos",
-          "url": "https://elpais.com/economia/negocios/2026-11-08/espana-necesita-presupuestos.html",
+          "titulo": "Pensiones con visión progresista",
+          "url": "https://elpais.com/economia/2026-11-09/pensiones-con-vision-progresista.html",
           "fuente": "EL PAÍS · Economía",
-          "publicado_en": "2026-11-08T04:30:00+00:00",
+          "publicado_en": "2026-11-09T04:45:01+00:00",
           "resumen": ""
         },
         {
-          "titulo": "GTA VI: por qué el lanzamiento del siglo cambiará el sector de los videojuegos (y será más difícil prestarlos o revenderlos)",
-          "url": "https://elpais.com/economia/negocios/2026-11-08/gta-vi-por-que-el-lanzamiento-del-siglo-cambiara-el-sector-de-los-videojuegos-y-sera-mas-dificil-prestarlos-o-revenderlos.html",
+          "titulo": "La eterna torre de Babel",
+          "url": "https://cincodias.elpais.com/opinion/2026-11-09/la-eterna-torre-de-babel.html",
           "fuente": "EL PAÍS · Economía",
-          "publicado_en": "2026-11-08T04:30:00+00:00",
+          "publicado_en": "2026-11-09T04:40:00+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Los deberes económicos tras el 29-N: vivienda, infraestructuras, Presupuestos y  pensiones, entre los más urgentes",
-          "url": "https://elpais.com/economia/negocios/2026-11-07/los-deberes-economicos-tras-el-29-n-vivienda-infraestructuras-presupuestos-y-pensiones-entre-los-mas-urgentes.html",
+          "titulo": "Munich trata de resolver el expediente X de sus zapatillas: de acelerar la apertura de tiendas a aplicar recortes",
+          "url": "https://elpais.com/economia/negocios/2026-11-09/munich-trata-de-resolver-el-expediente-x-de-sus-zapatillas-de-acelerar-la-apertura-de-tiendas-a-aplicar-recortes.html",
           "fuente": "EL PAÍS · Economía",
-          "publicado_en": "2026-11-07T16:30:00+00:00",
+          "publicado_en": "2026-11-09T04:30:00+00:00",
           "resumen": ""
         }
       ]
@@ -120,73 +127,73 @@
       "titulo": "España y Andalucía",
       "noticias": [
         {
-          "titulo": "Rufián apuesta por el catalanismo en su primer mitin en solitario: \"Quiero un PSOE sometido a fuerzas soberanistas\"",
-          "url": "https://www.eldiario.es/catalunya/rufian-apuesta-catalanismo-primer-mitin-solitario-quiero-psoe-sometido-fuerzas-sobreranistas_1_13647784.html",
+          "titulo": "La justicia francesa investiga a un grupo iraní como presunto responsable de los hackeos contra supermercados europeos",
+          "url": "https://www.eldiario.es/tecnologia/justicia-francesa-investiga-grupo-irani-presunto-responsable-hackeos-supermercados-europeos_1_13650369.html",
           "fuente": "ElDiario.es",
-          "publicado_en": "2026-11-08T13:17:07+00:00",
+          "publicado_en": "2026-11-09T16:33:01+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Sánchez pide un \"voto en masa contra la involución\" de PP y Vox: \"Feijóo no es más triste porque no quiere\"",
-          "url": "https://www.eldiario.es/euskadi/sanchez-pide-voto-masa-involucion-pp-vox-feijoo-no-triste-no-quiere_1_13647215.html",
+          "titulo": "El Plan Auto+ inicia la adjudicación de ayudas a coches eléctricos en la cuenta atrás para agotar el presupuesto",
+          "url": "https://www.eldiario.es/motor/sector_y_mercado/plan-auto-inicia-adjudicacion-ayudas-coches-electricos-cuenta-agotar-presupuesto_1_13649398.html",
           "fuente": "ElDiario.es",
-          "publicado_en": "2026-11-08T12:59:45+00:00",
+          "publicado_en": "2026-11-09T16:24:18+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Feijóo tacha a Sánchez de \"personaje de cartón piedra\" y le pide \"menos mirar a Trump y más a los trenes\"",
-          "url": "https://www.eldiario.es/politica/feijoo-tacha-sanchez-personaje-carton-piedra-le-pide-mirar-trump-mirar-trenes_1_13647717.html",
-          "fuente": "ElDiario.es",
-          "publicado_en": "2026-11-08T12:40:38+00:00",
+          "titulo": "El Supremo rechaza suspender también el voto de los 189.000 hijos de los nacionalizados por la ‘ley de nietos’",
+          "url": "https://elpais.com/espana/elecciones-generales/2026-11-09/el-supremo-rechaza-suspender-tambien-el-derecho-al-voto-de-los-hijos-de-los-nacionalizados-por-la-ley-de-nietos.html",
+          "fuente": "EL PAÍS · España",
+          "publicado_en": "2026-11-09T16:09:24+00:00",
           "resumen": ""
         },
         {
-          "titulo": "La ruta por este valle extremeño con más de mil hectáreas de castaños además de especies características del clima atlántico y mediterráneo",
-          "url": "https://www.eldiario.es/viajes/ruta-valle-extremeno-mil-hectareas-castanos-ademas-especies-caracteristicas-clima-atlantico-mediterraneo-pm_1_13647505.html",
+          "titulo": "¿Tengo que informar si falto al trabajo? ¿Hay servicios mínimos? Guía de derechos y deberes en la huelga del 11N",
+          "url": "https://www.eldiario.es/economia/informar-si-falto-trabajo-hay-servicios-minimos-guia-derechos-deberes-huelga-11n_1_13648984.html",
           "fuente": "ElDiario.es",
-          "publicado_en": "2026-11-08T12:00:04+00:00",
+          "publicado_en": "2026-11-09T16:01:00+00:00",
           "resumen": ""
         },
         {
-          "titulo": "La borrasca Bruna llega a Canarias más debilitada de lo previsto y Emergencias rebaja la alerta por lluvias y oleaje",
-          "url": "https://www.eldiario.es/canariasahora/sociedad/borrasca-bruna-llega-canarias-debilitada-previsto-emergencias-rebaja-alerta-lluvias-oleaje_1_13647817.html",
+          "titulo": "\"¿De verdad hay alguien que crea que estas elecciones fueron limpias?\": Trump patalea tras la debacle y agita sin pruebas el fantasma del fraude",
+          "url": "https://www.eldiario.es/internacional/hay-alguien-crea-elecciones-limpias-trump-patalea-debacle-agita-pruebas-fantasma-fraude_1_13650226.html",
           "fuente": "ElDiario.es",
-          "publicado_en": "2026-11-08T11:58:26+00:00",
+          "publicado_en": "2026-11-09T15:31:11+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Nueva tragedia en la ruta canaria: al menos veinte muertos al encallar una embarcación en la costa de Senegal",
-          "url": "https://www.eldiario.es/canariasahora/migraciones/nueva-tragedia-migratoria-veinte-muertos-encallar-embarcacion-costa-senegal_1_13647749.html",
+          "titulo": "\"Ready for AOC!\": arranca el movimiento para impulsar la candidatura presidencial de Alexandria Ocasio-Cortez",
+          "url": "https://www.eldiario.es/internacional/ready-for-aoc-arranca-movimiento-impulsar-candidatura-presidencial-alexandria-ocasio-cortez_1_13650066.html",
           "fuente": "ElDiario.es",
-          "publicado_en": "2026-11-08T11:32:13+00:00",
+          "publicado_en": "2026-11-09T15:08:54+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Cargas de los Mossos durante el desalojo de un edificio de la Sareb que llevaba una década vacío en Manresa",
-          "url": "https://www.eldiario.es/catalunya/cargas-mossos-durante-desalojo-edificio-sareb-llevaba-decada-vacio_1_13647713.html",
+          "titulo": "La relación del CEO de Nvidia con una presunta espía china lastra casi un 6% sus acciones en Bolsa",
+          "url": "https://www.eldiario.es/economia/relacion-ceo-nvidia-presunta-espia-china-lastra-6-acciones-bolsa_1_13650152.html",
           "fuente": "ElDiario.es",
-          "publicado_en": "2026-11-08T11:25:52+00:00",
+          "publicado_en": "2026-11-09T15:05:38+00:00",
           "resumen": ""
         },
         {
-          "titulo": "La basura del Pacífico ya no solo amenaza a los animales marinos: ahora podría estar alterando el color del agua",
-          "url": "https://www.eldiario.es/spin/basura-pacifico-no-amenaza-animales-marinos-ahora-alterando-color-agua-pm_1_13645880.html",
+          "titulo": "La jueza de la dana dice que faltaron \"alertas y comunicaciones precisas\" y \"control efectivo\" de \"fuentes de riesgo\"",
+          "url": "https://www.eldiario.es/comunitat-valenciana/jueza-dana-dice-faltaron-alertas-comunicaciones-precisas-control-efectivo-fuentes-riesgo_1_13650051.html",
           "fuente": "ElDiario.es",
-          "publicado_en": "2026-11-08T11:21:14+00:00",
+          "publicado_en": "2026-11-09T15:03:54+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Homenajeado en el Masters 1.000 de su ciudad natal, este divertido jugador se ha despedido del tenis con una emotiva carta",
-          "url": "https://www.eldiario.es/spin/deportes/homenajeado-masters-1-000-ciudad-natal-divertido-jugador-despedido-tenis-emotiva-carta-pm_1_13647497.html",
+          "titulo": "El actor Russell Brand, condenado a 10 años y seis meses por violación y agresión sexual",
+          "url": "https://www.eldiario.es/cultura/actor-russell-brand-condenado-10-anos-seis-meses-violacion-agresion-sexual_1_13650062.html",
           "fuente": "ElDiario.es",
-          "publicado_en": "2026-11-08T10:30:06+00:00",
+          "publicado_en": "2026-11-09T14:43:40+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Construido en el siglo XV para frenar a otomanos y tártaros, este castillo es una de las joyas arquitectónicas de esta antigua república soviética",
-          "url": "https://www.eldiario.es/viajes/construido-siglo-xv-frenar-otomanos-tartaros-castillo-joyas-arquitectonicas-antigua-republica-sovietica-pm_1_13647487.html",
+          "titulo": "Ley de Fitts: la explicación científica a por qué fallamos más cuando tenemos prisa",
+          "url": "https://www.eldiario.es/spin/ley-fitts-explicacion-cientifica-fallamos-prisa-pm_1_13649503.html",
           "fuente": "ElDiario.es",
-          "publicado_en": "2026-11-08T10:00:45+00:00",
+          "publicado_en": "2026-11-09T14:30:50+00:00",
           "resumen": ""
         }
       ]
@@ -196,73 +203,73 @@
       "titulo": "Perú",
       "noticias": [
         {
-          "titulo": "Temblor en México hoy, domingo 8 de noviembre, según el SSN: epicentro y magnitud",
-          "url": "https://elcomercio.pe/respuestas/mexico/temblor-en-mexico-hoy-en-vivo-7-y-8-de-noviembre-2026-ultimos-sismos-segun-el-ssn-servicio-sismologico-nacional-lbposting-noticia/",
+          "titulo": "El Comercio con el papa León XIV en Argentina: 800 mil personas registradas para la misa a cargo del Sumo Pontífice",
+          "url": "https://elcomercio.pe/mundo/latinoamerica/el-comercio-con-el-papa-leon-xiv-800-mil-personas-registradas-para-la-misa-del-sumo-pontifice-noticia/",
           "fuente": "El Comercio Perú",
-          "publicado_en": "2026-11-08T13:53:27+00:00",
+          "publicado_en": "2026-11-09T16:51:51+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Temblor hoy en Colombia, domingo 8 de noviembre: reportes de los sismos según el SGC",
-          "url": "https://elcomercio.pe/respuestas/colombia/temblor-en-colombia-hoy-en-vivo-7-y-8-de-noviembre-2026-ultimos-sismos-segun-el-sgc-servicio-geologico-colombiano-lbposting-noticia/",
+          "titulo": "Los expertos en psicología coinciden: quienes prefieren estar con las cortinas abiertas todo el día buscan conexión y mejor bienestar emocional",
+          "url": "https://elcomercio.pe/mag/respuestas/los-expertos-en-psicologia-coinciden-quienes-prefieren-estar-con-las-cortinas-abiertas-todo-el-dia-buscan-conexion-y-mejor-bienestar-emocional-nnda-nnni-noticia/",
           "fuente": "El Comercio Perú",
-          "publicado_en": "2026-11-08T13:52:11+00:00",
+          "publicado_en": "2026-11-09T16:50:24+00:00",
           "resumen": ""
         },
         {
-          "titulo": "El papa León XIV en Uruguay: agenda completa, misas y recorrido en EN VIVO",
-          "url": "https://elcomercio.pe/mundo/latinoamerica/papa-leon-xiv-en-uruguay-en-vivo-hoy-ultimas-noticias-cuando-llega-donde-estara-rutas-agenda-de-su-visita-en-montevideo-paysandu-y-mas-noticias-del-sumo-pontifice-vaticano-lbposting-noticia/",
+          "titulo": "Papa León XIV en Perú: presentan y bendicen el avión que lo trasladará durante su visita al país",
+          "url": "https://elcomercio.pe/lima/papa-leon-xiv-en-peru-presentan-y-bendicen-el-avion-que-lo-trasladara-durante-su-visita-al-pais-gira-sudamerica-2026-apuesplan-ultimas-noticia/",
           "fuente": "El Comercio Perú",
-          "publicado_en": "2026-11-08T13:48:38+00:00",
+          "publicado_en": "2026-11-09T16:45:35+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Irán ejecuta a tres hombres por su participación en las protestas de enero: ya son 39 en total",
-          "url": "https://elcomercio.pe/mundo/oriente-medio/iran-ejecuta-a-tres-hombres-por-su-participacion-en-las-protestas-de-enero-ya-son-39-en-total-ultimas-noticia/",
+          "titulo": "¿Qué rutas dejarán de circular en Lima por el paro de transportistas de este 10 de noviembre?",
+          "url": "https://elcomercio.pe/respuestas/que/que-rutas-dejaran-de-circular-en-lima-por-el-paro-de-transportistas-de-este-10-de-noviembre-tdpe-noticia/",
           "fuente": "El Comercio Perú",
-          "publicado_en": "2026-11-08T13:46:28+00:00",
+          "publicado_en": "2026-11-09T16:44:56+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Maido Hub, el nuevo laboratorio creativo del ganador del 50 Best Restaurants, liderado por ‘Micha’ Tsumura",
-          "url": "https://elcomercio.pe/somos/gastronomia/maido-hub-el-nuevo-laboratorio-creativo-del-ganador-del-the-50-best-restaurants-liderado-por-micha-tsumura-apuesplan-noticia/",
+          "titulo": "El Comercio, América Multimedia y la SNI  realizaron el foro sobre economía, inversión y reconstrucción tras El Niño",
+          "url": "https://elcomercio.pe/economia/el-comercio-y-america-multimedia-organizan-foro-sobre-economia-inversion-y-reconstruccion-tras-el-nino-noticia/",
           "fuente": "El Comercio Perú",
-          "publicado_en": "2026-11-08T13:45:56+00:00",
+          "publicado_en": "2026-11-09T16:44:52+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Temblor en Venezuela hoy, domingo 8 de noviembre: epicentro, hora y magnitud",
-          "url": "https://elcomercio.pe/respuestas/venezuela/temblor-en-venezuela-en-vivo-profundidad-intensidad-epicentro-y-magnitud-del-ultimo-sismo-reportado-este-7-y-8-de-noviembre-de-2026-segun-el-funvisis-noticia/",
+          "titulo": "Papa León XIV: Teleticket habilita este lunes 9 de noviembre entradas para “Vigilia de los jóvenes”",
+          "url": "https://elcomercio.pe/lima/sucesos/papa-leon-xiv-teleticket-habilita-entradas-para-encuentro-juvenil-vigilia-de-los-jovenes-con-pontifice-en-el-estadio-nacional-apuesplan-ultimas-noticia/",
           "fuente": "El Comercio Perú",
-          "publicado_en": "2026-11-08T13:45:47+00:00",
+          "publicado_en": "2026-11-09T16:44:44+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Temblor hoy en Perú, domingo 8 de noviembre: epicentro, magnitud y hora exacta",
-          "url": "https://elcomercio.pe/respuestas/hoy-temblor-en-peru-en-vivo-ultimos-sismos-7-y-8-de-noviembre-2026-hora-magnitud-y-epicentro-del-reporte-segun-el-igp-instituto-geofisico-del-peru-ancash-lima-indeci-noticia/",
+          "titulo": "BCR acuña medallas de plata y alpaca alusivas a la visita del Papa León XIV al Perú",
+          "url": "https://elcomercio.pe/economia/peru/bcr-acuna-medallas-de-plata-y-alpaca-alusivas-a-la-visita-del-papa-leon-xiv-al-peru-l-gira-sudamerica-2026-l-ultimas-noticia/",
           "fuente": "El Comercio Perú",
-          "publicado_en": "2026-11-08T13:43:03+00:00",
+          "publicado_en": "2026-11-09T16:44:37+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Comas: vecinos se solidarizan con dueño de local que habría perdido todas sus pertenencias en incendio",
-          "url": "https://rpp.pe/lima/actualidad/comas-vecinos-se-solidarizan-con-dueno-de-local-que-habria-perdido-todas-sus-pertenencias-en-incendio-noticia-1716633",
-          "fuente": "RPP",
-          "publicado_en": "2026-11-08T13:38:38+00:00",
+          "titulo": "Papa León XIV en Lima: conoce las calles que serán cerradas por la vigilia del 12 de noviembre",
+          "url": "https://elcomercio.pe/respuestas/donde/papa-leon-xiv-en-lima-conoce-las-calles-que-seran-cerradas-por-la-vigilia-del-12-de-noviembre-tdpe-noticia/",
+          "fuente": "El Comercio Perú",
+          "publicado_en": "2026-11-09T16:44:15+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Lluvias en Perú por Fenómeno El Niño en vivo hoy: lluvias, inundaciones, activaciones de quebradas y pronóstico de Senamhi",
-          "url": "https://elcomercio.pe/peru/lluvias-en-peru-por-fenomeno-el-nino-en-vivo-hoy-regiones-en-alerta-lluvias-inundaciones-y-pronostico-de-senamhi-lbposting-noticia/",
+          "titulo": "Proinversión sobre Obras por Impuestos: “Es el trimestre de las mayores adjudicaciones en 18 años”",
+          "url": "https://elcomercio.pe/economia/proinversion-sobre-obras-por-impuestos-es-el-trimestre-de-las-mayores-adjudicaciones-en-18-anos-noticia/",
           "fuente": "El Comercio Perú",
-          "publicado_en": "2026-11-08T13:36:30+00:00",
+          "publicado_en": "2026-11-09T16:43:56+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Papa León XIV en Argentina EN VIVO: agenda y actividades en Buenos Aires, Córdoba y Luján",
-          "url": "https://elcomercio.pe/mundo/latinoamerica/papa-leon-xiv-en-argentina-en-vivo-hoy-domingo-8-de-noviembre-cuando-llega-agenda-de-su-visita-buenos-aires-cordoba-lujan-javier-milei-y-mas-noticias-del-sumo-pontifice-vaticano-lbposting-noticia/",
+          "titulo": "La transformación de las aerolíneas ‘low cost’, el ingreso de nuevos jugadores y el alto precio del combustible redefinen el sector",
+          "url": "https://elcomercio.pe/economia/dia-1/la-transformacion-de-las-low-cost-el-ingreso-de-nuevas-aerolineas-y-el-alto-precio-del-combustible-redefinen-el-sector-noticia/",
           "fuente": "El Comercio Perú",
-          "publicado_en": "2026-11-08T13:35:09+00:00",
+          "publicado_en": "2026-11-09T16:43:48+00:00",
           "resumen": ""
         }
       ]
