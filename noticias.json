@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "fecha": "2026-11-09",
-  "actualizado_en": "2026-11-09T17:59:01+01:00",
+  "fecha": "2026-11-10",
+  "actualizado_en": "2026-11-10T16:19:10+01:00",
   "descripcion": "Agregación automática de titulares RSS. No constituye edición periodística verificada.",
   "fuentes_con_errores": [],
   "secciones": [
@@ -9,6 +9,13 @@
       "id": "tecnologia",
       "titulo": "Tecnología, IA y eCommerce",
       "noticias": [
+        {
+          "titulo": "Así logró China engañar al empresario más poderoso de la IA con una operación de seducción",
+          "url": "https://elpais.com/tecnologia/2026-11-10/asi-logro-china-enganar-al-empresario-mas-poderoso-de-la-ia-con-una-operacion-de-seduccion.html",
+          "fuente": "EL PAÍS · Tecnología",
+          "publicado_en": "2026-11-10T04:30:01+00:00",
+          "resumen": ""
+        },
         {
           "titulo": "El ‘hacker’ fantasma de Kim Jong-un: Park Jin-hyok y las conexiones exteriores del cibercrimen norcoreano",
           "url": "https://elpais.com/tecnologia/2026-11-09/el-hacker-fantasma-de-kim-jong-un-park-jin-hyok-y-las-conexiones-exteriores-del-cibercrimen-norcoreano.html",
@@ -36,13 +43,6 @@
           "fuente": "EL PAÍS · Tecnología",
           "publicado_en": "2026-11-08T04:30:01+00:00",
           "resumen": ""
-        },
-        {
-          "titulo": "Llega la primera movilización europea contra los centros de datos: “No queremos ser el patio trasero de nadie”",
-          "url": "https://elpais.com/tecnologia/2026-11-07/llega-la-primera-movilizacion-europea-contra-los-centros-de-datos-no-queremos-ser-el-patio-trasero-de-nadie.html",
-          "fuente": "EL PAÍS · Tecnología",
-          "publicado_en": "2026-11-07T04:30:01+00:00",
-          "resumen": ""
         }
       ]
     },
@@ -51,73 +51,73 @@
       "titulo": "Empleo, negocios y formación",
       "noticias": [
         {
-          "titulo": "El Gobierno inicia el trámite para reconocer el origen profesional de las enfermedades de las ‘kellys’",
-          "url": "https://elpais.com/economia/2026-11-09/el-gobierno-reconocera-el-origen-profesional-de-las-enfermedades-de-las-kellys.html",
+          "titulo": "Los salarios de convenio crecen un 3,1%, casi dos puntos menos que la inflación",
+          "url": "https://elpais.com/economia/2026-11-10/los-salarios-de-convenio-crecen-un-31-casi-dos-puntos-menos-que-la-inflacion.html",
           "fuente": "EL PAÍS · Economía",
-          "publicado_en": "2026-11-09T15:54:05+00:00",
+          "publicado_en": "2026-11-10T13:04:30+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Elon Musk contempla la compra de un operador móvil para acelerar su despliegue inalámbrico en EE UU",
-          "url": "https://cincodias.elpais.com/companias/2026-11-09/elon-musk-contempla-la-compra-de-un-operador-movil-para-acelerar-su-despliegue-inalambrico-en-ee-uu.html",
+          "titulo": "Vodafone eleva previsiones pese a registrar pérdidas de 3.597 millones por ajustes contables",
+          "url": "https://cincodias.elpais.com/companias/2026-11-10/vodafone-eleva-previsiones-pese-a-registrar-perdidas-de-3597-millones-por-ajustes-contables.html",
           "fuente": "EL PAÍS · Economía",
-          "publicado_en": "2026-11-09T12:10:32+00:00",
+          "publicado_en": "2026-11-10T08:38:27+00:00",
           "resumen": ""
         },
         {
-          "titulo": "CaixaBank prevé que el PIB español crezca un 2% en 2027, por encima de la zona euro",
-          "url": "https://elpais.com/economia/2026-11-09/caixabank-preve-que-el-pib-espanol-crezca-un-2-en-2027-por-encima-de-la-zona-euro.html",
+          "titulo": "¿Tengo que avisar a mi jefe? ¿Y si trabajo de noche? Dudas sobre los derechos en la huelga general del 11-N",
+          "url": "https://elpais.com/economia/2026-11-10/tengo-que-avisar-a-mi-jefe-y-si-trabajo-de-noche-dudas-sobre-los-derechos-en-la-huelga-general-del-11-n.html",
           "fuente": "EL PAÍS · Economía",
-          "publicado_en": "2026-11-09T12:01:04+00:00",
+          "publicado_en": "2026-11-10T04:45:01+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Estos son los servicios mínimos de transporte y otras áreas para la huelga general del 11 de noviembre",
-          "url": "https://elpais.com/economia/2026-11-09/estos-son-los-servicios-minimos-de-transporte-y-otras-areas-para-la-huelga-general-del-11-de-noviembre.html",
+          "titulo": "Anacláudia Rossbach (ONU-Hábitat): “Las políticas de vivienda que teníamos no están funcionando”",
+          "url": "https://elpais.com/economia/vivienda/2026-11-10/anaclaudia-rossbach-onu-habitat-las-politicas-de-vivienda-que-teniamos-no-estan-funcionando.html",
           "fuente": "EL PAÍS · Economía",
-          "publicado_en": "2026-11-09T11:27:01+00:00",
+          "publicado_en": "2026-11-10T04:45:01+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Los sindicatos se preparan para un seguimiento “desigual” de la huelga por territorios, sectores y edades",
-          "url": "https://elpais.com/economia/2026-11-09/los-sindicatos-preven-un-seguimiento-desigual-por-territorios-sectores-y-edades-en-la-huelga-general.html",
+          "titulo": "España registra una de las mayores subidas de la presión fiscal en la UE, pero sigue por debajo de la media",
+          "url": "https://elpais.com/economia/2026-11-10/espana-registra-una-de-las-mayores-subidas-de-la-presion-fiscal-en-la-ue-pero-sigue-por-debajo-de-la-media.html",
           "fuente": "EL PAÍS · Economía",
-          "publicado_en": "2026-11-09T04:45:01+00:00",
+          "publicado_en": "2026-11-10T04:45:01+00:00",
           "resumen": ""
         },
         {
-          "titulo": "El tropiezo de la IA que comenzó en China se extiende a Estados Unidos",
-          "url": "https://cincodias.elpais.com/mercados-financieros/2026-11-09/la-burbuja-bursatil-de-la-ia-pincho-primero-en-china-el-star-50-pierde-casi-la-mitad-de-su-valor.html",
+          "titulo": "Crisis de gobernanza para uno de los líderes de la IA",
+          "url": "https://cincodias.elpais.com/opinion/2026-11-10/crisis-de-gobernanza-para-uno-de-los-lideres-de-la-ia.html",
           "fuente": "EL PAÍS · Economía",
-          "publicado_en": "2026-11-09T04:45:01+00:00",
+          "publicado_en": "2026-11-10T04:40:00+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Más de la mitad de la oferta de alquiler de vivienda es de habitaciones y de temporada",
-          "url": "https://elpais.com/economia/vivienda/2026-11-09/mas-de-la-mitad-de-la-oferta-de-alquiler-de-vivienda-es-de-habitaciones-y-de-temporada.html",
+          "titulo": "El rentismo contra los salarios y la economía productiva",
+          "url": "https://cincodias.elpais.com/opinion/2026-11-10/el-rentismo-contra-los-salarios-y-la-economia-productiva.html",
           "fuente": "EL PAÍS · Economía",
-          "publicado_en": "2026-11-09T04:45:01+00:00",
+          "publicado_en": "2026-11-10T04:40:00+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Pensiones con visión progresista",
-          "url": "https://elpais.com/economia/2026-11-09/pensiones-con-vision-progresista.html",
+          "titulo": "La crisis de Nvidia puede perjudicar a China más de lo que la beneficia",
+          "url": "https://cincodias.elpais.com/opinion/2026-11-10/la-crisis-de-nvidia-puede-perjudicar-a-china-mas-de-lo-que-la-beneficia.html",
           "fuente": "EL PAÍS · Economía",
-          "publicado_en": "2026-11-09T04:45:01+00:00",
+          "publicado_en": "2026-11-10T04:40:00+00:00",
           "resumen": ""
         },
         {
-          "titulo": "La eterna torre de Babel",
-          "url": "https://cincodias.elpais.com/opinion/2026-11-09/la-eterna-torre-de-babel.html",
+          "titulo": "Kevin Warsh gana las elecciones de mitad de mandato, por ahora",
+          "url": "https://cincodias.elpais.com/opinion/2026-11-10/kevin-warsh-gana-las-elecciones-de-mitad-de-mandato-por-ahora.html",
           "fuente": "EL PAÍS · Economía",
-          "publicado_en": "2026-11-09T04:40:00+00:00",
+          "publicado_en": "2026-11-10T04:40:00+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Munich trata de resolver el expediente X de sus zapatillas: de acelerar la apertura de tiendas a aplicar recortes",
-          "url": "https://elpais.com/economia/negocios/2026-11-09/munich-trata-de-resolver-el-expediente-x-de-sus-zapatillas-de-acelerar-la-apertura-de-tiendas-a-aplicar-recortes.html",
+          "titulo": "Las claves: la apuesta por la electrificación requiere voluntad y realismo",
+          "url": "https://cincodias.elpais.com/opinion/2026-11-10/las-claves-la-apuesta-por-la-electrificacion-requiere-voluntad-y-realismo.html",
           "fuente": "EL PAÍS · Economía",
-          "publicado_en": "2026-11-09T04:30:00+00:00",
+          "publicado_en": "2026-11-10T04:40:00+00:00",
           "resumen": ""
         }
       ]
@@ -127,73 +127,73 @@
       "titulo": "España y Andalucía",
       "noticias": [
         {
-          "titulo": "La justicia francesa investiga a un grupo iraní como presunto responsable de los hackeos contra supermercados europeos",
-          "url": "https://www.eldiario.es/tecnologia/justicia-francesa-investiga-grupo-irani-presunto-responsable-hackeos-supermercados-europeos_1_13650369.html",
+          "titulo": "Albares acusa al PP de boicotear el acuerdo de Gibraltar en el Parlamento Europeo",
+          "url": "https://www.eldiario.es/internacional/albares-acusa-pp-boicotear-acuerdo-gibraltar-parlamento-europeo_1_13652815.html",
           "fuente": "ElDiario.es",
-          "publicado_en": "2026-11-09T16:33:01+00:00",
+          "publicado_en": "2026-11-10T15:09:09+00:00",
           "resumen": ""
         },
         {
-          "titulo": "El Plan Auto+ inicia la adjudicación de ayudas a coches eléctricos en la cuenta atrás para agotar el presupuesto",
-          "url": "https://www.eldiario.es/motor/sector_y_mercado/plan-auto-inicia-adjudicacion-ayudas-coches-electricos-cuenta-agotar-presupuesto_1_13649398.html",
-          "fuente": "ElDiario.es",
-          "publicado_en": "2026-11-09T16:24:18+00:00",
-          "resumen": ""
-        },
-        {
-          "titulo": "El Supremo rechaza suspender también el voto de los 189.000 hijos de los nacionalizados por la ‘ley de nietos’",
-          "url": "https://elpais.com/espana/elecciones-generales/2026-11-09/el-supremo-rechaza-suspender-tambien-el-derecho-al-voto-de-los-hijos-de-los-nacionalizados-por-la-ley-de-nietos.html",
+          "titulo": "Muere un policía y otro resulta gravemente herido en una explosión en Oviedo",
+          "url": "https://elpais.com/espana/2026-11-10/un-policia-muerto-y-otro-herido-tras-una-explosion-en-oviedo.html",
           "fuente": "EL PAÍS · España",
-          "publicado_en": "2026-11-09T16:09:24+00:00",
+          "publicado_en": "2026-11-10T14:48:14+00:00",
           "resumen": ""
         },
         {
-          "titulo": "¿Tengo que informar si falto al trabajo? ¿Hay servicios mínimos? Guía de derechos y deberes en la huelga del 11N",
-          "url": "https://www.eldiario.es/economia/informar-si-falto-trabajo-hay-servicios-minimos-guia-derechos-deberes-huelga-11n_1_13648984.html",
+          "titulo": "La Fiscalía archiva la investigación por el presunto uso de reactivos caducados en un hospital de Málaga",
+          "url": "https://www.eldiario.es/andalucia/malaga/fiscalia-archiva-investigacion-presunto-reactivos-caducados-hospital-malaga_1_13652077.html",
           "fuente": "ElDiario.es",
-          "publicado_en": "2026-11-09T16:01:00+00:00",
+          "publicado_en": "2026-11-10T14:46:03+00:00",
           "resumen": ""
         },
         {
-          "titulo": "\"¿De verdad hay alguien que crea que estas elecciones fueron limpias?\": Trump patalea tras la debacle y agita sin pruebas el fantasma del fraude",
-          "url": "https://www.eldiario.es/internacional/hay-alguien-crea-elecciones-limpias-trump-patalea-debacle-agita-pruebas-fantasma-fraude_1_13650226.html",
+          "titulo": "Educación suspende las clases presenciales en La Palma por la alerta máxima por vientos y en La Graciosa por el oleaje",
+          "url": "https://www.eldiario.es/canariasahora/sociedad/educacion-suspende-clases-presenciales-palma-alerta-maxima-vientos-graciosa-oleaje_1_13652849.html",
           "fuente": "ElDiario.es",
-          "publicado_en": "2026-11-09T15:31:11+00:00",
+          "publicado_en": "2026-11-10T14:43:42+00:00",
           "resumen": ""
         },
         {
-          "titulo": "\"Ready for AOC!\": arranca el movimiento para impulsar la candidatura presidencial de Alexandria Ocasio-Cortez",
-          "url": "https://www.eldiario.es/internacional/ready-for-aoc-arranca-movimiento-impulsar-candidatura-presidencial-alexandria-ocasio-cortez_1_13650066.html",
+          "titulo": "La abogada de Koldo García renuncia a su defensa",
+          "url": "https://www.eldiario.es/politica/abogada-koldo-garcia-renuncia-defensa_1_13652818.html",
           "fuente": "ElDiario.es",
-          "publicado_en": "2026-11-09T15:08:54+00:00",
+          "publicado_en": "2026-11-10T14:33:54+00:00",
           "resumen": ""
         },
         {
-          "titulo": "La relación del CEO de Nvidia con una presunta espía china lastra casi un 6% sus acciones en Bolsa",
-          "url": "https://www.eldiario.es/economia/relacion-ceo-nvidia-presunta-espia-china-lastra-6-acciones-bolsa_1_13650152.html",
+          "titulo": "La historia de Teddy Riner: de cinco veces campeón olímpico de judo a candidato para ser presidente de Francia",
+          "url": "https://www.eldiario.es/spin/deportes/historia-teddy-riner-cinco-veces-campeon-olimpico-judo-candidato-presidente-francia-pm_1_13651670.html",
           "fuente": "ElDiario.es",
-          "publicado_en": "2026-11-09T15:05:38+00:00",
+          "publicado_en": "2026-11-10T14:30:16+00:00",
           "resumen": ""
         },
         {
-          "titulo": "La jueza de la dana dice que faltaron \"alertas y comunicaciones precisas\" y \"control efectivo\" de \"fuentes de riesgo\"",
-          "url": "https://www.eldiario.es/comunitat-valenciana/jueza-dana-dice-faltaron-alertas-comunicaciones-precisas-control-efectivo-fuentes-riesgo_1_13650051.html",
+          "titulo": "Extremadura suspende todas las clases este miércoles ante la llegada de la borrasca Charles y vientos de 120 km/h",
+          "url": "https://www.eldiario.es/extremadura/sociedad/extremadura-suspende-clases-miercoles-llegada-borrasca-charles-vientos-120-km-h_1_13652780.html",
           "fuente": "ElDiario.es",
-          "publicado_en": "2026-11-09T15:03:54+00:00",
+          "publicado_en": "2026-11-10T14:20:09+00:00",
           "resumen": ""
         },
         {
-          "titulo": "El actor Russell Brand, condenado a 10 años y seis meses por violación y agresión sexual",
-          "url": "https://www.eldiario.es/cultura/actor-russell-brand-condenado-10-anos-seis-meses-violacion-agresion-sexual_1_13650062.html",
-          "fuente": "ElDiario.es",
-          "publicado_en": "2026-11-09T14:43:40+00:00",
+          "titulo": "La Audiencia Nacional da luz verde a investigar a Zapatero por un supuesto tráfico de influencias en Bolivia",
+          "url": "https://elpais.com/espana/2026-11-10/la-audiencia-nacional-da-luz-verde-a-investigar-a-zapatero-por-un-supuesto-trafico-de-influencias-en-bolivia.html",
+          "fuente": "EL PAÍS · España",
+          "publicado_en": "2026-11-10T14:18:23+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Ley de Fitts: la explicación científica a por qué fallamos más cuando tenemos prisa",
-          "url": "https://www.eldiario.es/spin/ley-fitts-explicacion-cientifica-fallamos-prisa-pm_1_13649503.html",
+          "titulo": "Del temor de los vecinos por la explosión a la 'Operación Jaula' en Oviedo: \"Pudo haber sido una tragedia\"",
+          "url": "https://www.eldiario.es/asturias/temor-vecinos-explosion-operacion-jaula-oviedo-pudo-haber-sido-tragedia_1_13652299.html",
           "fuente": "ElDiario.es",
-          "publicado_en": "2026-11-09T14:30:50+00:00",
+          "publicado_en": "2026-11-10T14:07:43+00:00",
+          "resumen": ""
+        },
+        {
+          "titulo": "La Audiencia de Álava absuelve a los dos acusados por las denuncias de filtraciones en las oposiciones de Osakidetza de 2018",
+          "url": "https://www.eldiario.es/euskadi/audiencia-alava-absuelve-acusados-denuncias-filtraciones-oposiciones-osakidetza_1_13652506.html",
+          "fuente": "ElDiario.es",
+          "publicado_en": "2026-11-10T13:30:52+00:00",
           "resumen": ""
         }
       ]
@@ -203,73 +203,73 @@
       "titulo": "Perú",
       "noticias": [
         {
-          "titulo": "El Comercio con el papa León XIV en Argentina: 800 mil personas registradas para la misa a cargo del Sumo Pontífice",
-          "url": "https://elcomercio.pe/mundo/latinoamerica/el-comercio-con-el-papa-leon-xiv-800-mil-personas-registradas-para-la-misa-del-sumo-pontifice-noticia/",
+          "titulo": "​Wall Street abre en rojo tras dato de inflación en EE.UU. peor de lo previsto",
+          "url": "https://elcomercio.pe/economia/mercados/wall-street-abre-en-rojo-tras-dato-de-inflacion-en-eeuu-peor-de-lo-previsto-l-mercados-l-wall-street-l-ultimas-noticia/",
           "fuente": "El Comercio Perú",
-          "publicado_en": "2026-11-09T16:51:51+00:00",
+          "publicado_en": "2026-11-10T15:13:33+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Los expertos en psicología coinciden: quienes prefieren estar con las cortinas abiertas todo el día buscan conexión y mejor bienestar emocional",
-          "url": "https://elcomercio.pe/mag/respuestas/los-expertos-en-psicologia-coinciden-quienes-prefieren-estar-con-las-cortinas-abiertas-todo-el-dia-buscan-conexion-y-mejor-bienestar-emocional-nnda-nnni-noticia/",
-          "fuente": "El Comercio Perú",
-          "publicado_en": "2026-11-09T16:50:24+00:00",
+          "titulo": "Autor del ataque en Cracovia disparó \"decenas, quizás cientos\" de balas, reveló la Fiscalía",
+          "url": "https://rpp.pe/mundo/europa/polonia-autor-del-ataque-en-cracovia-disparo-decenas-quizas-cientos-de-balas-revelo-la-fiscalia-noticia-1716991",
+          "fuente": "RPP",
+          "publicado_en": "2026-11-10T15:10:35+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Papa León XIV en Perú: presentan y bendicen el avión que lo trasladará durante su visita al país",
-          "url": "https://elcomercio.pe/lima/papa-leon-xiv-en-peru-presentan-y-bendicen-el-avion-que-lo-trasladara-durante-su-visita-al-pais-gira-sudamerica-2026-apuesplan-ultimas-noticia/",
+          "titulo": "Un nuevo drama musical navideño de Netflix sobre fe, familia y redención: así es la película “The Gospel of Christmas”",
+          "url": "https://elcomercio.pe/mag/fama/que-ver/the-gospel-of-christmas-de-que-trata-y-fecha-de-estreno-guia-completa-de-la-pelicula-de-netflix-gospel-de-navidad-nnda-nnlt-noticia/",
           "fuente": "El Comercio Perú",
-          "publicado_en": "2026-11-09T16:45:35+00:00",
+          "publicado_en": "2026-11-10T15:10:14+00:00",
           "resumen": ""
         },
         {
-          "titulo": "¿Qué rutas dejarán de circular en Lima por el paro de transportistas de este 10 de noviembre?",
-          "url": "https://elcomercio.pe/respuestas/que/que-rutas-dejaran-de-circular-en-lima-por-el-paro-de-transportistas-de-este-10-de-noviembre-tdpe-noticia/",
+          "titulo": "El peligro invisible de usar cargadores genéricos: expertos confirman lo que ocurre en los circuitos de tu teléfono",
+          "url": "https://elcomercio.pe/respuestas/que/cargadores-genericos-expertos-confirman-lo-que-ocurre-en-los-circuitos-de-tu-telefono-tdpe-noticia/",
           "fuente": "El Comercio Perú",
-          "publicado_en": "2026-11-09T16:44:56+00:00",
+          "publicado_en": "2026-11-10T15:10:00+00:00",
           "resumen": ""
         },
         {
-          "titulo": "El Comercio, América Multimedia y la SNI  realizaron el foro sobre economía, inversión y reconstrucción tras El Niño",
-          "url": "https://elcomercio.pe/economia/el-comercio-y-america-multimedia-organizan-foro-sobre-economia-inversion-y-reconstruccion-tras-el-nino-noticia/",
+          "titulo": "Luis Galarreta sobre ausencia de Keiko Fujimori en despedida del papa: “El viaje a APEC es fundamental”",
+          "url": "https://elcomercio.pe/politica/gobierno/luis-galarreta-sobre-ausencia-de-keiko-fujimori-en-despedida-del-papa-el-viaje-a-apec-es-fundamental-ultimas-apuesplan-noticia/",
           "fuente": "El Comercio Perú",
-          "publicado_en": "2026-11-09T16:44:52+00:00",
+          "publicado_en": "2026-11-10T15:07:39+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Papa León XIV: Teleticket habilita este lunes 9 de noviembre entradas para “Vigilia de los jóvenes”",
-          "url": "https://elcomercio.pe/lima/sucesos/papa-leon-xiv-teleticket-habilita-entradas-para-encuentro-juvenil-vigilia-de-los-jovenes-con-pontifice-en-el-estadio-nacional-apuesplan-ultimas-noticia/",
+          "titulo": "Temblor en Chile hoy, martes 10 noviembre: epicentro y magnitud según último reporte SGC",
+          "url": "https://elcomercio.pe/respuestas/chile/temblor-en-chile-hoy-ultimos-sismos-de-noviembre-en-vivo-cual-fue-el-epicentro-y-magnitud-segun-reporte-csn-centro-sismologico-nacional-santiago-socaire-ollague-lbposting-noticia/",
           "fuente": "El Comercio Perú",
-          "publicado_en": "2026-11-09T16:44:44+00:00",
+          "publicado_en": "2026-11-10T15:04:09+00:00",
           "resumen": ""
         },
         {
-          "titulo": "BCR acuña medallas de plata y alpaca alusivas a la visita del Papa León XIV al Perú",
-          "url": "https://elcomercio.pe/economia/peru/bcr-acuna-medallas-de-plata-y-alpaca-alusivas-a-la-visita-del-papa-leon-xiv-al-peru-l-gira-sudamerica-2026-l-ultimas-noticia/",
+          "titulo": "Temblor en Perú hoy, martes 10 noviembre: epicentro y magnitud según último reporte IGP",
+          "url": "https://elcomercio.pe/respuestas/temblor-en-peru-hoy-ultimos-sismos-de-noviembre-en-vivo-cual-fue-el-epicentro-y-magnitud-segun-reporte-igp-instituto-geofisico-del-peru-lima-callao-ica-ancash-lbposting-noticia/",
           "fuente": "El Comercio Perú",
-          "publicado_en": "2026-11-09T16:44:37+00:00",
+          "publicado_en": "2026-11-10T15:04:01+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Papa León XIV en Lima: conoce las calles que serán cerradas por la vigilia del 12 de noviembre",
-          "url": "https://elcomercio.pe/respuestas/donde/papa-leon-xiv-en-lima-conoce-las-calles-que-seran-cerradas-por-la-vigilia-del-12-de-noviembre-tdpe-noticia/",
+          "titulo": "Temblor en Colombia hoy, martes 10 de noviembre: epicentro y magnitud del último sismo",
+          "url": "https://elcomercio.pe/respuestas/colombia/temblor-en-colombia-hoy-en-vivo-ultimos-sismos-9-y-10-de-noviembre-hora-exacta-epicentro-y-magnitud-segun-el-sgc-servicio-geologico-colombiano-choco-manizales-co-lbposting-noticia/",
           "fuente": "El Comercio Perú",
-          "publicado_en": "2026-11-09T16:44:15+00:00",
+          "publicado_en": "2026-11-10T15:03:53+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Proinversión sobre Obras por Impuestos: “Es el trimestre de las mayores adjudicaciones en 18 años”",
-          "url": "https://elcomercio.pe/economia/proinversion-sobre-obras-por-impuestos-es-el-trimestre-de-las-mayores-adjudicaciones-en-18-anos-noticia/",
+          "titulo": "Temblor en Venezuela hoy, martes10 noviembre: epicentro y magnitud según reporte FUNVISIS",
+          "url": "https://elcomercio.pe/respuestas/venezuela/temblor-en-venezuela-en-vivo-cual-es-la-magnitud-y-epicentro-del-ultimo-sismo-reportado-este-9-y-10-de-noviembre-2026-segun-el-funvisis-noticia/",
           "fuente": "El Comercio Perú",
-          "publicado_en": "2026-11-09T16:43:56+00:00",
+          "publicado_en": "2026-11-10T15:03:52+00:00",
           "resumen": ""
         },
         {
-          "titulo": "La transformación de las aerolíneas ‘low cost’, el ingreso de nuevos jugadores y el alto precio del combustible redefinen el sector",
-          "url": "https://elcomercio.pe/economia/dia-1/la-transformacion-de-las-low-cost-el-ingreso-de-nuevas-aerolineas-y-el-alto-precio-del-combustible-redefinen-el-sector-noticia/",
+          "titulo": "Temblor en México hoy, martes 10 de noviembre: sismos recientes reportados por el SSN",
+          "url": "https://elcomercio.pe/respuestas/mexico/temblor-hoy-en-mexico-en-vivo-ultimos-sismos-9-y-10-noviembre-hora-exacta-epicentro-y-magnitud-segun-el-ssn-servicio-sismologico-nacional-cdmx-mx-lbposting-noticia/",
           "fuente": "El Comercio Perú",
-          "publicado_en": "2026-11-09T16:43:48+00:00",
+          "publicado_en": "2026-11-10T15:03:41+00:00",
           "resumen": ""
         }
       ]
