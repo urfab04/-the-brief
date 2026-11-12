@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "fecha": "2026-11-11",
-  "actualizado_en": "2026-11-11T15:49:00+01:00",
+  "fecha": "2026-11-12",
+  "actualizado_en": "2026-11-12T16:41:08+01:00",
   "descripcion": "Agregación automática de titulares RSS. No constituye edición periodística verificada.",
   "fuentes_con_errores": [],
   "secciones": [
@@ -9,6 +9,27 @@
       "id": "tecnologia",
       "titulo": "Tecnología, IA y eCommerce",
       "noticias": [
+        {
+          "titulo": "Maryanne Wolf, neurocientífica: “Por culpa de la pantalla, hemos aprendido otra forma de leer que cortocircuita el cerebro”",
+          "url": "https://elpais.com/salud-y-bienestar/2026-11-12/maryanne-wolf-neurocientifica-por-culpa-de-la-pantalla-hemos-aprendido-otra-forma-de-leer-que-cortocircuita-el-cerebro.html",
+          "fuente": "EL PAÍS · Tecnología",
+          "publicado_en": "2026-11-12T04:30:01+00:00",
+          "resumen": ""
+        },
+        {
+          "titulo": "Un ‘USB’ universal de creación europea para dar una segunda vida a los satélites y reducir la basura espacial",
+          "url": "https://elpais.com/tecnologia/2026-11-12/un-usb-universal-de-creacion-europea-para-dar-una-segunda-vida-a-los-satelites-y-reducir-la-basura-espacial.html",
+          "fuente": "EL PAÍS · Tecnología",
+          "publicado_en": "2026-11-12T04:30:01+00:00",
+          "resumen": ""
+        },
+        {
+          "titulo": "La Fiscalía ordena investigar la difusión de contenido sexual de menores en TikTok",
+          "url": "https://elpais.com/espana/2026-11-11/la-fiscalia-ordena-investigar-la-difusion-de-contenido-sexual-de-menores-en-tiktok.html",
+          "fuente": "EL PAÍS · Tecnología",
+          "publicado_en": "2026-11-11T14:58:42+00:00",
+          "resumen": ""
+        },
         {
           "titulo": "José Luis Pontón, ingeniero informático: “Una IA que entiende el movimiento humano puede aprender a imitar a una persona y suplantarla”",
           "url": "https://elpais.com/tecnologia/2026-11-11/jose-luis-ponton-ingeniero-informatico-una-ia-que-entiende-el-movimiento-humano-puede-aprender-a-imitar-a-una-persona-y-suplantarla.html",
@@ -22,27 +43,6 @@
           "fuente": "EL PAÍS · Tecnología",
           "publicado_en": "2026-11-10T04:30:01+00:00",
           "resumen": ""
-        },
-        {
-          "titulo": "El ‘hacker’ fantasma de Kim Jong-un: Park Jin-hyok y las conexiones exteriores del cibercrimen norcoreano",
-          "url": "https://elpais.com/tecnologia/2026-11-09/el-hacker-fantasma-de-kim-jong-un-park-jin-hyok-y-las-conexiones-exteriores-del-cibercrimen-norcoreano.html",
-          "fuente": "EL PAÍS · Tecnología",
-          "publicado_en": "2026-11-09T12:07:30+00:00",
-          "resumen": ""
-        },
-        {
-          "titulo": "El Gobierno se plantea paralizar los servicios de TikTok en España por permitir abuso sexual infantil",
-          "url": "https://elpais.com/tecnologia/2026-11-09/el-gobierno-se-plantea-paralizar-los-servicios-de-tiktok-en-espana-por-permitir-abuso-sexual-infantil.html",
-          "fuente": "EL PAÍS · Tecnología",
-          "publicado_en": "2026-11-09T09:58:21+00:00",
-          "resumen": ""
-        },
-        {
-          "titulo": "Una investigación española descubre miles de nuevos vídeos y perfiles pedófilos en TikTok",
-          "url": "https://elpais.com/tecnologia/2026-11-09/una-investigacion-espanola-descubre-miles-de-nuevos-videos-y-perfiles-pedofilos-en-tiktok.html",
-          "fuente": "EL PAÍS · Tecnología",
-          "publicado_en": "2026-11-09T06:00:00+00:00",
-          "resumen": ""
         }
       ]
     },
@@ -51,73 +51,73 @@
       "titulo": "Empleo, negocios y formación",
       "noticias": [
         {
-          "titulo": "La huelga de los que no llegan",
-          "url": "https://elpais.com/economia/2026-11-11/la-huelga-de-los-que-no-llegan.html",
+          "titulo": "Jensen Huang renuncia como consejero delegado de Nvidia forzado por el escándalo sobre sus infidelidades y el caso de espionaje",
+          "url": "https://elpais.com/us/2026-11-12/jensen-huang-dimite-como-consejero-delegado-de-nvidia-tras-destaparse-el-escandalo-sobre-sus-infidelidades-y-el-caso-de-espionaje.html",
           "fuente": "EL PAÍS · Economía",
-          "publicado_en": "2026-11-11T14:00:42+00:00",
+          "publicado_en": "2026-11-12T13:59:47+00:00",
           "resumen": ""
         },
         {
-          "titulo": "El Estado pagará 10.000 euros por el tratamiento psiquiátrico de una adolescente con tendencia autolesiva rechazada en la Sanidad Pública",
-          "url": "https://elpais.com/economia/mis-derechos/2026-11-11/el-estado-pagara-10000-euros-por-el-tratamiento-psiquiatrico-de-una-adolescente-con-tendencia-autolesiva-rechazada-en-la-sanidad-publica.html",
+          "titulo": "El día después del 11-N: los sindicatos hablan de un “éxito” que superó las expectativas y la patronal ve “un fracaso”",
+          "url": "https://elpais.com/economia/2026-11-12/el-dia-despues-del-11-n-los-sindicatos-hablan-de-un-exito-que-supero-las-expectativas-y-la-patronal-ve-un-fracaso.html",
           "fuente": "EL PAÍS · Economía",
-          "publicado_en": "2026-11-11T09:00:00+00:00",
+          "publicado_en": "2026-11-12T13:32:01+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Hacienda obliga a tributar las prejubilaciones voluntarias si no se enmarcan en un despido colectivo",
-          "url": "https://elpais.com/economia/2026-11-11/hacienda-obliga-a-tributar-las-prejubilaciones-voluntarias-si-no-se-enmarcan-en-un-despido-colectivo.html",
+          "titulo": "España ya es el segundo país de la UE con más trabajadores nacidos en el extranjero",
+          "url": "https://elpais.com/economia/2026-11-12/espana-ya-es-el-segundo-pais-de-la-ue-con-mas-trabajadores-nacidos-en-el-extranjero.html",
           "fuente": "EL PAÍS · Economía",
-          "publicado_en": "2026-11-11T04:45:01+00:00",
+          "publicado_en": "2026-11-12T13:21:21+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Las aerolíneas europeas vislumbran algo de luz en medio de la tormenta",
-          "url": "https://cincodias.elpais.com/opinion/2026-11-11/las-aerolineas-europeas-vislumbran-algo-de-luz-en-medio-de-la-tormenta.html",
+          "titulo": "Desahucios, alquileres y ayudas para comprar: las medidas del decreto de vivienda que siguen adelante",
+          "url": "https://elpais.com/economia/vivienda/2026-11-12/desahucios-alquileres-y-ayudas-para-comprar-las-medidas-del-decreto-de-vivienda-que-siguen-adelante.html",
           "fuente": "EL PAÍS · Economía",
-          "publicado_en": "2026-11-11T04:40:00+00:00",
+          "publicado_en": "2026-11-12T11:37:26+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Brecha creciente entre precios y salarios",
-          "url": "https://cincodias.elpais.com/opinion/2026-11-11/brecha-creciente-entre-precios-y-salarios.html",
+          "titulo": "Inteligencia artificial aplicada al sector salud",
+          "url": "https://elpais.com/economia/negocios/2026-11-12/inteligencia-artificial-aplicada-al-sector-salud.html",
           "fuente": "EL PAÍS · Economía",
-          "publicado_en": "2026-11-11T04:40:00+00:00",
+          "publicado_en": "2026-11-12T09:31:02+00:00",
           "resumen": ""
         },
         {
-          "titulo": "¿Quién paga las guerras de Washington?",
-          "url": "https://cincodias.elpais.com/opinion/2026-11-11/quien-paga-las-guerras-de-washington.html",
+          "titulo": "Telefónica remonta pérdidas y gana 464 millones hasta septiembre",
+          "url": "https://cincodias.elpais.com/companias/2026-11-12/telefonica-remonta-perdidas-y-gana-464-millones-hasta-septiembre.html",
           "fuente": "EL PAÍS · Economía",
-          "publicado_en": "2026-11-11T04:40:00+00:00",
+          "publicado_en": "2026-11-12T06:33:53+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Las claves: el futuro tiene un precio, pero cada vez es más bajo",
-          "url": "https://cincodias.elpais.com/opinion/2026-11-11/las-claves-el-futuro-tiene-un-precio-pero-cada-vez-es-mas-bajo.html",
+          "titulo": "Consumo calcula que la prórroga de los alquileres ahorraría 4.341 euros por hogar y beneficiaría a casi cinco millones de personas",
+          "url": "https://elpais.com/economia/vivienda/2026-11-12/consumo-calcula-que-la-prorroga-de-los-alquileres-ahorraria-4341-euros-por-hogar-y-beneficiaria-a-casi-cinco-millones-de-personas.html",
           "fuente": "EL PAÍS · Economía",
-          "publicado_en": "2026-11-11T04:40:00+00:00",
+          "publicado_en": "2026-11-12T06:00:00+00:00",
           "resumen": ""
         },
         {
-          "titulo": "El Ibex lidera las grandes Bolsas en noviembre y se prepara para asaltar máximos históricos",
-          "url": "https://cincodias.elpais.com/mercados-financieros/2026-11-11/el-ibex-lidera-las-grandes-bolsas-en-noviembre-y-se-prepara-para-asaltar-maximos-historicos.html",
+          "titulo": "Nvidia pone al centro de chips de Singapur en el punto de mira",
+          "url": "https://cincodias.elpais.com/opinion/2026-11-12/nvidia-pone-al-centro-de-chips-de-singapur-en-el-punto-de-mira.html",
           "fuente": "EL PAÍS · Economía",
-          "publicado_en": "2026-11-11T04:30:01+00:00",
+          "publicado_en": "2026-11-12T04:45:00+00:00",
           "resumen": ""
         },
         {
-          "titulo": "He heredado un piso en Madrid que está alquilado y quiero venderlo cuanto antes. ¿Con cuánto tiempo tengo que avisar a los inquilinos?",
-          "url": "https://elpais.com/economia/vivienda/consultorio/2026-11-11/he-heredado-un-piso-en-madrid-que-esta-alquilado-y-quiero-venderlo-cuanto-antes-con-cuanto-tiempo-tengo-que-avisar-a-los-inquilinos.html",
+          "titulo": "La IA tras las ‘midterms’: el Congreso y los Estados recuperan la voz",
+          "url": "https://cincodias.elpais.com/opinion/2026-11-12/la-ia-tras-las-midterms-el-congreso-y-los-estados-recuperan-la-voz.html",
           "fuente": "EL PAÍS · Economía",
-          "publicado_en": "2026-11-11T04:30:00+00:00",
+          "publicado_en": "2026-11-12T04:40:00+00:00",
           "resumen": ""
         },
         {
-          "titulo": "La crisis de Nvidia ensombrece el epicentro de la IA: cuatro gráficos para entender la relevancia del gigante tecnológico",
-          "url": "https://cincodias.elpais.com/mercados-financieros/2026-11-11/la-crisis-de-nvidia-ensombrece-el-epicentro-de-la-ia-cuatro-graficos-para-entender-la-relevancia-del-gigante-tecnologico.html",
+          "titulo": "Europa debe aprender a construir de nuevo",
+          "url": "https://cincodias.elpais.com/opinion/2026-11-12/europa-debe-aprender-a-construir-de-nuevo.html",
           "fuente": "EL PAÍS · Economía",
-          "publicado_en": "2026-11-11T04:25:00+00:00",
+          "publicado_en": "2026-11-12T04:40:00+00:00",
           "resumen": ""
         }
       ]
@@ -127,73 +127,73 @@
       "titulo": "España y Andalucía",
       "noticias": [
         {
-          "titulo": "\"La primera huelga general en 14 años\": la prensa internacional destaca el paro en España por el precio de la vivienda",
-          "url": "https://www.eldiario.es/rastreador/primera-huelga-general-14-anos-prensa-internacional-destaca-paro-espana-precio-vivienda_132_13655520.html",
-          "fuente": "ElDiario.es",
-          "publicado_en": "2026-11-11T13:24:54+00:00",
-          "resumen": ""
-        },
-        {
-          "titulo": "Tres riadas populares toman Vitoria, Bilbao y Donostia con un clamor por el derecho a la vivienda digna",
-          "url": "https://www.eldiario.es/euskadi/tres-riadas-populares-toman-vitoria-bilbao-donostia-clamor-derecho-vivienda-digna_1_13655501.html",
-          "fuente": "ElDiario.es",
-          "publicado_en": "2026-11-11T13:17:45+00:00",
-          "resumen": ""
-        },
-        {
-          "titulo": "PP y Vox acusan a los sindicatos y a sus líderes de \"mafia, basura, jetas y apesebrados del Gobierno\": \"Si no escuchan a la calle, no llegarán a gobernar\"",
-          "url": "https://www.eldiario.es/politica/sindicatos-responden-ataques-pp-vox-si-no-escuchan-calle-no-llegaran-gobernar_1_13654794.html",
-          "fuente": "ElDiario.es",
-          "publicado_en": "2026-11-11T11:16:44+00:00",
-          "resumen": ""
-        },
-        {
-          "titulo": "El diputado de Por Andalucía Ernesto Alba denuncia una agresión policial en un piquete en Mercamálaga",
-          "url": "https://www.eldiario.es/andalucia/malaga/diputado-andalucia-ernesto-alba-denuncia-agresion-policial-piquete-mercamalaga_1_13655029.html",
-          "fuente": "ElDiario.es",
-          "publicado_en": "2026-11-11T11:13:05+00:00",
-          "resumen": ""
-        },
-        {
-          "titulo": "Los sindicatos planean acciones judiciales por las cargas policiales contra piquetes",
-          "url": "https://www.eldiario.es/politica/sindicatos-planean-acciones-judiciales-cargas-policiales-piquetes_1_13654290.html",
-          "fuente": "ElDiario.es",
-          "publicado_en": "2026-11-11T09:37:54+00:00",
-          "resumen": ""
-        },
-        {
-          "titulo": "Los sindicatos cifran el seguimiento de la huelga entre el 75% y el 41% según comunidades: \"Es un éxito\"",
-          "url": "https://www.eldiario.es/economia/sindicatos-cifran-seguimiento-huelga-75-41-comunidades-si-sigue-exito_1_13654588.html",
-          "fuente": "ElDiario.es",
-          "publicado_en": "2026-11-11T09:34:44+00:00",
-          "resumen": ""
-        },
-        {
-          "titulo": "Canal Sur Televisión recupera la emisión tras cinco horas en negro por la huelga",
-          "url": "https://www.eldiario.es/andalucia/canal-sur-television-negro-huelga-general-disculpen-molestias_1_13654366.html",
-          "fuente": "ElDiario.es",
-          "publicado_en": "2026-11-11T08:36:20+00:00",
-          "resumen": ""
-        },
-        {
-          "titulo": "Los piquetes irrumpen en el plató de Gemma Nierga",
-          "url": "https://www.eldiario.es/catalunya/piquetes-irrumpen-plato-gemma-nierga_1_13654416.html",
-          "fuente": "ElDiario.es",
-          "publicado_en": "2026-11-11T08:29:11+00:00",
-          "resumen": ""
-        },
-        {
-          "titulo": "Huelga general 11N, última hora en directo: la policía carga contra los manifestantes que cortan la Gran Vía",
-          "url": "https://www.eldiario.es/economia/huelga-general-11-noviembre-ultima-hora-directo-arranca-gran-paro-vivienda_133_13653845.html",
-          "fuente": "ElDiario.es",
-          "publicado_en": "2026-11-11T05:41:08+00:00",
-          "resumen": ""
-        },
-        {
-          "titulo": "José Ignacio García, líder de Adelante Andalucía: “Lo mejor que tiene el PSOE es que no gobierne el PP”",
-          "url": "https://elpais.com/espana/elecciones-generales/2026-11-11/jose-ignacio-garcia-lider-de-adelante-andalucia-lo-mejor-que-tiene-el-psoe-es-que-no-gobierne-el-pp.html",
+          "titulo": "La exabogada de Koldo García declara al juez que la web ‘Okdiario’ le pagó toda la defensa del exasesor de Ábalos",
+          "url": "https://elpais.com/espana/2026-11-12/la-exabogada-de-koldo-garcia-afirma-al-juez-que-la-web-okdiario-le-pago-toda-la-defensa-del-exasesor-de-abalos.html",
           "fuente": "EL PAÍS · España",
-          "publicado_en": "2026-11-11T04:30:01+00:00",
+          "publicado_en": "2026-11-12T15:31:31+00:00",
+          "resumen": ""
+        },
+        {
+          "titulo": "La historia del mercadillo navideño que celebra esta ciudad Patrimonio Mundial de la UNESCO a media hora de Madrid",
+          "url": "https://www.eldiario.es/viajes/historia-mercadillo-navideno-celebra-ciudad-patrimonio-mundial-unesco-media-hora-madrid_1_13658149.html",
+          "fuente": "ElDiario.es",
+          "publicado_en": "2026-11-12T15:22:48+00:00",
+          "resumen": ""
+        },
+        {
+          "titulo": "El telescopio Euclid detecta 900 millones de galaxias y comienza a dibujar el mapa más completo del universo",
+          "url": "https://www.eldiario.es/sociedad/telescopio-euclid-detecta-900-millones-galaxias-comienza-dibujar-mapa-completo-universo_1_13658935.html",
+          "fuente": "ElDiario.es",
+          "publicado_en": "2026-11-12T15:21:15+00:00",
+          "resumen": ""
+        },
+        {
+          "titulo": "El palacio histórico de Oporto que esconde una impresionante sala inspirada en La Alhambra",
+          "url": "https://www.eldiario.es/viajes/palacio-historico-oporto-esconde-impresionante-sala-inspirada-alhambra_1_13657944.html",
+          "fuente": "ElDiario.es",
+          "publicado_en": "2026-11-12T15:04:00+00:00",
+          "resumen": ""
+        },
+        {
+          "titulo": "El ‘error Wild’ de Vox: Abascal tropieza ante el grupo de votantes que más lo apoya",
+          "url": "https://elpais.com/espana/2026-11-12/el-error-wild-de-vox-abascal-tropieza-ante-el-grupo-de-votantes-que-mas-lo-apoya.html",
+          "fuente": "EL PAÍS · España",
+          "publicado_en": "2026-11-12T15:02:19+00:00",
+          "resumen": ""
+        },
+        {
+          "titulo": "Más de 333 millones ganados y solo una victoria en playoffs: Kirk Cousins vuelve a Minnesota y cobrará de tres equipos a la vez en 2026",
+          "url": "https://www.eldiario.es/spin/deportes/333-millones-ganados-victoria-playoffs-kirk-cousins-vuelve-minnesota-cobrara-tres-equipos-vez-2026-pm_1_13658723.html",
+          "fuente": "ElDiario.es",
+          "publicado_en": "2026-11-12T15:00:10+00:00",
+          "resumen": ""
+        },
+        {
+          "titulo": "Cuatro postres originales y saludables hechos con cacao puro y que puedes preparar fácilmente en casa",
+          "url": "https://www.eldiario.es/consumoclaro/cuatro-postres-originales-saludables-hechos-cacao-puro-puedes-preparar-facilmente-casa_1_13657672.html",
+          "fuente": "ElDiario.es",
+          "publicado_en": "2026-11-12T14:54:30+00:00",
+          "resumen": ""
+        },
+        {
+          "titulo": "Leire Díez denuncia en un libro con decenas de grabaciones seis años de \"guerra sucia\" de una \"mafia\" policial y mediática al servicio del PP",
+          "url": "https://www.eldiario.es/politica/leire-diez-denuncia-libro-decenas-grabaciones-seis-anos-guerra-sucia-mafia-policial-mediatica-servicio-pp_1_13656904.html",
+          "fuente": "ElDiario.es",
+          "publicado_en": "2026-11-12T14:51:23+00:00",
+          "resumen": ""
+        },
+        {
+          "titulo": "Al menos nueve falsas alarmas por paquetes sospechosos en Sevilla, Marbella, Zaragoza, Madrid y Las Palmas",
+          "url": "https://www.eldiario.es/politica/siete-falsas-alarmas-paquetes-sospechosos-sevilla-marbella-zaragoza-madrid_1_13658740.html",
+          "fuente": "ElDiario.es",
+          "publicado_en": "2026-11-12T14:18:13+00:00",
+          "resumen": ""
+        },
+        {
+          "titulo": "La borrasca no detiene la llegada de cayucos a El Hierro: casi 400 personas rescatadas en mitad de la tormenta",
+          "url": "https://elpais.com/espana/2026-11-12/la-borrasca-no-detiene-la-llegada-de-cayucos-a-el-hierro-mas-de-300-personas-rescatadas-en-mitad-de-la-tormenta.html",
+          "fuente": "EL PAÍS · España",
+          "publicado_en": "2026-11-12T14:15:39+00:00",
           "resumen": ""
         }
       ]
@@ -203,73 +203,73 @@
       "titulo": "Perú",
       "noticias": [
         {
-          "titulo": "Precio del dólar en Perú hoy, miércoles 11 de noviembre: cuál es el tipo de cambio del día",
-          "url": "https://elcomercio.pe/economia/mercados/precio-del-dolar-en-peru-hoy-miercoles-11-de-noviembre-a-cuanto-esta-el-dolar-y-tipo-de-cambio-tasa-cotizacion-compra-y-venta-segun-bcrp-dolares-a-soles-sbs-ocona-lbposting-noticia/",
+          "titulo": "Papa León XIV en Perú EN VIVO HOY minuto a minuto: en el día 2 visita la Basílica Catedral de Lima y encuentro con jóvenes en el Estadio Nacional",
+          "url": "https://elcomercio.pe/peru/papa-leon-xiv-en-peru-en-vivo-hoy-minuto-a-minuto-actividades-rutas-agenda-de-su-visita-y-ultimas-noticias-del-sumo-pontifice-vaticano-lbposting-noticia/",
           "fuente": "El Comercio Perú",
-          "publicado_en": "2026-11-11T14:47:35+00:00",
+          "publicado_en": "2026-11-12T15:34:57+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Visita del papa León XIV en Perú: ciudades y horarios día a día de su visita",
+          "titulo": "Papa León XIV en Perú: “Dios es grande”",
+          "url": "https://elcomercio.pe/videos/pais/papa-leon-xiv-habla-sobre-su-salud-ante-obispos-del-peru-nnav-amtv-video-noticia/",
+          "fuente": "El Comercio Perú",
+          "publicado_en": "2026-11-12T15:34:06+00:00",
+          "resumen": ""
+        },
+        {
+          "titulo": "Keiko Fujimori y el papa León XIV: ¿De qué conversaron en Palacio de Gobierno? ¿Y por qué invitaron a Boluarte y otros expresidentes?",
+          "url": "https://elcomercio.pe/politica/keiko-fujimori-y-el-papa-leon-xiv-de-que-conversaron-en-palacio-de-gobierno-apuesplany-por-que-invitaron-a-boluarte-y-otros-expresidentes-apuesplan-noticia/",
+          "fuente": "El Comercio Perú",
+          "publicado_en": "2026-11-12T15:32:59+00:00",
+          "resumen": ""
+        },
+        {
+          "titulo": "Visita del papa León XIV al Perú: recorrido del papamóvil, calles cerradas, desvío vehicular y actividades hoy",
           "url": "https://elcomercio.pe/lima/visita-del-papa-leon-xiv-en-peru-hoy-11-de-noviembre-ultima-hora-fecha-agenda-ciudades-rutas-y-dia-a-dia-de-su-visita-a-del-santo-padre-vaticano-lbposting-noticia/",
           "fuente": "El Comercio Perú",
-          "publicado_en": "2026-11-11T14:45:18+00:00",
+          "publicado_en": "2026-11-12T15:31:16+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Horóscopo hoy, miércoles 11 del noviembre: predicciones de amor y trabajo según tu signo",
-          "url": "https://elcomercio.pe/luces/vida-social/horoscopo-en-vivo-hoy-miercoles-11-de-noviembre-de-2026-y-predicciones-segun-tu-signo-aries-tauro-geminis-cancer-leo-virgo-libra-escorpio-sagitario-capricornio-acuario-piscis-lbposting-noticia/",
+          "titulo": "Temblor en California EN VIVO hoy, 12 de noviembre 2026 - hora exacta, magnitud y dónde fue el epicentro del último sismo vía el USGS",
+          "url": "https://elcomercio.pe/mag/usa/en-vivo-us/temblor-en-california-en-vivo-hoy-11-y-12-de-noviembre-2026-hora-exacta-magnitud-y-donde-fue-el-epicentro-del-ultimo-sismo-via-el-usgs-nnda-nnrt-noticia/",
           "fuente": "El Comercio Perú",
-          "publicado_en": "2026-11-11T14:45:01+00:00",
+          "publicado_en": "2026-11-12T15:30:47+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Juntos por el poder",
-          "url": "https://elcomercio.pe/opinion/columnistas/juntos-por-el-poder-por-martin-hidalgo-noticia/",
+          "titulo": "Alimentos gratis en California del 13 al 15 de noviembre: fechas, horarios y lugares de distribución",
+          "url": "https://elcomercio.pe/mag/usa/california/alimentos-gratis-en-california-del-13-al-15-de-noviembre-fechas-horarios-y-lugares-de-distribucion-nnda-nnni-noticia/",
           "fuente": "El Comercio Perú",
-          "publicado_en": "2026-11-11T14:42:57+00:00",
+          "publicado_en": "2026-11-12T15:29:40+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Días no laborables por la visita del papa León XIV en Perú: fechas y ciudades beneficiadas",
-          "url": "https://elcomercio.pe/respuestas/cuando/visita-del-papa-leon-xiv-en-peru-que-dias-seran-no-laborables-en-lima-callao-chiclayo-cusco-y-pucallpa-tdpe-noticia/",
+          "titulo": "Las 5 nuevas reglas de Nueva York que pronto entrarán en vigor: de qué tratan y cómo impactarán en la vida de los ciudadanos",
+          "url": "https://elcomercio.pe/mag/usa/local-us/las-5-nuevas-reglas-de-nueva-york-que-pronto-entraran-en-vigor-de-que-tratan-y-como-impactaran-en-la-vida-de-los-ciudadanos-nyc-estados-unidos-nnda-nnlt-noticia/",
           "fuente": "El Comercio Perú",
-          "publicado_en": "2026-11-11T14:41:56+00:00",
+          "publicado_en": "2026-11-12T15:27:39+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Transportistas de Chile inician paro indefinido por alza de precios de combustibles",
-          "url": "https://elcomercio.pe/mundo/latinoamerica/paro-indefinido-en-chile-transportistas-inician-manifestaciones-por-alza-de-precios-de-combustibles-jose-antonio-kast-santiago-ultimas-noticia/",
+          "titulo": "Israel bombardea el hospital Nasser en Gaza y deja seis muertos y más de 20 heridos",
+          "url": "https://elcomercio.pe/mundo/oriente-medio/israel-bombardea-el-hospital-nasser-en-gaza-y-deja-seis-muertos-y-mas-de-20-heridos-noticia/",
           "fuente": "El Comercio Perú",
-          "publicado_en": "2026-11-11T14:41:43+00:00",
+          "publicado_en": "2026-11-12T15:26:08+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Papa León XIV en Argentina EN VIVO HOY: La misa en Luján y la despedida antes de partir al Perú",
-          "url": "https://elcomercio.pe/mundo/latinoamerica/papa-leon-xiv-en-argentina-en-vivo-hoy-en-lujan-y-la-prision-de-devoto-ultimas-noticias-cuando-llega-donde-estara-rutas-agenda-de-su-visita-a-buenos-aires-cordoba-lujan-y-mas-noticias-del-sumo-pontifice-lbposting-noticia/",
+          "titulo": "Juan Pablo Varillas vs. Genaro Olivieri en vivo: horarios y canales para ver partido por el Challenger de Lima 2026",
+          "url": "https://elcomercio.pe/deporte-total/tenis/juan-pablo-varillas-vs-genaro-olivieri-en-vivo-horarios-y-canales-para-ver-partido-por-el-challenger-de-lima-2026-noticia/",
           "fuente": "El Comercio Perú",
-          "publicado_en": "2026-11-11T14:40:39+00:00",
+          "publicado_en": "2026-11-12T15:24:04+00:00",
           "resumen": ""
         },
         {
-          "titulo": "¡Par de triunfos en casa! Bueno y Varillas clasifican a octavos del Challenger de Lima",
-          "url": "https://elcomercio.pe/deporte-total/tenis/gonzalo-bueno-y-juan-pablo-varillas-clasifican-a-octavos-del-challenger-de-lima-atp-75-club-las-terrazas-ultimas-noticia/",
+          "titulo": "El Team Perú culminó una destacada actuación en los Juegos Olímpicos de la Juventud Dakar 2026",
+          "url": "https://elcomercio.pe/deporte-total/polideportivo/el-team-peru-culmino-una-destacada-actuacion-en-los-juegos-olimpicos-de-la-juventud-dakar-2026-noticia/",
           "fuente": "El Comercio Perú",
-          "publicado_en": "2026-11-11T14:39:18+00:00",
-          "resumen": ""
-        },
-        {
-          "titulo": "Ate: vecinos advierten peligro de accidente debido a semáforos malogrados en la avenida Vista Alegre",
-          "url": "https://rpp.pe/rotafono/servicios-publicos/ate-vecinos-advierten-peligro-de-accidente-debido-a-semaforos-malogrados-en-la-avenida-vista-alegre-noticia-1717191",
-          "fuente": "RPP",
-          "publicado_en": "2026-11-11T14:38:02+00:00",
-          "resumen": ""
-        },
-        {
-          "titulo": "Lluvias intensas en Perú: Pronóstico del clima actualizado hoy por el Senamhi",
-          "url": "https://elcomercio.pe/peru/lluvias-lloviznas-y-activacion-de-quebradas-en-regiones-del-peru-hoy-ultimas-noticias-y-pronosticos-del-senamhi-lbposting-noticia/",
-          "fuente": "El Comercio Perú",
-          "publicado_en": "2026-11-11T14:36:55+00:00",
+          "publicado_en": "2026-11-12T15:23:55+00:00",
           "resumen": ""
         }
       ]
