@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "fecha": "2026-11-13",
-  "actualizado_en": "2026-11-13T15:59:42+01:00",
+  "fecha": "2026-11-14",
+  "actualizado_en": "2026-11-14T14:52:06+01:00",
   "descripcion": "Agregación automática de titulares RSS. No constituye edición periodística verificada.",
   "fuentes_con_errores": [],
   "secciones": [
@@ -10,14 +10,28 @@
       "titulo": "Tecnología, IA y eCommerce",
       "noticias": [
         {
-          "titulo": "La caída de Microsoft afecta a la productividad en España, pero no a servicios esenciales: “El impacto está siendo menor”",
+          "titulo": "Los servicios de Microsoft retoman la normalidad tras una caída global de más de 18 horas",
+          "url": "https://elpais.com/tecnologia/2026-11-13/microsoft-no-logra-recuperar-sus-servicios-tras-una-caida-global-de-mas-de-12-horas.html",
+          "fuente": "EL PAÍS · Tecnología",
+          "publicado_en": "2026-11-13T18:48:57+00:00",
+          "resumen": ""
+        },
+        {
+          "titulo": "La Fiscalía denuncia a TikTok por la difusión de vídeos de abuso sexual infantil y pide su retirada urgente",
+          "url": "https://elpais.com/sociedad/2026-11-13/la-fiscalia-denuncia-a-tiktok-en-el-juzgado-por-los-videos-de-abuso-sexual-infantil.html",
+          "fuente": "EL PAÍS · Tecnología",
+          "publicado_en": "2026-11-13T14:44:52+00:00",
+          "resumen": ""
+        },
+        {
+          "titulo": "La caída de Microsoft afecta a la productividad en España, pero no a servicios esenciales",
           "url": "https://elpais.com/tecnologia/2026-11-13/la-caida-de-microsoft-afecta-a-la-productividad-en-espana-pero-no-a-servicios-esenciales-el-impacto-esta-siendo-menor.html",
           "fuente": "EL PAÍS · Tecnología",
           "publicado_en": "2026-11-13T13:49:23+00:00",
           "resumen": ""
         },
         {
-          "titulo": "TikTok ya pierde publicidad en España por los contenidos de abuso sexual infantil: Santander y Moeve retiran sus anuncios",
+          "titulo": "TikTok pierde publicidad en España por los contenidos de abuso sexual infantil: El Corte Inglés y el Santander retiran sus anuncios",
           "url": "https://elpais.com/tecnologia/2026-11-13/tiktok-ya-pierde-publicidad-en-espana-por-los-contenidos-de-abuso-sexual-infantil-santander-y-moeve-retiran-sus-anuncios.html",
           "fuente": "EL PAÍS · Tecnología",
           "publicado_en": "2026-11-13T12:06:24+00:00",
@@ -28,13 +42,6 @@
           "url": "https://elpais.com/tecnologia/2026-11-13/claves-que-ha-ocurrido-con-microsoft-y-por-que-lleva-tantas-horas-fuera-de-juego.html",
           "fuente": "EL PAÍS · Tecnología",
           "publicado_en": "2026-11-13T12:01:24+00:00",
-          "resumen": ""
-        },
-        {
-          "titulo": "Los servicios de Microsoft empiezan a funcionar con normalidad tras una caída global de más de 18 horas",
-          "url": "https://elpais.com/tecnologia/2026-11-13/microsoft-no-logra-recuperar-sus-servicios-tras-una-caida-global-de-mas-de-12-horas.html",
-          "fuente": "EL PAÍS · Tecnología",
-          "publicado_en": "2026-11-13T08:06:10+00:00",
           "resumen": ""
         },
         {
@@ -64,13 +71,6 @@
           "fuente": "EL PAÍS · Tecnología",
           "publicado_en": "2026-11-11T14:58:42+00:00",
           "resumen": ""
-        },
-        {
-          "titulo": "José Luis Pontón, ingeniero informático: “Una IA que entiende el movimiento humano puede aprender a imitar a una persona y suplantarla”",
-          "url": "https://elpais.com/tecnologia/2026-11-11/jose-luis-ponton-ingeniero-informatico-una-ia-que-entiende-el-movimiento-humano-puede-aprender-a-imitar-a-una-persona-y-suplantarla.html",
-          "fuente": "EL PAÍS · Tecnología",
-          "publicado_en": "2026-11-11T04:30:01+00:00",
-          "resumen": ""
         }
       ]
     },
@@ -79,73 +79,73 @@
       "titulo": "Empleo, negocios y formación",
       "noticias": [
         {
-          "titulo": "Alemania y Francia ultiman un pacto sobre el BCE con Hernández de Cos como favorito para la presidencia",
-          "url": "https://elpais.com/economia/2026-11-13/alemania-y-francia-ultiman-un-pacto-sobre-el-bce-con-hernandez-de-cos-como-favorito-para-la-presidencia.html",
+          "titulo": "La pobreza se enquista pese al crecimiento económico: “No puedo ni sentarme con mis amigos a tomar una Coca-Cola”",
+          "url": "https://elpais.com/economia/2026-11-14/la-pobreza-se-enquista-pese-al-crecimiento-economico-no-puedo-ni-sentarme-con-mis-amigos-a-tomar-una-coca-cola.html",
           "fuente": "EL PAÍS · Economía",
-          "publicado_en": "2026-11-13T14:47:56+00:00",
+          "publicado_en": "2026-11-14T04:45:01+00:00",
           "resumen": ""
         },
         {
-          "titulo": "El Gobierno aprueba el trámite de urgencia para la revalorización de las pensiones",
-          "url": "https://elpais.com/economia/2026-11-13/el-gobierno-aprueba-el-tramite-de-urgencia-para-la-revalorizacion-de-las-pensiones.html",
+          "titulo": "La UE apura las últimas horas del pacto pesquero con Mauritania sin acuerdo para renovarlo",
+          "url": "https://elpais.com/economia/2026-11-14/la-ue-apura-las-ultimas-horas-del-pacto-pesquero-con-mauritania-sin-acuerdo-para-renovarlo.html",
           "fuente": "EL PAÍS · Economía",
-          "publicado_en": "2026-11-13T12:55:30+00:00",
+          "publicado_en": "2026-11-14T04:45:01+00:00",
           "resumen": ""
         },
         {
-          "titulo": "El Tribunal Supremo de Rumanía absuelve definitivamente a Digi y a sus directivos por corrupción",
-          "url": "https://cincodias.elpais.com/companias/2026-11-13/el-tribunal-supremo-de-rumania-absuelve-definitivamente-a-digi-y-a-sus-directivos-por-corrupcion.html",
+          "titulo": "Sexo, espionaje, Poder: ruina",
+          "url": "https://elpais.com/economia/2026-11-14/sexo-espionaje-poder-ruina.html",
           "fuente": "EL PAÍS · Economía",
-          "publicado_en": "2026-11-13T10:07:32+00:00",
+          "publicado_en": "2026-11-14T04:45:01+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Una maleta, clases de inglés y una vida fuera de casa: así es aprender un idioma en Malta",
-          "url": "https://elpais.com/economia/formacion/2026-11-13/una-maleta-clases-de-ingles-y-una-vida-fuera-de-casa-asi-es-aprender-un-idioma-en-malta.html",
+          "titulo": "Volkswagen confía en España como su fábrica de eléctricos",
+          "url": "https://cincodias.elpais.com/opinion/2026-11-14/volkswagen-confia-en-espana-como-su-fabrica-de-electricos.html",
           "fuente": "EL PAÍS · Economía",
-          "publicado_en": "2026-11-13T06:30:00+00:00",
+          "publicado_en": "2026-11-14T04:40:00+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Los que no hicieron huelga el 11-N pero llenaron las calles: “No podía perder un día de sueldo”",
-          "url": "https://elpais.com/economia/2026-11-13/los-que-no-hicieron-huelga-el-11-n-pero-llenaron-las-calles-no-podia-perder-un-dia-de-sueldo.html",
+          "titulo": "Todos somos Warren Buffett",
+          "url": "https://cincodias.elpais.com/opinion/2026-11-14/todos-somos-warren-buffett.html",
           "fuente": "EL PAÍS · Economía",
-          "publicado_en": "2026-11-13T04:45:01+00:00",
+          "publicado_en": "2026-11-14T04:40:00+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Los salarios de la banca multiplican hasta por cuatro los del sector servicios, la hostelería y el comercio",
-          "url": "https://elpais.com/economia/2026-11-13/los-salarios-de-la-banca-multiplican-hasta-por-cuatro-los-del-sector-servicios-la-hosteleria-y-el-comercio.html",
+          "titulo": "Esta huelga no podía ser como la de 1988. Tampoco es despreciable. ¿Qué anticipa la dura reacción del PP?",
+          "url": "https://cincodias.elpais.com/opinion/2026-11-14/esta-huelga-no-podia-ser-como-la-de-1988-tampoco-es-despreciable-que-anticipa-la-dura-reaccion-del-pp.html",
           "fuente": "EL PAÍS · Economía",
-          "publicado_en": "2026-11-13T04:45:01+00:00",
+          "publicado_en": "2026-11-14T04:40:00+00:00",
           "resumen": ""
         },
         {
-          "titulo": "El giro del ‘shock’ energético ante las elecciones norteamericanas",
-          "url": "https://cincodias.elpais.com/opinion/2026-11-13/el-giro-del-shock-energetico-ante-las-elecciones-norteamericanas.html",
+          "titulo": "Trump falló en que la vivienda en EE UU volviera a ser asequible",
+          "url": "https://cincodias.elpais.com/opinion/2026-11-14/trump-fallo-en-que-la-vivienda-en-ee-uu-volviera-a-ser-asequible.html",
           "fuente": "EL PAÍS · Economía",
-          "publicado_en": "2026-11-13T04:45:01+00:00",
+          "publicado_en": "2026-11-14T04:40:00+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Aznar percibe una retribución récord del grupo de medios de Murdoch y supera ya los cinco millones de dólares",
-          "url": "https://elpais.com/economia/2026-11-13/aznar-percibe-una-retribucion-record-del-grupo-de-medios-de-murdoch-y-supera-ya-los-cinco-millones-de-dolares.html",
+          "titulo": "El fulgor de Nvidia se oscurece sin su rey Midas: así es el tortuoso camino que le espera a la empresa clave para la IA",
+          "url": "https://elpais.com/economia/negocios/2026-11-14/el-fulgor-de-nvidia-se-oscurece-sin-su-rey-midas.html",
           "fuente": "EL PAÍS · Economía",
-          "publicado_en": "2026-11-13T04:45:00+00:00",
+          "publicado_en": "2026-11-14T04:30:00+00:00",
           "resumen": ""
         },
         {
-          "titulo": "El ingenio marcará al próximo jefe del BCE",
-          "url": "https://cincodias.elpais.com/opinion/2026-11-13/el-ingenio-marcara-al-proximo-jefe-del-bce.html",
+          "titulo": "Pisos zulo: cuando vivir en 11 metros cuadrados es cada vez más común",
+          "url": "https://elpais.com/economia/negocios/2026-11-14/pisos-zulo-cuando-vivir-en-11-metros-es-cada-vez-mas-comun.html",
           "fuente": "EL PAÍS · Economía",
-          "publicado_en": "2026-11-13T04:40:00+00:00",
+          "publicado_en": "2026-11-14T04:30:00+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Las claves: la vivienda difícilmente volverá a ser la misma",
-          "url": "https://cincodias.elpais.com/opinion/2026-11-13/las-claves-la-vivienda-dificilmente-volvera-a-ser-la-misma.html",
+          "titulo": "Stéphane Boujnah, presidente de Euronext: “Las cripto y las apuestas tienen éxito porque son como videojuegos, pero los jóvenes aprenderán que solo ofrecen plusvalías, no rentabilidad”",
+          "url": "https://elpais.com/economia/negocios/2026-11-14/stephane-boujnah-presidente-de-euronext-las-cripto-y-las-apuestas-tienen-exito-porque-son-como-videojuegos-pero-los-jovenes-aprenderan-que-solo-ofrecen-plusvalias-no-rentabilidad.html",
           "fuente": "EL PAÍS · Economía",
-          "publicado_en": "2026-11-13T04:40:00+00:00",
+          "publicado_en": "2026-11-14T04:30:00+00:00",
           "resumen": ""
         }
       ]
@@ -155,73 +155,73 @@
       "titulo": "España y Andalucía",
       "noticias": [
         {
-          "titulo": "La Fiscalía denuncia a TikTok por la difusión de material de abuso sexual infantil",
-          "url": "https://www.eldiario.es/sociedad/fiscalia-denuncia-tiktok-difusion-material-abuso-sexual-infantil_1_13662356.html",
-          "fuente": "ElDiario.es",
-          "publicado_en": "2026-11-13T14:31:56+00:00",
+          "titulo": "Colau contrapone su propuesta para ampliar la cobertura de la sanidad pública con el modelo “debilitado” del PP en Andalucía",
+          "url": "https://elpais.com/espana/elecciones-generales/2026-11-14/colau-contrapone-su-propuesta-para-ampliar-la-cobertura-de-la-sanidad-publica-con-el-modelo-debilitado-del-pp-en-andalucia.html",
+          "fuente": "EL PAÍS · España",
+          "publicado_en": "2026-11-14T13:47:10+00:00",
           "resumen": ""
         },
         {
-          "titulo": "El Ayuntamiento asegura que no pagará \"ni un céntimo de euro\" al Real Madrid por los parking ilegales del Bernabéu",
-          "url": "https://www.eldiario.es/madrid/somos/ayuntamiento-asegura-no-pagara-centimo-euro-real-madrid-parking-ilegales-bernabeu_1_13662214.html",
+          "titulo": "Feijóo dice ahora que integrará Vivienda \"en una vicepresidencia\" sin especificar con qué rango",
+          "url": "https://www.eldiario.es/politica/feijoo-dice-ahora-integrara-vivienda-vicepresidencia-especificar-rango_1_13664079.html",
           "fuente": "ElDiario.es",
-          "publicado_en": "2026-11-13T14:05:50+00:00",
+          "publicado_en": "2026-11-14T13:25:45+00:00",
           "resumen": ""
         },
         {
-          "titulo": "La huella política china en Australia: lo que cuenta una sede del Kuomintang de hace un siglo",
-          "url": "https://www.eldiario.es/spin/huella-politica-china-australia-cuenta-sede-kuomintang-siglo-pm_1_13661343.html",
-          "fuente": "ElDiario.es",
-          "publicado_en": "2026-11-13T14:00:13+00:00",
+          "titulo": "Sánchez pide “el voto europeísta” para frenar a  Abascal",
+          "url": "https://elpais.com/espana/elecciones-generales/2026-11-14/sanchez-pide-el-voto-europeista-para-frenar-a-abascal.html",
+          "fuente": "EL PAÍS · España",
+          "publicado_en": "2026-11-14T13:18:32+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Sánchez, con Jordi Wild: \"Yo pongo la mano en el fuego por Zapatero\"",
-          "url": "https://www.eldiario.es/politica/sanchez-jordi-wild-pongo-mano-fuego-zapatero_1_13662021.html",
+          "titulo": "Sánchez pide a Feijóo “aprender inglés” y “educación para la ciudadanía” para aceptar los resultados electorales del 29N",
+          "url": "https://www.eldiario.es/politica/sanchez-pide-feijoo-aprender-ingles-educacion-ciudadania-aceptar-resultados-electorales-29n_1_13664025.html",
           "fuente": "ElDiario.es",
-          "publicado_en": "2026-11-13T13:37:04+00:00",
+          "publicado_en": "2026-11-14T13:01:18+00:00",
           "resumen": ""
         },
         {
-          "titulo": "El Gobierno de Aragón dice que ha acordado cómo alojar a los empleados chinos de Stellantis, pero lo detallará tras el 29N",
-          "url": "https://www.eldiario.es/aragon/economia/dga-dice-acordado-alojar-empleados-chinos-stellantis-no-detallara-diciembre_1_13662006.html",
+          "titulo": "Irene Montero, a Jordi Wild: “Culpan a las mujeres y a los migrantes para que no miremos hacia arriba”",
+          "url": "https://www.eldiario.es/canariasahora/politica/irene-montero-gran-canaria-culpan-mujeres-migrantes-no-miremos_1_13664077.html",
           "fuente": "ElDiario.es",
-          "publicado_en": "2026-11-13T13:36:26+00:00",
+          "publicado_en": "2026-11-14T12:58:19+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Galletas de naranja y chocolate: la sencilla receta para preparar un postre dulce y saludable en casa",
-          "url": "https://www.eldiario.es/consumoclaro/galletas-naranja-chocolate-sencilla-receta-preparar-postre-dulce-saludable-casa_1_13660977.html",
+          "titulo": "Albiol vuelve a vincular inmigración y delincuencia para atraer el voto joven: “Al salir de la discoteca les esperan para robarles”",
+          "url": "https://www.eldiario.es/catalunya/albiol-vuelve-vincular-inmigracion-delincuencia-atraer-voto-joven-salir-discoteca-les-esperan-robarles_1_13663953.html",
           "fuente": "ElDiario.es",
-          "publicado_en": "2026-11-13T13:22:45+00:00",
+          "publicado_en": "2026-11-14T12:21:12+00:00",
           "resumen": ""
         },
         {
-          "titulo": "'Fergie' Chambers niega haber financiado organizaciones terroristas palestinas y denuncia una persecución política de EEUU",
-          "url": "https://www.eldiario.es/politica/fergie-chambers-niega-haber-financiado-organizaciones-terroristas-palestinas-denuncia-persecucion-politica-eeuu_1_13661102.html",
+          "titulo": "Microsoft restablece por completo Outlook, Teams y Copilot tras una caída mundial que afectó a más de 70 países",
+          "url": "https://www.eldiario.es/tecnologia/microsoft-restablece-completo-outlook-teams-copilot-caida-mundial-afecto-70-paises_1_13663982.html",
           "fuente": "ElDiario.es",
-          "publicado_en": "2026-11-13T13:21:59+00:00",
+          "publicado_en": "2026-11-14T12:00:22+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Los mossos de la unidad de Montaña admiten que no pueden concluir que la caída de Andic fuera un homicidio",
-          "url": "https://www.eldiario.es/catalunya/mossos-unidad-montana-admiten-no-concluir-caida-andic-fuera-homicidio_1_13661916.html",
+          "titulo": "La receta murciana que nació entre pescadores en el siglo XIX y que toma su nombre del recipiente en el que se cocina y se sirve",
+          "url": "https://www.eldiario.es/spin/receta-murciana-nacio-pescadores-siglo-xix-toma-nombre-recipiente-cocina-sirve-pm_1_13663723.html",
           "fuente": "ElDiario.es",
-          "publicado_en": "2026-11-13T13:19:57+00:00",
+          "publicado_en": "2026-11-14T12:00:05+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Cinco paradas imprescindibles para descubrir los tesoros geológicos que conserva el Parque Natural de Cabo de Gata",
-          "url": "https://www.eldiario.es/viajes/cinco-paradas-imprescindibles-descubrir-tesoros-geologicos-conserva-parque-natural-cabo-gata_1_13661652.html",
+          "titulo": "Esta caminata no competitiva se celebra en Barcelona desde el año 2000 y la de este fin de semana promoverá la adopción de animales",
+          "url": "https://www.eldiario.es/spin/mundo-animal/caminata-no-competitiva-celebra-barcelona-ano-2000-semana-promovera-adopcion-animales-pm_1_13663657.html",
           "fuente": "ElDiario.es",
-          "publicado_en": "2026-11-13T13:14:01+00:00",
+          "publicado_en": "2026-11-14T11:30:44+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Outlook y Teams empiezan a recuperarse en Europa tras una caída global de 20 horas en Microsoft",
-          "url": "https://www.eldiario.es/tecnologia/outlook-teams-empiezan-recuperarse-europa-caida-global-20-horas-microsoft_1_13661763.html",
+          "titulo": "Amaia Salamanca y Patrick Criado se llevan los focos en el arranque de la 52 edición del Festival de Cine de Huelva",
+          "url": "https://www.eldiario.es/andalucia/lacajanegra/amaia-salamanca-patrick-criado-llevan-focos-arranque-52-edicion-festival-cine-huelva_1_13663774.html",
           "fuente": "ElDiario.es",
-          "publicado_en": "2026-11-13T13:09:46+00:00",
+          "publicado_en": "2026-11-14T10:47:51+00:00",
           "resumen": ""
         }
       ]
@@ -231,73 +231,73 @@
       "titulo": "Perú",
       "noticias": [
         {
-          "titulo": "Argentina vs Uruguay EN VIVO: ¿a qué hora juegan en La Bombonera y dónde ver amistoso por fecha FIFA 2026?",
-          "url": "https://rpp.pe/futbol/futbol-mundial/argentina-vs-uruguay-en-vivo-a-que-hora-juegan-canal-y-donde-ver-amistoso-internacional-fecha-fifa-2026-via-directv-partidos-de-hoy-noticia-1717439",
-          "fuente": "RPP",
-          "publicado_en": "2026-11-13T14:55:26+00:00",
+          "titulo": "Horóscopo de HOY, sábado 14  de noviembre: predicciones según tu signo zodiacal",
+          "url": "https://elcomercio.pe/luces/vida-social/horoscopo-de-hoy-en-vivo-y-predicciones-gratis-sabado-14-de-noviembre-2026-segun-tu-signo-zodiacal-aries-tauro-geminis-cancer-leo-virgo-libra-escorpio-sagitario-capricornio-acuario-piscis-lbposting-noticia/",
+          "fuente": "El Comercio Perú",
+          "publicado_en": "2026-11-14T13:50:21+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Mientras esperas por más episodios de “La emperatriz divorciada”: 5 series coreanas que puedes disfrutar en Netflix",
-          "url": "https://elcomercio.pe/mag/fama/que-ver/la-emperatriz-divorciada-los-k-dramas-que-debes-ver-si-te-gusta-la-serie-coreana-de-disney-plus-y-hulu-the-remarried-empress-nnda-nnlt-noticia/",
+          "titulo": "Cita del día, Robin Williams, comediante y actor: “Solo se te ha dado una pequeña chispa de locura. No debes perderla”",
+          "url": "https://elcomercio.pe/mag/respuestas/cita-del-dia-robin-williams-comediante-y-actor-solo-se-te-ha-dado-una-pequena-chispa-de-locura-no-debes-perderla-nnda-nnni-noticia/",
           "fuente": "El Comercio Perú",
-          "publicado_en": "2026-11-13T14:54:46+00:00",
+          "publicado_en": "2026-11-14T13:50:00+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Papa León XIV en Perú: conoce cuánto cuesta viajar a las ciudades de su recorrido oficial",
-          "url": "https://elcomercio.pe/respuestas/cuanto/viajar-para-ver-al-papa-leon-xiv-estos-son-los-precios-de-los-pasajes-a-chiclayo-pucallpa-cusco-y-cajamarca-tdpe-noticia/",
+          "titulo": "Temblor en México EN VIVO hoy, 14 de noviembre 2026: hora exacta, magnitud y dónde fue el epicentro del último sismo, según el SSN",
+          "url": "https://elcomercio.pe/mag/respuestas/temblor-en-mexico-en-vivo-hoy-14-de-noviembre-2026-hora-exacta-magnitud-y-donde-fue-el-epicentro-del-ultimo-sismo-via-ssn-microsismo-cdmx-nnda-nnrt-noticia/",
           "fuente": "El Comercio Perú",
-          "publicado_en": "2026-11-13T14:53:42+00:00",
+          "publicado_en": "2026-11-14T13:49:40+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Estas son todas las políticas que Byron Donalds planea implementar como gobernador de Florida",
-          "url": "https://elcomercio.pe/mag/usa/florida/estas-son-todas-las-politicas-que-byron-donalds-planea-implementar-como-gobernador-de-florida-estados-unidos-nnda-nnlt-noticia/",
+          "titulo": "Papa León XIV recuerda que catedral de Chiclayo fue “testigo de los primeros pasos de mi ministerio episcopal”",
+          "url": "https://elcomercio.pe/peru/lambayeque/papa-leon-xiv-recuerda-que-catedral-de-chiclayo-fue-testigo-de-los-primeros-pasos-de-mi-ministerio-episcopal-gira-sudamericana-apuesplan-ultimas-noticia/",
           "fuente": "El Comercio Perú",
-          "publicado_en": "2026-11-13T14:53:08+00:00",
+          "publicado_en": "2026-11-14T13:43:56+00:00",
           "resumen": ""
         },
         {
-          "titulo": "León XIV regresa a Santa Cruz: las historias del pueblo cajamarquino que conoció a Robert Prevost como obispo",
-          "url": "https://elcomercio.pe/peru/leon-xiv-regresa-a-santa-cruz-las-historias-del-pueblo-cajamarquino-que-conocio-a-robert-prevost-como-obispo-noticia/",
+          "titulo": "Papa León XIV en Perú EN VIVO día 4: agenda, horarios y actividades del sábado 14 en Chiclayo y Cajamarca",
+          "url": "https://elcomercio.pe/peru/lambayeque/papa-leon-xiv-en-chiclayo-en-vivo-hoy-dia-3-minuto-a-minuto-actividades-rutas-agenda-pimentel-y-ultimas-noticias-del-santo-padre-en-el-norte-del-peru-lbposting-noticia/",
           "fuente": "El Comercio Perú",
-          "publicado_en": "2026-11-13T14:52:54+00:00",
+          "publicado_en": "2026-11-14T13:41:05+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Alerta roja en el norte: Tumbes y Piura enfrentarán lluvias extremas este sábado 14 de noviembre",
-          "url": "https://elcomercio.pe/peru/tumbes/alerta-roja-en-el-norte-tumbes-y-piura-enfrentaran-lluvias-extremas-este-sabado-14-de-noviembre-noticia/",
+          "titulo": "Temblor en Venezuela hoy, viernes 13 de noviembre: magnitud y epicentro del último sismo",
+          "url": "https://elcomercio.pe/respuestas/venezuela/temblor-en-venezuela-hoy-en-vivo-ultimo-sismo-13-y-14-de-noviembre-2026-registrado-por-el-funvisis-cual-fue-la-magnitud-epicentro-y-hora-proteccion-civil-la-guaira-caracas-lbposting-noticia/",
           "fuente": "El Comercio Perú",
-          "publicado_en": "2026-11-13T14:52:05+00:00",
+          "publicado_en": "2026-11-14T13:40:33+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Corazón de León: crónica de un papa emocionado y que disfruta cada minuto en casa",
-          "url": "https://elcomercio.pe/lima/corazon-de-leon-cronica-de-un-papa-emocionado-y-que-disfruta-cada-minuto-en-casa-apuesplan-noticia/",
+          "titulo": "Los Olivos: Ambulante es atropellado en la Panamericana Norte por un bus que se dio a la fuga",
+          "url": "https://elcomercio.pe/lima/policiales/los-olivos-ambulante-es-atropellado-en-la-panamericana-norte-por-un-bus-que-se-dio-a-la-fuga-primera-de-pro-mercado-unicachi-ultimas-noticia/",
           "fuente": "El Comercio Perú",
-          "publicado_en": "2026-11-13T14:51:30+00:00",
+          "publicado_en": "2026-11-14T13:39:38+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Centro Ann Sullivan del Perú: una mesa que une, una tradición que transforma vidas",
-          "url": "https://elcomercio.pe/luces/vida-social/centro-ann-sullivan-del-peru-una-mesa-que-une-una-tradicion-que-transforma-vidas-noticia/",
+          "titulo": "Temblor hoy en México: magnitud, epicentro y reporte del SSN, 14 de noviembre de 2026",
+          "url": "https://elcomercio.pe/respuestas/mexico/temblor-en-mexico-hoy-en-vivo-ultimo-sismo-13-y-14-de-noviembre-2026-registrado-por-el-ssn-cual-fue-la-magnitud-epicentro-y-hora-servicio-sismologico-nacional-cdmx-mx-lbposting-noticia/",
           "fuente": "El Comercio Perú",
-          "publicado_en": "2026-11-13T14:51:16+00:00",
+          "publicado_en": "2026-11-14T13:35:53+00:00",
           "resumen": ""
         },
         {
-          "titulo": "León XIV vuelve a Chiclayo: la emoción se traslada a las Pampas de Pimentel y a la capilla que ayudó a reconstruir",
-          "url": "https://elcomercio.pe/peru/la-libertad/leon-xiv-vuelve-a-chiclayo-la-emocion-se-traslada-a-las-pampas-de-pimentel-y-a-la-capilla-que-ayudo-a-reconstruir-apuesplan-noticia/",
+          "titulo": "Papa León XIV: agenda, horario y recorrido por Chiclayo, Cajamarca y Zaña este 14 de noviembre",
+          "url": "https://elcomercio.pe/respuestas/agenda-del-papa-leon-xiv-en-vivo-horarios-y-actividades-de-este-sabado-14-de-noviembre-en-chiclayo-cajamarca-y-zana-tdpe-noticia/",
           "fuente": "El Comercio Perú",
-          "publicado_en": "2026-11-13T14:50:33+00:00",
+          "publicado_en": "2026-11-14T13:34:23+00:00",
           "resumen": ""
         },
         {
-          "titulo": "¿Qué dijo León XIV sobre los abusos sexuales en la Iglesia y qué ocurrió en su reunión con seis víctimas?",
-          "url": "https://elcomercio.pe/lima/sucesos/que-dijo-leon-xiv-sobre-los-abusos-sexuales-en-la-iglesia-y-que-ocurrio-en-su-reunion-con-seis-victimas-apuesplan-noticia/",
+          "titulo": "Temblor en Chile hoy: epicentro y magnitud de los últimos sismos del 14 de noviembre",
+          "url": "https://elcomercio.pe/respuestas/chile/temblor-en-chile-hoy-ultimo-sismo-de-noviembre-en-vivo-cual-fue-la-magnitud-y-epicentro-segun-reporte-del-sgc-centro-sismologico-nacional-socaire-ollague-lbposting-noticia/",
           "fuente": "El Comercio Perú",
-          "publicado_en": "2026-11-13T14:49:29+00:00",
+          "publicado_en": "2026-11-14T13:31:44+00:00",
           "resumen": ""
         }
       ]
