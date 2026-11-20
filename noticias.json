@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "fecha": "2026-11-19",
-  "actualizado_en": "2026-11-19T17:10:45+01:00",
+  "fecha": "2026-11-20",
+  "actualizado_en": "2026-11-20T16:50:19+01:00",
   "descripcion": "Agregación automática de titulares RSS. No constituye edición periodística verificada.",
   "fuentes_con_errores": [],
   "secciones": [
@@ -9,6 +9,13 @@
       "id": "tecnologia",
       "titulo": "Tecnología, IA y eCommerce",
       "noticias": [
+        {
+          "titulo": "Llamadas para comprar una bici, mangos o un tratamiento para la vagina: qué pasa si la IA distribuye tu número de teléfono",
+          "url": "https://elpais.com/tecnologia/2026-11-20/llamadas-para-comprar-una-bici-mangos-o-un-tratamiento-para-la-vagina-que-pasa-si-la-ia-distribuye-tu-numero-de-telefono.html",
+          "fuente": "EL PAÍS · Tecnología",
+          "publicado_en": "2026-11-20T04:30:01+00:00",
+          "resumen": ""
+        },
         {
           "titulo": "Facebook, la herramienta clave del genocidio contra los rohinyás: “Una cuenta militar los deshumanizaba”",
           "url": "https://elpais.com/tecnologia/2026-11-19/facebook-la-herramienta-clave-del-genocidio-contra-los-rohinyas-una-cuenta-militar-los-deshumanizaba.html",
@@ -58,73 +65,73 @@
       "titulo": "Empleo, negocios y formación",
       "noticias": [
         {
-          "titulo": "La jueza del siniestro ferroviario de Urda autoriza a Adif a reconstruir las vías en la línea Madrid-Sevilla",
-          "url": "https://elpais.com/economia/2026-11-19/la-jueza-del-siniestro-ferroviario-de-urda-autoriza-a-adif-a-reconstruir-las-vias-en-la-linea-madrid-sevilla.html",
+          "titulo": "El Gobierno desbloquea la directiva del nuevo mercado de emisiones para coches y calefacciones",
+          "url": "https://elpais.com/economia/2026-11-20/el-gobierno-desbloquea-la-directiva-del-nuevo-mercado-de-emisiones-para-coches-y-calefacciones.html",
           "fuente": "EL PAÍS · Economía",
-          "publicado_en": "2026-11-19T12:15:43+00:00",
+          "publicado_en": "2026-11-20T14:36:38+00:00",
           "resumen": ""
         },
         {
-          "titulo": "El empleo turístico encadena por primera vez seis meses con más de 3 millones de afiliados",
-          "url": "https://elpais.com/economia/2026-11-19/el-empleo-turistico-encadena-por-primera-vez-seis-meses-con-mas-de-3-millones-de-afiliados.html",
+          "titulo": "Transportes confía en que la línea Madrid-Sevilla en Urda se repare en unas dos semanas",
+          "url": "https://elpais.com/economia/2026-11-20/transportes-confia-en-que-la-linea-madrid-sevilla-en-urda-se-repare-en-unas-dos-semanas.html",
           "fuente": "EL PAÍS · Economía",
-          "publicado_en": "2026-11-19T10:46:02+00:00",
+          "publicado_en": "2026-11-20T12:31:22+00:00",
           "resumen": ""
         },
         {
-          "titulo": "La luz de los gurús económicos se apaga en la política",
-          "url": "https://elpais.com/economia/2026-11-19/la-luz-de-los-gurus-economicos-se-apaga-en-la-politica.html",
+          "titulo": "Conseguir cien euros es tan sencillo como abrir una cuenta ‘online’",
+          "url": "https://elpais.com/economia/2026-11-20/conseguir-cien-euros-es-tan-sencillo-como-abrir-una-cuenta-online.html",
           "fuente": "EL PAÍS · Economía",
-          "publicado_en": "2026-11-19T06:39:56+00:00",
+          "publicado_en": "2026-11-20T08:39:25+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Amazon, Temu y AliExpress suben precios por el nuevo arancel europeo a los pedidos de bajo coste",
-          "url": "https://elpais.com/economia/2026-11-19/amazon-temu-y-aliexpress-suben-precios-por-el-nuevo-arancel-europeo-a-los-pedidos-de-bajo-coste.html",
+          "titulo": "No todos los estudios interesan como antes: qué está cambiando en el mercado de la formación",
+          "url": "https://elpais.com/economia/formacion/2026-11-20/no-todos-los-estudios-interesan-como-antes-que-esta-cambiando-en-el-mercado-de-la-formacion.html",
           "fuente": "EL PAÍS · Economía",
-          "publicado_en": "2026-11-19T06:00:00+00:00",
+          "publicado_en": "2026-11-20T06:30:00+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Menos consumo, trabas laborales y más desigualdad: la crisis de la vivienda amenaza con enfriar el auge económico español",
-          "url": "https://elpais.com/economia/2026-11-19/menos-consumo-trabas-laborales-y-mas-desigualdad-la-crisis-de-la-vivienda-amenaza-con-enfriar-el-auge-economico-espanol.html",
+          "titulo": "Las rentas más altas acaparan tres cuartas partes de las ventajas fiscales al alquiler de vivienda",
+          "url": "https://elpais.com/economia/2026-11-20/las-rentas-mas-altas-acaparan-tres-cuartas-partes-de-las-ventajas-fiscales-al-alquiler-de-vivienda.html",
           "fuente": "EL PAÍS · Economía",
-          "publicado_en": "2026-11-19T04:45:01+00:00",
+          "publicado_en": "2026-11-20T04:45:01+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Ante un agujero financiero gigantesco, Alemania pierde el sueño joven de ascenso generacional",
-          "url": "https://cincodias.elpais.com/opinion/2026-11-19/ante-un-agujero-financiero-gigantesco-alemania-pierde-el-sueno-joven-de-ascenso-generacional.html",
+          "titulo": "El problema de la despoblación, escondido por los grandes partidos",
+          "url": "https://cincodias.elpais.com/opinion/2026-11-20/el-problema-de-la-despoblacion-escondido-por-los-grandes-partidos.html",
           "fuente": "EL PAÍS · Economía",
-          "publicado_en": "2026-11-19T04:40:00+00:00",
+          "publicado_en": "2026-11-20T04:40:00+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Cómo evitar que la ‘economía de la seguridad’ asfixie el crecimiento",
-          "url": "https://cincodias.elpais.com/opinion/2026-11-19/como-evitar-que-la-economia-de-la-seguridad-asfixie-el-crecimiento.html",
+          "titulo": "Las claves: Alemania asume que Orcel tiene las de ganar en la compra de Commerzbank",
+          "url": "https://cincodias.elpais.com/opinion/2026-11-20/las-claves-alemania-asume-que-orcel-tiene-las-de-ganar-en-la-compra-de-commerzbank.html",
           "fuente": "EL PAÍS · Economía",
-          "publicado_en": "2026-11-19T04:40:00+00:00",
+          "publicado_en": "2026-11-20T04:40:00+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Las claves: Nvidia se atreve a pensar en un futuro sin su gran líder",
-          "url": "https://cincodias.elpais.com/opinion/2026-11-19/las-claves-nvidia-se-atreve-a-pensar-en-un-futuro-sin-su-gran-lider.html",
+          "titulo": "La euforia por la OPV de Anthropic tiene su lógica",
+          "url": "https://cincodias.elpais.com/opinion/2026-11-20/la-euforia-por-la-opv-de-anthropic-tiene-su-logica.html",
           "fuente": "EL PAÍS · Economía",
-          "publicado_en": "2026-11-19T04:40:00+00:00",
+          "publicado_en": "2026-11-20T04:40:00+00:00",
           "resumen": ""
         },
         {
-          "titulo": "El acceso a la vivienda, punto débil de la economía",
-          "url": "https://cincodias.elpais.com/opinion/2026-11-19/el-punto-debil-del-acceso-a-la-vivienda.html",
+          "titulo": "La brecha bursátil transatlántica deja de ser una montaña",
+          "url": "https://cincodias.elpais.com/opinion/2026-11-20/la-brecha-bursatil-transatlantica-deja-de-ser-una-montana.html",
           "fuente": "EL PAÍS · Economía",
-          "publicado_en": "2026-11-19T04:40:00+00:00",
+          "publicado_en": "2026-11-20T04:40:00+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Cómo y dónde están viendo oportunidades en la IA los fundadores de unicornios",
-          "url": "https://cincodias.elpais.com/opinion/2026-11-19/como-y-donde-estan-viendo-oportunidades-en-la-ia-los-fundadores-de-unicornios.html",
+          "titulo": "¿Por qué el transporte público se la juega en estas elecciones?",
+          "url": "https://cincodias.elpais.com/opinion/2026-11-20/por-que-el-transporte-publico-se-la-juega-en-estas-elecciones.html",
           "fuente": "EL PAÍS · Economía",
-          "publicado_en": "2026-11-19T04:40:00+00:00",
+          "publicado_en": "2026-11-20T04:40:00+00:00",
           "resumen": ""
         }
       ]
@@ -134,73 +141,73 @@
       "titulo": "España y Andalucía",
       "noticias": [
         {
-          "titulo": "Pagos desde Marruecos y esperas en las playas de La Línea, así funcionaba la última red de pase de migrantes de Ceuta",
-          "url": "https://elpais.com/espana/2026-11-19/pagos-desde-marruecos-y-esperas-en-las-playas-de-la-linea-asi-funcionaba-la-ultima-red-de-pase-de-migrantes-de-ceuta.html",
+          "titulo": "Detenido en Burgos con un arsenal de armas de fuego y machetes un instigador de la organización ciberterrorista NoName057(16)",
+          "url": "https://elpais.com/espana/2026-11-20/detenido-en-burgos-con-un-arsenal-de-armas-de-fuego-y-machetes-un-instigador-de-la-organizacion-ciberterrorista-noname05716.html",
           "fuente": "EL PAÍS · España",
-          "publicado_en": "2026-11-19T15:44:08+00:00",
+          "publicado_en": "2026-11-20T15:21:10+00:00",
           "resumen": ""
         },
         {
-          "titulo": "El Gobierno de Ayuso ordena a los centros \"neutralidad\" al hablar a los alumnos de la huelga: \"Su función es educar, no adoctrinar\"",
-          "url": "https://www.eldiario.es/madrid/gobierno-ayuso-ordena-centros-neutralidad-hablar-alumnos-huelga-funcion-educar-no-adoctrinar_1_13677646.html",
+          "titulo": "Ganvam reivindica las empresas de venta y reparación de vehículos: \"Somos el motor que mueve España\"",
+          "url": "https://www.eldiario.es/motor/sector_y_mercado/ganvam-reivindica-empresas-venta-reparacion-vehiculos-motor-mueve-espana_1_13680885.html",
           "fuente": "ElDiario.es",
-          "publicado_en": "2026-11-19T15:29:13+00:00",
+          "publicado_en": "2026-11-20T15:05:20+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Koldo García desde la cárcel: \"A mí y a Ábalos no se nos entregó ningún dinero para el PSOE. Aldama miente\"",
-          "url": "https://www.eldiario.es/politica/koldo-garcia-carcel-abalos-no-entrego-dinero-psoe-aldama-miente_1_13677217.html",
+          "titulo": "Mejora la rentabilidad de los concesionarios gracias al margen en la venta de vehículos nuevos",
+          "url": "https://www.eldiario.es/motor/sector_y_mercado/mejora-rentabilidad-concesionarios-gracias-margen-venta-vehiculos-nuevos_1_13681168.html",
           "fuente": "ElDiario.es",
-          "publicado_en": "2026-11-19T15:26:12+00:00",
+          "publicado_en": "2026-11-20T15:03:34+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Los Sindicatos de Inquilinas convocan movilizaciones este fin de semana siguiendo la ola europea",
-          "url": "https://www.eldiario.es/economia/sindicatos-inquilinas-convocan-movilizaciones-semana-siguiendo-ola-europea_1_13677688.html",
+          "titulo": "Moreno defiende que Ayuso \"se refería\" a \"la etapa socialista\": \"No nos sentimos absolutamente menos que nadie\"",
+          "url": "https://www.eldiario.es/andalucia/moreno-defiende-ayuso-referia-etapa-socialista-no-sentimos-absolutamente-nadie_1_13680364.html",
           "fuente": "ElDiario.es",
-          "publicado_en": "2026-11-19T15:07:24+00:00",
+          "publicado_en": "2026-11-20T14:47:51+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Pobreza de transporte: cuando desplazarse se convierte en un privilegio",
-          "url": "https://www.eldiario.es/eventos/pobreza-transporte-desplazarse-convierte-privilegio_1_13677654.html",
+          "titulo": "Feijóo aprovecha el repunte migratorio para hacer campaña en El Hierro y anuncia un \"mando único\" de inmigración si gobierna",
+          "url": "https://www.eldiario.es/canariasahora/politica/feijoo-aprovecha-repunte-migratorio-campana-hierro-anuncia-mando-unico-inmigracion-si-gobierna_1_13681071.html",
           "fuente": "ElDiario.es",
-          "publicado_en": "2026-11-19T15:02:06+00:00",
+          "publicado_en": "2026-11-20T14:41:46+00:00",
           "resumen": ""
         },
         {
-          "titulo": "El creador de ‘La ciudad de los 15 minutos’: “En la carrera por conquistar las distancias, hemos perdido la batalla del tiempo útil”",
-          "url": "https://www.eldiario.es/eventos/creador-ciudad-15-minutos-carrera-conquistar-distancias-hemos-perdido-batalla-tiempo-util_1_13677622.html",
+          "titulo": "El Supremo rechaza la petición de un padre para que su hija reciba el 25% de clases en castellano en Mallorca",
+          "url": "https://www.eldiario.es/illes-balears/sociedad/supremo-rechaza-peticion-padre-hija-reciba-25-clases-castellano-mallorca_1_13680884.html",
           "fuente": "ElDiario.es",
-          "publicado_en": "2026-11-19T14:55:35+00:00",
+          "publicado_en": "2026-11-20T14:29:50+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Horas claves para Alcaraz en Turín: suspende su entrenamiento y se somete a pruebas por sus molestias",
-          "url": "https://www.eldiario.es/spin/deportes/horas-claves-alcaraz-turin-suspende-entrenamiento-somete-pruebas-molestias-pm_1_13677638.html",
+          "titulo": "La Justicia respalda a Íñigo Errejón y archiva la demanda del hombre que le acusó de darle una patada",
+          "url": "https://www.eldiario.es/politica/justicia-respalda-inigo-errejon-archiva-demanda-hombre-le-acuso-darle-patada_1_13680790.html",
           "fuente": "ElDiario.es",
-          "publicado_en": "2026-11-19T14:50:07+00:00",
+          "publicado_en": "2026-11-20T14:22:00+00:00",
           "resumen": ""
         },
         {
-          "titulo": "El dilema del transporte marítimo para alcanzar las cero emisiones: “Nadie hace una apuesta real porque no hay certeza”",
-          "url": "https://www.eldiario.es/eventos/dilema-transporte-maritimo-alcanzar-cero-emisiones-nadie-apuesta-real-no-hay-certeza_1_13677563.html",
+          "titulo": "El Supremo veta también el voto en las elecciones a los nacionalizados por la ley de nietos que viven en España",
+          "url": "https://www.eldiario.es/politica/supremo-veta-voto-elecciones-nacionalizados-ley-nietos-viven-espana_1_13680980.html",
           "fuente": "ElDiario.es",
-          "publicado_en": "2026-11-19T14:37:48+00:00",
+          "publicado_en": "2026-11-20T14:17:27+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Dos activistas lanzan cenizas sobre el comisario europeo de Salud en protesta contra los pesticidas",
-          "url": "https://www.eldiario.es/sociedad/activistas-lanzan-cenizas-comisario-europeo-salud-protesta-pesticidas_1_13677409.html",
+          "titulo": "El presidente de los obispos sale \"tocado\" de la batalla en la Conferencia Episcopal tras ser incapaz de imponer su criterio para el 29N",
+          "url": "https://www.eldiario.es/sociedad/presidente-obispos-sale-tocado-batalla-conferencia-episcopal-incapaz-imponer-criterio-29n_1_13680678.html",
           "fuente": "ElDiario.es",
-          "publicado_en": "2026-11-19T14:30:50+00:00",
+          "publicado_en": "2026-11-20T14:01:23+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Conexión canaria en el Barça: Pedri y Quevedo se unen de la mano de Spotify",
-          "url": "https://www.eldiario.es/spin/deportes/conexion-canaria-barca-pedri-quevedo-unen-mano-spotify-pm_1_13676572.html",
+          "titulo": "Las pequeñas batallas centran el fin de semana de F1: horario y dónde ver el Gran Premio de Las Vegas",
+          "url": "https://www.eldiario.es/spin/deportes/pequenas-batallas-centran-semana-f1-horario-ver-gran-premio-vegas-pm_1_13680452.html",
           "fuente": "ElDiario.es",
-          "publicado_en": "2026-11-19T14:30:31+00:00",
+          "publicado_en": "2026-11-20T14:00:46+00:00",
           "resumen": ""
         }
       ]
@@ -210,73 +217,73 @@
       "titulo": "Perú",
       "noticias": [
         {
-          "titulo": "Argentina vs Australia EN VIVO hoy: sigue el partido en Qatar por la fecha 1 del Mundial Sub 17 2026",
-          "url": "https://rpp.pe/futbol/futbol-mundial/argentina-vs-australia-en-vivo-a-que-hora-juegan-y-donde-ver-fecha-1-mundial-sub-17-2026-link-dsports-tyc-sports-tv-publica-dgo-dazn-paramount-gratis-partidos-de-hoy-noticia-1718426",
+          "titulo": "Pochettino cambia las reglas en Manchester United: las tres medidas que deberán cumplir sus jugadores",
+          "url": "https://elcomercio.pe/deporte-total/futbol-mundial/mauricio-pochettino-cambia-las-reglas-en-manchester-united-las-tres-medidas-que-deberan-cumplir-sus-jugadores-ultimas-noticia/",
+          "fuente": "El Comercio Perú",
+          "publicado_en": "2026-11-20T15:43:09+00:00",
+          "resumen": ""
+        },
+        {
+          "titulo": "Yuno y Langris enfrentan a Zenon: fecha de estreno, hora y link para ver el Episodio 8 de “Black Clover” - Temporada 2",
+          "url": "https://elcomercio.pe/mag/fama/que-ver/black-clover-temporada-2-episodio-8-fecha-hora-y-link-para-ver-el-anime-de-crunchyroll-nnda-nnlt-noticia/",
+          "fuente": "El Comercio Perú",
+          "publicado_en": "2026-11-20T15:40:54+00:00",
+          "resumen": ""
+        },
+        {
+          "titulo": "DeSantis firmó orden ejecutiva que amplía el estado de emergencia en Florida tras lluvias e inundaciones: qué condados se incluyeron y qué significa",
+          "url": "https://elcomercio.pe/mag/usa/florida/ron-desantis-firmo-orden-ejecutiva-que-amplia-el-estado-de-emergencia-en-florida-tras-lluvias-e-inundaciones-que-condados-se-incluyeron-y-que-significa-estados-unidos-nnda-nnlt-noticia/",
+          "fuente": "El Comercio Perú",
+          "publicado_en": "2026-11-20T15:40:33+00:00",
+          "resumen": ""
+        },
+        {
+          "titulo": "Para cerrar bien el Clausura 2026: Alianza Lima y la oncena que alista para recibir a FC Cajamarca",
+          "url": "https://rpp.pe/futbol/descentralizado/alianza-lima-vs-fc-cajamarca-alineacion-intima-sin-paolo-guerrero-por-ultima-fecha-del-clausura-2026-fotos-noticia-1718778",
           "fuente": "RPP",
-          "publicado_en": "2026-11-19T16:08:24+00:00",
+          "publicado_en": "2026-11-20T15:40:22+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Semanas de ataques y un golpe final: así Ucrania preparó la destrucción del puente de Crimea",
-          "url": "https://elcomercio.pe/mundo/europa/ataque-al-puente-de-crimea-como-ucrania-logro-burlar-las-defensas-de-rusia-vladimir-putin-volodymyr-zelensky-noticia/",
+          "titulo": "Oppo Find X10: dos cámaras de 200MP y un zoom de 120X que destaca en el procesamiento de imagen | RESEÑA",
+          "url": "https://elcomercio.pe/tecnologia/moviles/oppo-find-x10-dos-camaras-de-200mp-y-un-zoom-de-120x-que-destaca-en-el-procesamiento-de-imagen-resena-smartphones-celulares-noticia/",
           "fuente": "El Comercio Perú",
-          "publicado_en": "2026-11-19T16:05:45+00:00",
+          "publicado_en": "2026-11-20T15:40:05+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Diputados: Presentan moción para interpelar a ministro de Energía y Minas",
-          "url": "https://elcomercio.pe/politica/congreso/diputados-presentan-mocion-para-interpelar-a-ministro-de-energia-y-minas-guillermo-shinno-ultimas-noticia/",
+          "titulo": "Nuevo Nissan Pathfinder con 8 asientos y motor V6 en el Perú: ¿será rival para el Explorer, Pilot, CX-90 y Traverse?",
+          "url": "https://elcomercio.pe/ruedas-tuercas/automotriz/nuevo-nissan-pathfinder-con-8-asientos-y-motor-v6-en-el-peru-sera-rival-para-el-explorer-pilot-cx-90-y-traverse-noticia/",
           "fuente": "El Comercio Perú",
-          "publicado_en": "2026-11-19T16:04:29+00:00",
+          "publicado_en": "2026-11-20T15:38:49+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Partidos de HOY, jueves 19 de noviembre del 2026: programación TV, horarios y dónde ver fútbol EN VIVO ONLINE",
-          "url": "https://elcomercio.pe/deporte-total/futbol-mundial/partidos-de-hoy-jueves-19-de-noviembre-del-2026-a-que-hora-juegan-y-en-que-canales-ver-futbol-en-vivo-online-gratis-noticia/",
-          "fuente": "El Comercio Perú",
-          "publicado_en": "2026-11-19T16:04:26+00:00",
+          "titulo": "Alarma en el norte del país: caudales de ríos Tumbes y Alamor superaron el umbral rojo y se teme desbordes",
+          "url": "https://rpp.pe/peru/actualidad/alarma-en-el-norte-del-pais-caudales-de-rios-tumbes-y-alamor-superaron-el-umbral-rojo-y-se-teme-desbordes-noticia-1718783",
+          "fuente": "RPP",
+          "publicado_en": "2026-11-20T15:30:33+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Temblor en Chile hoy, jueves 19 de noviembre: hora, epicentro y magnitud",
-          "url": "https://elcomercio.pe/respuestas/chile/temblor-en-chile-hoy-en-vivo-ultimos-sismos-19-y-20-de-noviembre-hora-exacta-epicentro-y-magnitud-segun-el-csn-centro-sismologico-nacional-socaire-ollague-lbposting-noticia/",
+          "titulo": "El dólar abre en S/3,45 ante caída del cobre y cautela en los mercados internacionales",
+          "url": "https://elcomercio.pe/economia/peru/el-dolar-abre-en-s345-ante-caida-del-cobre-y-cautela-en-los-mercados-internacionales-l-ultimas-noticia/",
           "fuente": "El Comercio Perú",
-          "publicado_en": "2026-11-19T16:04:02+00:00",
+          "publicado_en": "2026-11-20T15:30:19+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Periodistas que viajan en avión presidencial con Trump obligados a entregar teléfonos",
-          "url": "https://elcomercio.pe/mundo/eeuu/periodistas-que-viajan-en-avion-presidencial-con-donald-trump-obligados-a-entregar-telefonos-ultimas-noticia/",
+          "titulo": "La IA está siendo gobernada de una manera “medieval”, denuncia la ONU",
+          "url": "https://elcomercio.pe/tecnologia/inteligencia-artificial/la-ia-esta-siendo-gobernada-de-una-manera-medieval-denuncia-la-onu-informatica-derechos-humanos-ciberseguridad-noticia/",
           "fuente": "El Comercio Perú",
-          "publicado_en": "2026-11-19T16:03:02+00:00",
+          "publicado_en": "2026-11-20T15:29:33+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Con Sport Huancayo, Sporting Cristal y Universitario: todos los escenarios para definir al ganador del Torneo Clausura",
-          "url": "https://elcomercio.pe/deporte-total/futbol-peruano/liga-1-con-sport-huancayo-sporting-cristal-y-universitario-todos-los-escenarios-para-definir-al-ganador-del-torneo-clausura-2026-noticia/",
+          "titulo": "Lluvias, calor extremo y oleaje anómalo en Perú por El Niño EN VIVO: últimas noticias y pronósticos del Senamhi",
+          "url": "https://elcomercio.pe/peru/lluvias-calor-extremo-y-oleaje-anomalo-en-regiones-peru-por-el-nino-en-vivo-ultimas-noticias-pronosticos-y-alertas-del-senamhi-lbposting-noticia/",
           "fuente": "El Comercio Perú",
-          "publicado_en": "2026-11-19T16:02:09+00:00",
-          "resumen": ""
-        },
-        {
-          "titulo": "Están pagando US$2,500 en EE. UU. por ver películas navideñas: cómo postular al empleo y hasta cuándo",
-          "url": "https://elcomercio.pe/mag/usa/local-us/estan-pagando-us2500-en-ee-uu-por-ver-peliculas-navidenas-como-postular-al-empleo-y-hasta-cuando-estados-unidos-nnda-nnlt-noticia/",
-          "fuente": "El Comercio Perú",
-          "publicado_en": "2026-11-19T16:02:00+00:00",
-          "resumen": ""
-        },
-        {
-          "titulo": "¿Necesitas renovar tu DNI? Anuncian campaña especial este 20 de noviembre con varios servicios",
-          "url": "https://elcomercio.pe/respuestas/tramites/necesitas-renovar-tu-dni-anuncian-campana-especial-este-20-de-noviembre-con-varios-servicios-tdpe-noticia/",
-          "fuente": "El Comercio Perú",
-          "publicado_en": "2026-11-19T16:01:43+00:00",
-          "resumen": ""
-        },
-        {
-          "titulo": "Temblor en Colombia HOY, jueves 19 de noviembre: epicentro y magnitud del último sismo reportado por el SGC",
-          "url": "https://elcomercio.pe/respuestas/colombia/temblor-en-colombia-hoy-en-vivo-ultimo-sismos-19-y-20-de-noviembre-2026-reporte-de-magnitud-epicentro-y-hora-segun-sgc-servicio-geologico-colombiano-choco-co-lbposting-noticia/",
-          "fuente": "El Comercio Perú",
-          "publicado_en": "2026-11-19T16:00:52+00:00",
+          "publicado_en": "2026-11-20T15:27:00+00:00",
           "resumen": ""
         }
       ]
