@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "fecha": "2026-11-22",
-  "actualizado_en": "2026-11-22T15:58:13+01:00",
+  "fecha": "2026-11-23",
+  "actualizado_en": "2026-11-23T19:52:08+01:00",
   "descripcion": "Agregación automática de titulares RSS. No constituye edición periodística verificada.",
   "fuentes_con_errores": [],
   "secciones": [
@@ -9,6 +9,13 @@
       "id": "tecnologia",
       "titulo": "Tecnología, IA y eCommerce",
       "noticias": [
+        {
+          "titulo": "Luciano Floridi, filósofo: “La teoría del apocalipsis de la IA es la suma de desinformación, propaganda, intereses y codicia”",
+          "url": "https://elpais.com/tecnologia/2026-11-23/luciano-floridi-filosofo-la-teoria-del-apocalipsis-de-la-ia-es-la-suma-de-desinformacion-propaganda-intereses-y-codicia.html",
+          "fuente": "EL PAÍS · Tecnología",
+          "publicado_en": "2026-11-23T04:30:01+00:00",
+          "resumen": ""
+        },
         {
           "titulo": "Jian Tang, fabricante de robots: “Lo primero que harán será recoger cosas y poner lavadoras”",
           "url": "https://elpais.com/tecnologia/2026-11-21/jian-tang-fabricante-de-robots-lo-primero-que-haran-sera-recoger-cosas-y-poner-lavadoras.html",
@@ -22,13 +29,6 @@
           "fuente": "EL PAÍS · Tecnología",
           "publicado_en": "2026-11-21T04:30:01+00:00",
           "resumen": ""
-        },
-        {
-          "titulo": "Llamadas para comprar una bici, mangos o un tratamiento para la vagina: qué pasa si la IA distribuye tu número de teléfono",
-          "url": "https://elpais.com/tecnologia/2026-11-20/llamadas-para-comprar-una-bici-mangos-o-un-tratamiento-para-la-vagina-que-pasa-si-la-ia-distribuye-tu-numero-de-telefono.html",
-          "fuente": "EL PAÍS · Tecnología",
-          "publicado_en": "2026-11-20T04:30:01+00:00",
-          "resumen": ""
         }
       ]
     },
@@ -37,73 +37,73 @@
       "titulo": "Empleo, negocios y formación",
       "noticias": [
         {
-          "titulo": "Los directivos españoles moderan su optimismo a medio plazo, pero mantienen la apuesta por el empleo y la IA",
-          "url": "https://elpais.com/economia/2026-11-22/los-directivos-espanoles-moderan-su-optimismo-a-medio-plazo-pero-mantienen-la-apuesta-por-el-empleo-y-la-ia.html",
+          "titulo": "El Gobierno ampliará este martes el permiso de duelo por fallecimiento a 10 días",
+          "url": "https://elpais.com/economia/2026-11-23/el-gobierno-ampliara-este-martes-el-permiso-de-fallecimiento-a-10-dias.html",
           "fuente": "EL PAÍS · Economía",
-          "publicado_en": "2026-11-22T13:00:00+00:00",
+          "publicado_en": "2026-11-23T17:55:55+00:00",
           "resumen": ""
         },
         {
-          "titulo": "“Tenemos el mejor candidato”: así lanzó España la carrera por la presidencia del BCE",
-          "url": "https://elpais.com/economia/2026-11-22/tenemos-el-mejor-candidato-asi-lanzo-espana-la-carrera-por-la-presidencia-del-bce.html",
+          "titulo": "El Gobierno aprobará la limitación de los intereses del crédito al consumo en un paquete de medidas que afectan a la banca",
+          "url": "https://elpais.com/economia/2026-11-23/el-gobierno-aprobara-la-limitacion-de-los-intereses-del-credito-al-consumo-en-un-paquete-de-medidas-que-afectan-a-la-banca.html",
           "fuente": "EL PAÍS · Economía",
-          "publicado_en": "2026-11-22T04:45:01+00:00",
+          "publicado_en": "2026-11-23T13:41:21+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Los fallos en los sistemas antiblanqueo ponen a Revolut y otros neobancos en el punto de mira",
-          "url": "https://elpais.com/economia/2026-11-22/los-fallos-en-los-sistemas-antiblanqueo-ponen-a-revolut-y-otros-neobancos-en-el-punto-de-mira.html",
+          "titulo": "CC OO y UGT llaman a votar a la izquierda: “Lo mejor para España es reeditar el Gobierno de coalición progresista”",
+          "url": "https://elpais.com/economia/2026-11-23/cc-oo-y-ugt-llaman-a-votar-a-la-izquierda-lo-mejor-para-espana-es-reeditar-el-gobierno-de-coalicion-progresista.html",
           "fuente": "EL PAÍS · Economía",
-          "publicado_en": "2026-11-22T04:45:01+00:00",
+          "publicado_en": "2026-11-23T13:19:53+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Economistas e intelectuales denuncian en París la amenaza de la oligarquía internacional para las democracias",
-          "url": "https://elpais.com/economia/2026-11-22/economistas-e-intelectuales-denuncian-en-una-cumbre-en-paris-la-amenaza-de-la-oligarquia-internacional-para-las-democracias.html",
+          "titulo": "Cómo empezar a invertir en ETF desde el móvil de forma sencilla",
+          "url": "https://elpais.com/",
           "fuente": "EL PAÍS · Economía",
-          "publicado_en": "2026-11-22T04:45:01+00:00",
+          "publicado_en": "2026-11-23T11:01:43+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Si hubiéramos tenido Presupuestos Generales",
-          "url": "https://cincodias.elpais.com/opinion/2026-11-22/si-hubieramos-tenido-presupuestos-generales.html",
+          "titulo": "La ocupación hotelera en España marca otro récord en octubre aunque los precios suben un 8%",
+          "url": "https://elpais.com/economia/2026-11-23/la-ocupacion-hotelera-en-espana-marca-otro-record-en-octubre-aunque-los-precios-suben-un-8.html",
           "fuente": "EL PAÍS · Economía",
-          "publicado_en": "2026-11-22T04:40:00+00:00",
+          "publicado_en": "2026-11-23T10:26:54+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Christian Sewing, el aficionado al tenis que pelea otro revés para su banco",
-          "url": "https://cincodias.elpais.com/opinion/2026-11-22/christian-sewing-el-aficionado-al-tenis-que-pelea-otro-reves-para-su-banco.html",
+          "titulo": "Sánchez propone un impuesto para “ultrarricos” con fortunas superiores a 100 millones de euros",
+          "url": "https://elpais.com/economia/2026-11-23/sanchez-propone-un-impuesto-para-ultrarricos-con-fortunas-superiores-a-100-millones-de-euros.html",
           "fuente": "EL PAÍS · Economía",
-          "publicado_en": "2026-11-22T04:40:00+00:00",
+          "publicado_en": "2026-11-23T09:51:45+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Las claves: el largo corte del trayecto en tren Madrid-Sevilla es motivo para la reflexión",
-          "url": "https://cincodias.elpais.com/opinion/2026-11-22/las-claves-el-largo-corte-del-trayecto-en-tren-madrid-sevilla-es-motivo-para-la-reflexion.html",
+          "titulo": "Las aerolíneas anticipan una subida de precios y un recorte de plazas para el próximo verano",
+          "url": "https://elpais.com/economia/2026-11-23/las-aerolineas-anticipan-una-subida-de-precios-y-un-recorte-de-plazas-para-el-proximo-verano.html",
           "fuente": "EL PAÍS · Economía",
-          "publicado_en": "2026-11-22T04:40:00+00:00",
+          "publicado_en": "2026-11-23T04:45:01+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Crisis de la vivienda, desigualdad y crecimiento",
-          "url": "https://elpais.com/economia/negocios/2026-11-22/crisis-de-la-vivienda-desigualdad-y-crecimiento.html",
+          "titulo": "La sede fantasma de la CNMC en Barcelona",
+          "url": "https://elpais.com/economia/2026-11-23/la-sede-fantasma-de-la-cnmc-en-barcelona.html",
           "fuente": "EL PAÍS · Economía",
-          "publicado_en": "2026-11-22T04:40:00+00:00",
+          "publicado_en": "2026-11-23T04:45:00+00:00",
           "resumen": ""
         },
         {
-          "titulo": "La OPV de 2 billones de Anthropic puede ser el último gran festejo",
-          "url": "https://cincodias.elpais.com/opinion/2026-11-22/la-opv-de-2-billones-de-anthropic-puede-ser-el-ultimo-gran-festejo.html",
+          "titulo": "Promesas electorales bajo sospecha",
+          "url": "https://elpais.com/economia/2026-11-23/promesas-electorales-bajo-sospecha.html",
           "fuente": "EL PAÍS · Economía",
-          "publicado_en": "2026-11-22T04:40:00+00:00",
+          "publicado_en": "2026-11-23T04:30:01+00:00",
           "resumen": ""
         },
         {
-          "titulo": "El caso Weil: así se desmantela un despacho de abogados",
-          "url": "https://elpais.com/economia/negocios/2026-11-22/el-caso-weil-asi-se-desmantela-un-despacho-de-abogados.html",
+          "titulo": "Los jubilados al PSOE y los policías a Vox: la diferencia del voto por ocupación",
+          "url": "https://elpais.com/espana/elecciones-generales/2026-11-23/los-jubilados-al-psoe-y-los-policias-a-vox-la-diferencia-del-voto-por-ocupacion.html",
           "fuente": "EL PAÍS · Economía",
-          "publicado_en": "2026-11-22T04:30:00+00:00",
+          "publicado_en": "2026-11-23T04:30:01+00:00",
           "resumen": ""
         }
       ]
@@ -113,73 +113,73 @@
       "titulo": "España y Andalucía",
       "noticias": [
         {
-          "titulo": "Abascal quiere más que una \"simple mayoría absoluta\" para finiquitar el estado autonómico: \"No nos gusta\"",
-          "url": "https://www.eldiario.es/aragon/politica/abascal-quiere-simple-mayoria-absoluta-finiquitar-autonomico-no-gusta_1_13684269.html",
+          "titulo": "Sorogoyen, Bardem y más de 200 firmas de la Cultura piden el voto para Frente Amplio: “Las ayudas son para blindar la libertad creativa”",
+          "url": "https://www.eldiario.es/cultura/sorogoyen-bardem-200-firmas-cultura-piden-voto-frente-amplio-ayudas-son-blindar-libertad-creativa_1_13686927.html",
           "fuente": "ElDiario.es",
-          "publicado_en": "2026-11-22T14:10:39+00:00",
+          "publicado_en": "2026-11-23T18:42:51+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Feijóo: “Sabemos lo que pasó en 2023, ganar y no gobernar. ¡Tenedlo claro! ¡No hemos ganado nada!”",
-          "url": "https://elpais.com/espana/2026-11-22/feijoo-sabemos-lo-que-paso-en-2023-ganar-y-no-gobernar-tenedlo-claro-no-hemos-ganado-nada.html",
-          "fuente": "EL PAÍS · España",
-          "publicado_en": "2026-11-22T13:56:24+00:00",
+          "titulo": "El Gobierno ampliará a diez días el permiso por fallecimiento de familiares",
+          "url": "https://www.eldiario.es/economia/gobierno-ampliara-diez-dias-permiso-fallecimiento-familiares_1_13687311.html",
+          "fuente": "ElDiario.es",
+          "publicado_en": "2026-11-23T18:15:02+00:00",
           "resumen": ""
         },
         {
-          "titulo": "La Cumbre del Clima fracasa al cerrar sin acuerdo por la pelea sobre mencionar los combustibles fósiles",
-          "url": "https://www.eldiario.es/sociedad/cumbre-clima-fracasa-cerrar-acuerdo-pelea-mencionar-combustibles-fosiles_1_13683746.html",
+          "titulo": "López Miras habló de 30 autobuses \"de fuera\": solo dos llegaron de otras comunidades al mitin de Sánchez en Murcia",
+          "url": "https://www.eldiario.es/murcia/politica/lopez-miras-hablo-30-autobuses-fuera-llegaron-comunidades-mitin-sanchez-murcia_1_13686953.html",
           "fuente": "ElDiario.es",
-          "publicado_en": "2026-11-22T13:28:33+00:00",
+          "publicado_en": "2026-11-23T17:41:54+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Una avería en el tren que une las terminales T4 y T4S de Barajas provoca grandes colas en el aeropuerto",
-          "url": "https://www.eldiario.es/economia/averia-tren-une-terminales-t4-t4s-barajas-provoca-grandes-colas-aeropuerto_1_13684193.html",
+          "titulo": "Los distribuidores de obras teatrales denuncian \"injerencia política\" en la programación cultural de Pinto",
+          "url": "https://www.eldiario.es/cultura/teatro/distribuidores-obras-teatrales-denuncian-injerencia-politica-programacion-cultural-pinto_1_13687050.html",
           "fuente": "ElDiario.es",
-          "publicado_en": "2026-11-22T13:24:44+00:00",
+          "publicado_en": "2026-11-23T17:40:43+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Rufián pide el voto para \"tutelar\" al PSOE: \"No queremos gobernar España, pero sí que se gobierne bien\"",
-          "url": "https://www.eldiario.es/catalunya/rufian-pide-voto-tutelar-psoe-no-queremos-gobernar-espana-si-gobierne_1_13684052.html",
+          "titulo": "Un consejero de Ayuso critica la cultura de izquierdas: \"Almodóvar tiene un Oscar porque el PP invirtió en publicidad. Si no, no lo tendría\"",
+          "url": "https://www.eldiario.es/rastreador/consejero-ayuso-critica-cultura-izquierdas-almodovar-oscar-pp-invirtio-publicidad-si-no-no-tendria_132_13686955.html",
           "fuente": "ElDiario.es",
-          "publicado_en": "2026-11-22T13:18:28+00:00",
+          "publicado_en": "2026-11-23T17:33:52+00:00",
           "resumen": ""
         },
         {
-          "titulo": "EH Bildu y ERC exhiben su \"amistad\" en Donostia y unen fuerzas para \"levantar un muro contra el fascismo\" el 29N",
-          "url": "https://www.eldiario.es/euskadi/eh-bildu-erc-exhiben-amistad-donostia-unen-fuerzas-levantar-muro-fascismo-29n_1_13683873.html",
+          "titulo": "Hallan muerto al pie de una pared de 200 metros en el Posets a un joven montañero italiano desaparecido desde el viernes",
+          "url": "https://www.eldiario.es/aragon/sociedad/hallan-muerto-pie-pared-200-metros-posets-joven-montanero-italiano-desaparecido-viernes_1_13687133.html",
           "fuente": "ElDiario.es",
-          "publicado_en": "2026-11-22T13:08:55+00:00",
+          "publicado_en": "2026-11-23T17:27:18+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Colau pide en Gran Canaria “cambiar las reglas del juego” y frenar el turismo masivo con más medidas como cerrar \"pisos ilegales\"",
-          "url": "https://www.eldiario.es/canariasahora/politica/ada-colau-gran-canaria-mitin-frente-amplio-upc_1_13683890.html",
+          "titulo": "Muere a los 29 años el influencer Gabriel Félix mientras jugaba al fútbol con sus amigos",
+          "url": "https://www.eldiario.es/spin/muere-29-anos-influencer-gabriel-felix-jugaba-futbol-amigos-pm_1_13687112.html",
           "fuente": "ElDiario.es",
-          "publicado_en": "2026-11-22T13:08:43+00:00",
+          "publicado_en": "2026-11-23T17:17:01+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Feijóo, frente al fantasma de 2023: \"Que no se relaje nadie\"",
-          "url": "https://www.eldiario.es/politica/feijoo-pide-no-relaje-nadie-29n-no-anticipemos-cosecha_1_13684020.html",
+          "titulo": "Por qué no voy a dejar las matemáticas, aunque la inteligencia artificial resuelva problemas que llevan siglos sin resolverse",
+          "url": "https://www.eldiario.es/sociedad/no-matematicas-inteligencia-artificial-resuelva-problemas-llevan-siglos-resolverse_129_13685322.html",
           "fuente": "ElDiario.es",
-          "publicado_en": "2026-11-22T13:07:08+00:00",
+          "publicado_en": "2026-11-23T17:07:22+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Adviento bajo auroras boreales: 4 destinos en el Círculo Polar para sentir la Navidad en el frío",
-          "url": "https://www.eldiario.es/viajes/adviento-auroras-boreales-4-destinos-circulo-polar-sentir-navidad-frio-pm_1_13683210.html",
+          "titulo": "El cálculo alternativo del CIS proyecta que Compromís-Front Valencià tendrá grupo propio en el Congreso con cinco diputados",
+          "url": "https://www.eldiario.es/comunitat-valenciana/politica/calculo-alternativo-cis-proyecta-compromis-front-valencia-tendra-grupo-propio-congreso-cinco-diputados_1_13686997.html",
           "fuente": "ElDiario.es",
-          "publicado_en": "2026-11-22T13:00:59+00:00",
+          "publicado_en": "2026-11-23T17:06:19+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Segundo fallo contra el Gobierno de Pérez Llorca por no facilitar al PSPV información sobre el gasto sanitario en la privada",
-          "url": "https://www.eldiario.es/comunitat-valenciana/segundo-fallo-gobierno-perez-llorca-no-facilitar-pspv-informacion-gasto-sanitario-privada_1_13684071.html",
+          "titulo": "Verstappen quiere su “título” y lo deja claro en Las Vegas: “El karma ha hecho de las suyas”",
+          "url": "https://www.eldiario.es/spin/deportes/verstappen-quiere-formula-1-titulo-deja-claro-las-vegas-karma-pm_1_13687018.html",
           "fuente": "ElDiario.es",
-          "publicado_en": "2026-11-22T12:34:07+00:00",
+          "publicado_en": "2026-11-23T17:00:34+00:00",
           "resumen": ""
         }
       ]
@@ -189,73 +189,73 @@
       "titulo": "Perú",
       "noticias": [
         {
-          "titulo": "Temblor en California EN VIVO hoy, 22 de noviembre 2026 - hora exacta, magnitud y dónde fue el epicentro del último sismo vía el USGS",
-          "url": "https://elcomercio.pe/mag/usa/en-vivo-us/temblor-en-california-en-vivo-hoy-21-y-22-de-noviembre-2026-hora-exacta-magnitud-y-donde-fue-el-epicentro-del-ultimo-sismo-via-el-usgs-nnda-nnrt-noticia/",
+          "titulo": "Multas de tránsito: Este lunes 23 de noviembre vence el plazo para pagarlas con 90 % de descuento",
+          "url": "https://elcomercio.pe/lima/papeletas-este-lunes-23-de-noviembre-vence-el-plazo-para-papeletas-con-90-de-descuento-multas-de-transito-sutran-ultimas-noticia/",
           "fuente": "El Comercio Perú",
-          "publicado_en": "2026-11-22T14:54:42+00:00",
+          "publicado_en": "2026-11-23T18:45:53+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Sporting Cristal vs Cienciano: ¿a qué hora juegan y dónde ver EN VIVO la fecha 17 del Clausura 2026?",
-          "url": "https://rpp.pe/futbol/descentralizado/sporting-cristal-vs-cienciano-en-vivo-a-que-hora-juegan-y-donde-ver-fecha-17-torneo-clausura-2026-via-l1max-partidos-de-hoy-noticia-1718853",
+          "titulo": "Black Friday: consumidores exigen descuentos de al menos 30% para considerar atractiva una oferta",
+          "url": "https://elcomercio.pe/economia/peru/black-friday-consumidores-exigen-descuentos-de-al-menos-30-para-considerar-atractiva-una-oferta-l-black-friday-l-ultimas-noticia/",
+          "fuente": "El Comercio Perú",
+          "publicado_en": "2026-11-23T18:42:27+00:00",
+          "resumen": ""
+        },
+        {
+          "titulo": "Tomás Suárez Vértiz revela que lo atropellaron mientras manejaba su scooter: “Salí ileso”",
+          "url": "https://elcomercio.pe/tvmas/farandula/tomas-suarez-vertiz-revela-que-lo-atropellaron-mientras-manejaba-su-scooter-sali-ileso-ultimas-noticia/",
+          "fuente": "El Comercio Perú",
+          "publicado_en": "2026-11-23T18:41:59+00:00",
+          "resumen": ""
+        },
+        {
+          "titulo": "Sporting Cristal: ¿Santiago Arias en el radar del club celeste para la temporada 2027?",
+          "url": "https://elcomercio.pe/deporte-total/futbol-peruano/sporting-cristal-santiago-arias-en-el-radar-del-club-celeste-para-la-temporada-2027-liga-1-noticia/",
+          "fuente": "El Comercio Perú",
+          "publicado_en": "2026-11-23T18:40:24+00:00",
+          "resumen": ""
+        },
+        {
+          "titulo": "Poder Judicial archiva acusación por colusión contra Ollanta Humala y Nadine Heredia",
+          "url": "https://rpp.pe/politica/judiciales/poder-judicial-archiva-acusacion-por-colusion-contra-ollanta-humala-y-nadine-heredia-noticia-1719318",
           "fuente": "RPP",
-          "publicado_en": "2026-11-22T14:52:53+00:00",
+          "publicado_en": "2026-11-23T18:37:20+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Temblor en Venezuela hoy, domingo 22 de noviembre: sismos recientes reportados por el Funvisis",
-          "url": "https://elcomercio.pe/respuestas/venezuela/temblor-en-venezuela-en-vivo-intensidad-epicentro-y-magnitud-del-ultimo-sismo-reportado-el-21-y-22-de-noviembre-de-2026-segun-el-funvisis-proteccion-civil-la-guaira-caracas-lbposting-noticia/",
+          "titulo": "Esta es la nueva forma de cómo se cosechan piñas en Panamá: “Se hace para evitar la pérdida de tierra”",
+          "url": "https://elcomercio.pe/respuestas/que/esta-es-la-nueva-forma-de-como-se-cosechan-pinas-en-panama-se-hace-para-evitar-la-perdida-de-tierra-tdpe-noticia/",
           "fuente": "El Comercio Perú",
-          "publicado_en": "2026-11-22T14:52:12+00:00",
+          "publicado_en": "2026-11-23T18:37:02+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Temblor en Colombia: magnitud de los últimos sismos reportados hoy, domingo 22 de noviembre",
-          "url": "https://elcomercio.pe/respuestas/colombia/temblor-en-colombia-hoy-en-vivo-segun-el-sgc-del-21-al-22-de-noviembre-de-2026-y-ultimo-sismos-servicio-geologico-colombiano-choco-co-lbposting-noticia/",
+          "titulo": "Alex Valera sobre la semifinal entre la ‘U’ y Sport Huancayo: “En la altura pueden pasar mil cosas” | VIDEO",
+          "url": "https://elcomercio.pe/deporte-total/futbol-peruano/universitario-alex-valera-sobre-la-semifinal-ante-sport-huancayo-en-la-altura-pueden-pasar-mil-cosas-liga-1-video-noticia/",
           "fuente": "El Comercio Perú",
-          "publicado_en": "2026-11-22T14:51:33+00:00",
+          "publicado_en": "2026-11-23T18:36:51+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Temblor en México hoy, domingo 22 de noviembre: sismos recientes reportados por el SSN",
-          "url": "https://elcomercio.pe/respuestas/mexico/temblor-en-mexico-en-vivo-intensidad-profundidad-epicentro-y-magnitud-del-ultimo-sismo-reportado-el-21-y-22-de-noviembre-segun-el-ssn-servicio-sismologico-nacional-cdmx-mx-lbposting-noticia/",
+          "titulo": "“The Game Awards 2026”: esta es la lista completa de los nominados",
+          "url": "https://elcomercio.pe/tecnologia/videojuegos/the-game-awards-2026-esta-es-la-lista-completa-de-los-nominados-noticia/",
           "fuente": "El Comercio Perú",
-          "publicado_en": "2026-11-22T14:50:47+00:00",
+          "publicado_en": "2026-11-23T18:36:10+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Temblor en Chile HOY, domingo 22 de noviembre: últimos sismos reportados por el CSN",
-          "url": "https://elcomercio.pe/respuestas/chile/temblor-en-chile-hoy-en-vivo-del-21-al-22-de-noviembre-de-2026-y-ultimos-sismos-segun-el-csn-centro-sismologico-nacional-socaire-ollague-lbposting-noticia/",
+          "titulo": "Clima en distritos de Lima EN VIVO HOY: Ola de calor extrema, temperatura, sensación térmica y últimas alertas del Senamhi",
+          "url": "https://elcomercio.pe/lima/clima-en-lima-en-vivo-hoy-ola-de-calor-extrema-temperatura-sensacion-termica-lloviznas-distritos-y-ultimas-alertas-del-senamhi-lbposting-noticia-2/",
           "fuente": "El Comercio Perú",
-          "publicado_en": "2026-11-22T14:50:12+00:00",
+          "publicado_en": "2026-11-23T18:36:04+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Jeanette, alcaldesa accidental, una crónica de Fernando Vivas sobre Alonzo, virtual segunda regidora de RP",
-          "url": "https://elcomercio.pe/politica/janette-alonzo-alcaldesa-accidental-una-cronica-de-fernando-vivas-sobre-la-virtual-segunda-regidora-de-renovacion-popular-alcaldia-de-lima-apuesplan-noticia/",
+          "titulo": "El 82% opina que JNE debió pronunciarse antes de elecciones sobre exalcaldes que postularon como regidores, según Datum",
+          "url": "https://elcomercio.pe/politica/el-82-considera-que-el-jne-debio-pronunciarse-antes-de-las-elecciones-sobre-exalcaldes-que-postularon-como-regidores-segun-encuesta-de-datum-noticia/",
           "fuente": "El Comercio Perú",
-          "publicado_en": "2026-11-22T14:50:00+00:00",
-          "resumen": ""
-        },
-        {
-          "titulo": "Serie A: Monza luchará por vencer su racha negativa frente a Fiorentina",
-          "url": "https://rpp.pe/futbol/ligas-internacionales/serie-a-monza-luchara-por-vencer-su-racha-negativa-frente-a-fiorentina-noticia-1719128",
-          "fuente": "RPP",
-          "publicado_en": "2026-11-22T14:49:38+00:00",
-          "resumen": ""
-        },
-        {
-          "titulo": "Cómo atraparon a “El Chapo Isidro”, uno de los 10 narcotraficantes de México más buscados por el FBI",
-          "url": "https://elcomercio.pe/mundo/mexico/el-chapo-isidro-como-atraparon-al-capo-uno-de-los-10-narcotraficantes-de-mexico-mas-buscados-por-el-fbi-estados-unidos-fausto-isidro-meza-flores-noticia/",
-          "fuente": "El Comercio Perú",
-          "publicado_en": "2026-11-22T14:49:23+00:00",
-          "resumen": ""
-        },
-        {
-          "titulo": "¿Por dónde transmiten el partido de Sporting Cristal vs. Cienciano: a qué hora comienza por Torneo Clausura de Liga 1?",
-          "url": "https://elcomercio.pe/deporte-total/futbol-peruano/en-que-canal-tv-transmiten-partido-sporting-cristal-vs-cienciano-en-vivo-gratis-hoy-por-torneo-clausura-hora-y-donde-ver-online-por-liga-1-noticia/",
-          "fuente": "El Comercio Perú",
-          "publicado_en": "2026-11-22T14:49:10+00:00",
+          "publicado_en": "2026-11-23T18:36:00+00:00",
           "resumen": ""
         }
       ]
