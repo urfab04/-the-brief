@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "fecha": "2026-11-24",
-  "actualizado_en": "2026-11-24T19:28:58+01:00",
+  "fecha": "2026-11-25",
+  "actualizado_en": "2026-11-25T18:43:00+01:00",
   "descripcion": "Agregación automática de titulares RSS. No constituye edición periodística verificada.",
   "fuentes_con_errores": [],
   "secciones": [
@@ -9,6 +9,13 @@
       "id": "tecnologia",
       "titulo": "Tecnología, IA y eCommerce",
       "noticias": [
+        {
+          "titulo": "Del ‘smartphone’ al hogar conectado, tecnología para aprovechar el Black Friday",
+          "url": "https://elpais.com/tecnologia/2026-11-25/del-smartphone-al-hogar-conectado-tecnologia-para-aprovechar-el-black-friday.html",
+          "fuente": "EL PAÍS · Tecnología",
+          "publicado_en": "2026-11-25T14:17:36+00:00",
+          "resumen": ""
+        },
         {
           "titulo": "¿Qué pasa en una casa inteligente cuando se cae internet?",
           "url": "https://elpais.com/tecnologia/2026-11-24/que-pasa-en-una-casa-inteligente-cuando-se-cae-internet.html",
@@ -30,73 +37,73 @@
       "titulo": "Empleo, negocios y formación",
       "noticias": [
         {
-          "titulo": "La industria de las mil pantallas: los cambios que han transformado el mercado audiovisual",
-          "url": "https://elpais.com/economia/branded/el-poder-de-las-empresas/2026-11-24/la-industria-de-las-mil-pantallas-los-cambios-que-han-transformado-el-mercado-audiovisual.html",
+          "titulo": "España concede más de la mitad de las ayudas a empresas en la UE por la crisis energética",
+          "url": "https://elpais.com/economia/2026-11-25/espana-concede-mas-de-la-mitad-de-las-ayudas-a-empresas-en-la-ue-por-la-crisis-energetica.html",
           "fuente": "EL PAÍS · Economía",
-          "publicado_en": "2026-11-24T15:53:53+00:00",
+          "publicado_en": "2026-11-25T14:04:00+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Bruselas advierte a España de que se arriesga a un expediente de la UE si no contiene el gasto público",
-          "url": "https://elpais.com/economia/2026-11-24/bruselas-advierte-a-espana-de-que-se-arriesga-a-un-expediente-de-la-ue-si-no-contiene-el-gasto-publico.html",
+          "titulo": "Muere Carlos Martínez Mongay, la excelencia europea",
+          "url": "https://elpais.com/economia/2026-11-25/muere-carlos-martinez-mongay-la-excelencia-europea.html",
           "fuente": "EL PAÍS · Economía",
-          "publicado_en": "2026-11-24T15:04:10+00:00",
+          "publicado_en": "2026-11-25T12:59:15+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Las refinerías españolas viven su año más rentable al calor de la tensión en los mercados petroleros",
-          "url": "https://elpais.com/economia/2026-11-24/las-refinerias-espanolas-viven-su-ano-mas-rentable-al-calor-de-la-tension-en-los-mercados-petroleros.html",
+          "titulo": "El salario medio mensual roza los 2.500 euros brutos, tras avanzar un 4,7% en 2025",
+          "url": "https://elpais.com/economia/2026-11-25/el-salario-medio-mensual-roza-los-2500-euros-brutos-tras-avanzar-un-47-en-2025.html",
           "fuente": "EL PAÍS · Economía",
-          "publicado_en": "2026-11-24T13:00:13+00:00",
+          "publicado_en": "2026-11-25T12:35:49+00:00",
           "resumen": ""
         },
         {
-          "titulo": "El nuevo equilibrio político de EE UU cambia el escenario para los mercados",
-          "url": "https://cincodias.elpais.com/opinion/2026-11-24/el-nuevo-equilibrio-politico-de-ee-uu-cambia-el-escenario-para-los-mercados.html",
+          "titulo": "La justicia eleva a más de 1,1 millones de euros la indemnización por la negligencia médica que dejó a una niña sin posibilidad de trabajar",
+          "url": "https://elpais.com/economia/mis-derechos/2026-11-25/la-justicia-eleva-a-mas-de-un-millon-de-euros-la-indemnizacion-a-una-nina-que-nunca-podra-trabajar-por-una-negligencia-medica.html",
           "fuente": "EL PAÍS · Economía",
-          "publicado_en": "2026-11-24T12:02:42+00:00",
+          "publicado_en": "2026-11-25T09:38:27+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Los sueños milenaristas de las ‘big tech’ evocan los cultos del pasado",
-          "url": "https://cincodias.elpais.com/opinion/2026-11-24/los-suenos-milenaristas-de-las-big-tech-evocan-los-cultos-del-pasado.html",
+          "titulo": "Las hipotecas mantienen el pulso y crecen un 2,3% en septiembre pese al enfriamiento de las ventas",
+          "url": "https://elpais.com/economia/vivienda/2026-11-25/las-hipotecas-mantienen-el-pulso-y-crecen-un-23-en-septiembre-pese-al-enfriamiento-general-de-las-ventas.html",
           "fuente": "EL PAÍS · Economía",
-          "publicado_en": "2026-11-24T12:02:08+00:00",
+          "publicado_en": "2026-11-25T08:25:29+00:00",
           "resumen": ""
         },
         {
-          "titulo": "El Gobierno remodela el impuesto a la banca para obligar a destinar los 1.400 millones de recaudación a la vivienda",
-          "url": "https://elpais.com/economia/2026-11-24/el-gobierno-remodela-el-impuesto-a-la-banca-para-obligar-a-repartir-los-1400-millones-de-recaudacion-en-la-conferencia-sectorial-de-vivienda.html",
+          "titulo": "El nuevo permiso de duelo por fallecimiento entra en vigor para muertes ocurridas desde este jueves",
+          "url": "https://elpais.com/economia/2026-11-25/el-nuevo-permiso-de-duelo-por-fallecimiento-entra-en-vigor-para-muertes-ocurridas-desde-este-jueves.html",
           "fuente": "EL PAÍS · Economía",
-          "publicado_en": "2026-11-24T11:55:01+00:00",
+          "publicado_en": "2026-11-25T08:13:27+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Claves del nuevo permiso de duelo por fallecimiento: cuánto crece y a qué familiares beneficia",
-          "url": "https://elpais.com/economia/2026-11-24/claves-del-nuevo-permiso-de-duelo-por-fallecimiento-cuanto-crece-y-a-que-familiares-beneficia.html",
+          "titulo": "Un jurado de EE UU declara culpable a Huawei de robar secretos comerciales y de burlar las sanciones a Irán",
+          "url": "https://cincodias.elpais.com/companias/2026-11-25/un-jurado-de-ee-uu-declara-culpable-a-huawei-de-robar-secretos-comerciales-y-de-burlar-las-sanciones-a-iran.html",
           "fuente": "EL PAÍS · Economía",
-          "publicado_en": "2026-11-24T11:37:02+00:00",
+          "publicado_en": "2026-11-25T07:48:55+00:00",
           "resumen": ""
         },
         {
-          "titulo": "El Gobierno amplía el permiso por nacimiento y cuidado hasta las 20 semanas",
-          "url": "https://elpais.com/sociedad/2026-11-24/el-gobierno-amplia-el-permiso-por-nacimiento-que-podra-llegar-hasta-las-20-semanas.html",
+          "titulo": "La clase media nominal, la clase media real y el salario mínimo",
+          "url": "https://cincodias.elpais.com/opinion/2026-11-25/la-clase-media-nominal-la-clase-media-real-y-el-salario-minimo.html",
           "fuente": "EL PAÍS · Economía",
-          "publicado_en": "2026-11-24T10:39:53+00:00",
+          "publicado_en": "2026-11-25T04:40:00+00:00",
           "resumen": ""
         },
         {
-          "titulo": "EE UU frena el cobro de 380 millones de dólares de Telefónica a Colombia",
-          "url": "https://cincodias.elpais.com/companias/2026-11-24/ee-uu-frena-el-cobro-de-380-millones-de-dolares-de-telefonica-a-colombia.html",
+          "titulo": "El retorno de Huang desnuda la frágil interdependencia de la IA",
+          "url": "https://cincodias.elpais.com/opinion/2026-11-25/el-retorno-de-huang-desnuda-la-fragil-interdependencia-de-la-ia.html",
           "fuente": "EL PAÍS · Economía",
-          "publicado_en": "2026-11-24T10:03:47+00:00",
+          "publicado_en": "2026-11-25T04:40:00+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Diez años del concepto que revolucionó la oficina bancaria",
-          "url": "https://elpais.com/economia/2026-11-24/diez-anos-del-concepto-que-revoluciono-la-oficina-bancaria.html",
+          "titulo": "El triunfo de Huang ignora a sabiendas los problemas futuros",
+          "url": "https://cincodias.elpais.com/opinion/2026-11-25/el-triunfo-de-huang-ignora-a-sabiendas-los-problemas-futuros.html",
           "fuente": "EL PAÍS · Economía",
-          "publicado_en": "2026-11-24T09:59:33+00:00",
+          "publicado_en": "2026-11-25T04:40:00+00:00",
           "resumen": ""
         }
       ]
@@ -106,73 +113,73 @@
       "titulo": "España y Andalucía",
       "noticias": [
         {
-          "titulo": "La mayoría conservadora de la Junta Electoral desoyó a sus letrados e impuso expedientar a Silvia Intxaurrondo",
-          "url": "https://www.eldiario.es/politica/mayoria-conservadora-junta-electoral-desoyo-tecnicos-e-impuso-expedientar-silvia-intxaurrondo_1_13690316.html",
+          "titulo": "Una ventana FIBA trascendental para que España esté en el Mundial 2027: lista, horario y dónde ver por TV los partidos clasificatorios",
+          "url": "https://www.eldiario.es/spin/deportes/ventana-fiba-noviembre-espana-mundial-2027-lista-horario-donde-ver-tv-partidos-pm_1_13687353.html",
           "fuente": "ElDiario.es",
-          "publicado_en": "2026-11-24T18:03:18+00:00",
+          "publicado_en": "2026-11-25T17:00:31+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Más de cien colectivos advierten en un manifiesto de que \"crece la banalización\" del franquismo a las puertas del 29N",
-          "url": "https://www.eldiario.es/sociedad/cien-colectivos-advierten-manifiesto-crece-banalizacion-franquismo-puertas-29n_1_13690131.html",
-          "fuente": "ElDiario.es",
-          "publicado_en": "2026-11-24T17:55:23+00:00",
-          "resumen": ""
-        },
-        {
-          "titulo": "El juez del ‘caso Leire Díez’ reclama más información al PSOE para saber quién autorizó los pagos a sus abogados",
-          "url": "https://elpais.com/espana/2026-11-24/el-juez-del-caso-leire-diez-reclama-mas-informacion-al-psoe-para-saber-quien-autorizo-los-pagos-a-sus-abogados.html",
+          "titulo": "Canarias declara la emergencia en El Hierro y pide el despliegue de la UME",
+          "url": "https://elpais.com/espana/2026-11-25/sin-pausa-en-la-ruta-canaria-190-personas-mas-llegan-en-dos-cayucos-a-el-hierro.html",
           "fuente": "EL PAÍS · España",
-          "publicado_en": "2026-11-24T17:43:11+00:00",
+          "publicado_en": "2026-11-25T16:59:45+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Gisèle Pelicot denuncia el uso de imágenes íntimas sin su autorización para promocionar un libro",
-          "url": "https://www.eldiario.es/sociedad/gisele-pelicot-denuncia-imagenes-intimas-autorizacion-promocionar-libro_1_13690056.html",
+          "titulo": "El Banco de España entrega a la justicia lo que pagó a la banca por sus depósitos y Sumar exige acceso \"inmediato”",
+          "url": "https://www.eldiario.es/economia/banco-espana-entrega-justicia-pago-banca-depositos-sumar-exige-acceso-inmediato_1_13692955.html",
           "fuente": "ElDiario.es",
-          "publicado_en": "2026-11-24T16:55:03+00:00",
+          "publicado_en": "2026-11-25T16:42:46+00:00",
           "resumen": ""
         },
         {
-          "titulo": "El tesoro oculto bajo un polígono: una cueva con restos humanos y fósiles de especies extinguidas hace miles de años",
-          "url": "https://www.eldiario.es/illes-balears/sociedad/tesoro-oculto-poligono-cueva-restos-humanos-fosiles-especies-extinguidas-miles-anos_1_13689359.html",
+          "titulo": "El heredero del Rainbow Warrior de Greenpeace toca el mar por primera vez",
+          "url": "https://www.eldiario.es/sociedad/heredero-rainbow-warrior-greenpeace-toca-mar-primera-vez_1_13693299.html",
           "fuente": "ElDiario.es",
-          "publicado_en": "2026-11-24T16:49:14+00:00",
+          "publicado_en": "2026-11-25T16:42:03+00:00",
           "resumen": ""
         },
         {
-          "titulo": "El Parlament aprueba las leyes para limitar la entrada de vehículos en Mallorca y Menorca",
-          "url": "https://www.eldiario.es/illes-balears/politica/parlament-aprueba-leyes-limitar-entrada-vehiculos-mallorca-menorca_1_13690120.html",
+          "titulo": "¿Dónde dormían los soldados romanos destinados en Jerusalén? Unos hallazgos arqueológicos inéditos podrían resolver el misterio de la Décima Legión",
+          "url": "https://www.eldiario.es/spin/dormian-soldados-romanos-destinados-jerusalen-documentos-ineditos-resolver-misterio-decima-legion-pm_1_13690856.html",
           "fuente": "ElDiario.es",
-          "publicado_en": "2026-11-24T16:46:49+00:00",
+          "publicado_en": "2026-11-25T16:22:27+00:00",
           "resumen": ""
         },
         {
-          "titulo": "¿Fueron 'Los juegos del Hambre' algo real? El origen e inspiración de la famosa saga literaria y de cine",
-          "url": "https://www.eldiario.es/spin/juegos-hambre-real-origen-e-inspiracion-famosa-saga-literaria-cine-pm_1_13687233.html",
+          "titulo": "La presidenta conservadora del Parlamento alemán pone de ejemplo a España por su lucha contra la violencia machista",
+          "url": "https://www.eldiario.es/internacional/presidenta-conservadora-parlamento-aleman-pone-ejemplo-espana-lucha-violencia-machista_1_13693103.html",
           "fuente": "ElDiario.es",
-          "publicado_en": "2026-11-24T16:30:03+00:00",
+          "publicado_en": "2026-11-25T16:14:36+00:00",
           "resumen": ""
         },
         {
-          "titulo": "“Más tiempo de estudio no significa más aprendizaje”: por qué el ejercicio ayuda a mejorar el rendimiento académico",
-          "url": "https://www.eldiario.es/consumoclaro/tiempo-estudio-no-significa-aprendizaje-ejercicio-ayuda-mejorar-rendimiento-academico-xp_1_13686659.html",
+          "titulo": "Quién es Doctor Doom: origen, poderes e historia del gran villano que interpreta Robert Downey Jr. en Avengers: Doomsday",
+          "url": "https://www.eldiario.es/spin/doctor-doom-origen-poderes-e-historia-gran-villano-interpreta-robert-downey-jr-avengers-doomsday-pm_1_13692246.html",
           "fuente": "ElDiario.es",
-          "publicado_en": "2026-11-24T16:21:23+00:00",
+          "publicado_en": "2026-11-25T16:00:12+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Un vaso de hace 2.000 años decorado con gladiadores escondía algo mucho menos apetitoso que vino: restos humanos",
-          "url": "https://www.eldiario.es/spin/vaso-2-000-anos-decorado-gladiadores-escondia-apetitoso-vino-restos-humanos-pm_1_13689353.html",
+          "titulo": "Canarias declara la emergencia sanitaria en El Hierro ante la llegada de cayucos y solicita la intervención de la UME",
+          "url": "https://www.eldiario.es/canariasahora/politica/gobierno-canarias-declara-emergencia-sanitaria-el-hierro-cayucos-ume_1_13693094.html",
           "fuente": "ElDiario.es",
-          "publicado_en": "2026-11-24T16:15:43+00:00",
+          "publicado_en": "2026-11-25T15:44:02+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Calp pide perdón tras constatar la exhumación de 20 extranjeros para enterrar a vecinos locales en su cementerio",
-          "url": "https://www.eldiario.es/comunitat-valenciana/calp-pide-perdon-constatar-exhumaron-20-extranjeros-enterrar-autoctonos-nichos-cementerio_1_13689996.html",
+          "titulo": "Cómo el cine contó la Guerra Civil Española, la primera contienda \"mediática\" de la historia",
+          "url": "https://www.eldiario.es/cultura/cine/cine-conto-guerra-civil-espanola-primera-contienda-mediatica-historia_1_13692989.html",
           "fuente": "ElDiario.es",
-          "publicado_en": "2026-11-24T16:12:30+00:00",
+          "publicado_en": "2026-11-25T15:25:31+00:00",
+          "resumen": ""
+        },
+        {
+          "titulo": "El universo tiene una estrella zombi que parece llevar reloj: su señal se repite cada 7,9 minutos",
+          "url": "https://www.eldiario.es/spin/universo-estrella-zombi-parece-llevar-reloj-senal-repite-7-9-minutos-pm_1_13683129.html",
+          "fuente": "ElDiario.es",
+          "publicado_en": "2026-11-25T15:23:13+00:00",
           "resumen": ""
         }
       ]
@@ -182,73 +189,73 @@
       "titulo": "Perú",
       "noticias": [
         {
-          "titulo": "Gorillaz en Lima: así fue su histórico y espectacular primer concierto en Perú [FOTOS]",
-          "url": "https://rpp.pe/musica/conciertos/gorillaz-en-lima-asi-fue-su-historico-y-espectacular-primer-concierto-en-peru-fotos-noticia-1719508",
+          "titulo": "La Tinka EN VIVO miércoles 25 de noviembre: sigue aquí la transmisión del sorteo",
+          "url": "https://elcomercio.pe/respuestas/loterias/la-tinka-hoy-miercoles-25-de-noviembre-en-vivo-resultados-del-ultimo-sorteo-y-jugada-ganadora-tinkanet-pozo-millonario-loteria-si-o-si-boliyapa-intralot-lbposting-noticia/",
+          "fuente": "El Comercio Perú",
+          "publicado_en": "2026-11-25T17:34:53+00:00",
+          "resumen": ""
+        },
+        {
+          "titulo": "​📲​ En qué canal transmiten Sabah vs. FC Barcelona EN VIVO GRATIS hoy por la Champions League 2026",
+          "url": "https://elcomercio.pe/mag/usa/en-vivo-us/en-que-canal-transmiten-sabah-vs-fc-barcelona-en-vivo-gratis-hoy-por-la-champions-league-2026-en-mexico-espana-y-eeuu-futbol-tv-online-video-nnda-nnrt-noticia/",
+          "fuente": "El Comercio Perú",
+          "publicado_en": "2026-11-25T17:34:52+00:00",
+          "resumen": ""
+        },
+        {
+          "titulo": "Marina de Guerra advierte que oleajes anómalos en Lima y Callao alcanzarán su mayor fuerza este viernes 27 y sábado 28",
+          "url": "https://rpp.pe/lima/actualidad/marina-de-guerra-advierte-que-oleajes-anomalos-en-lima-y-callao-alcanzaran-su-mayor-fuerza-este-viernes-27-y-sabado-28-noticia-1719745",
           "fuente": "RPP",
-          "publicado_en": "2026-11-24T18:25:31+00:00",
+          "publicado_en": "2026-11-25T17:34:47+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Temblor en Venezuela: magnitud, hora y lugar reportados hoy, lunes 23 de noviembre",
-          "url": "https://elcomercio.pe/respuestas/venezuela/temblor-en-venezuela-hoy-ultimos-sismos-de-noviembre-en-vivo-cual-fue-el-epicentro-magnitud-y-hora-exacta-segun-funvisis-proteccion-civil-la-guaira-caracas-lbposting-noticia/",
+          "titulo": "✅ Ver FOX One GRATIS — Transmisión del partido Barcelona vs. Sabah EN VIVO hoy por TV online",
+          "url": "https://elcomercio.pe/mag/usa/en-vivo-us/fox-one-en-vivo-ver-partido-fc-barcelona-vs-sabah-gratis-por-futbol-tv-online-y-fox-plus-en-mexico-video-nnda-nnrt-noticia/",
           "fuente": "El Comercio Perú",
-          "publicado_en": "2026-11-24T18:20:55+00:00",
+          "publicado_en": "2026-11-25T17:34:31+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Temblor en Colombia hoy, martes 24 de noviembre: sismos recientes reportados por el SGC",
-          "url": "https://elcomercio.pe/respuestas/colombia/temblor-en-colombia-hoy-en-vivo-via-el-sgc-del-23-al-24-de-noviembre-de-2026-y-ultimos-sismos-servicio-geologico-colombiano-choco-co-lbposting-noticia/",
+          "titulo": "Oleajes anómalos en Perú hasta el domingo 29: La Marina explica por qué se han intensificado y qué zonas serán las más afectadas",
+          "url": "https://elcomercio.pe/peru/oleajes-anomalos-en-peru-hasta-el-domingo-29-la-marina-explica-por-que-se-han-intensificado-y-que-zonas-seran-las-mas-afectadas-apuesplan-noticia/",
           "fuente": "El Comercio Perú",
-          "publicado_en": "2026-11-24T18:20:52+00:00",
+          "publicado_en": "2026-11-25T17:34:31+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Temblor en México hoy, martes 24 de noviembre: epicentro y magnitud del último sismo según el SSN",
-          "url": "https://elcomercio.pe/respuestas/mexico/temblor-en-mexico-hoy-en-vivo-segun-el-ssn-del-23-al-24-de-noviembre-de-2026-y-ultimos-sismos-servicio-sismologico-nacional-cdmx-mx-lbposting-noticia/",
+          "titulo": "Temblor en Venezuela HOY, miércoles 25 de noviembre: epicentro y magnitud del último sismo",
+          "url": "https://elcomercio.pe/respuestas/venezuela/temblor-en-venezuela-hoy-en-vivo-ultimo-sismo-25-y-26-de-noviembre-2026-registrado-por-el-funvisis-cual-fue-la-magnitud-epicentro-y-hora-proteccion-civil-la-guaira-caracas-lbposting-noticia/",
           "fuente": "El Comercio Perú",
-          "publicado_en": "2026-11-24T18:20:47+00:00",
+          "publicado_en": "2026-11-25T17:34:05+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Temblor en Perú: epicentro y magnitud del último sismo de hoy, lunes 23 de noviembre",
-          "url": "https://elcomercio.pe/respuestas/temblor-en-peru-en-vivo-intensidad-epicentro-y-magnitud-del-ultimo-sismo-reportado-el-23-y-24-de-noviembre-2026-segun-igp-temblor-en-lima-y-junin-instituto-geofisico-del-peru-noticia/",
+          "titulo": "¿En qué canal TV transmiten, Bayern Munich vs Lille hoy con Luis Díaz: a qué hora inicia el partido por la Champions League?",
+          "url": "https://elcomercio.pe/deporte-total/futbol-mundial/bayern-vs-lille-en-vivo-hoy-con-luis-diaz-horarios-canales-tv-y-donde-ver-partido-online-streaming-por-champions-league-noticia/",
           "fuente": "El Comercio Perú",
-          "publicado_en": "2026-11-24T18:20:42+00:00",
+          "publicado_en": "2026-11-25T17:33:47+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Temblor en Chile: magnitud y epicentro del último sismo de hoy, lunes 23 de noviembre",
-          "url": "https://elcomercio.pe/respuestas/chile/temblor-en-chile-en-vivo-epicentro-intensidad-y-magnitud-del-ultimo-sismo-reportado-el-23-y-24-de-noviembre-2026-segun-csn-centro-sismologico-nacional-socaire-ollague-lbposting-noticia/",
-          "fuente": "El Comercio Perú",
-          "publicado_en": "2026-11-24T18:20:38+00:00",
-          "resumen": ""
-        },
-        {
-          "titulo": "Caja Cencosud Scotiabank, Maersk, Grupo Unacem y otros nombramientos destacados",
-          "url": "https://elcomercio.pe/economia/dia-1/nombramientos-de-la-semana-caja-cencosud-scotiabank-maersk-grupo-unacem-y-otros-nombramientos-destacados-noticia/",
-          "fuente": "El Comercio Perú",
-          "publicado_en": "2026-11-24T18:18:23+00:00",
-          "resumen": ""
-        },
-        {
-          "titulo": "Las detenciones y suspensiones de alcaldes opositores marcan elecciones locales de Ecuador",
-          "url": "https://elcomercio.pe/mundo/latinoamerica/las-detenciones-y-suspensiones-de-alcaldes-opositores-marcan-elecciones-locales-de-ecuador-daniel-noboa-ultimas-noticia/",
-          "fuente": "El Comercio Perú",
-          "publicado_en": "2026-11-24T18:18:10+00:00",
-          "resumen": ""
-        },
-        {
-          "titulo": "Universitario lanzó a la venta las entradas para la semifinal - vuelta: ¿cuánto cuesta ver a la 'U'?",
-          "url": "https://rpp.pe/futbol/descentralizado/universitario-venta-entradas-para-la-semifinal-sport-huancayo-estadio-monumental-noticia-1719492",
+          "titulo": "Alza de precios golpea a las ollas comunes: ¿se reducirán las raciones? Vocera de asociación responde",
+          "url": "https://rpp.pe/lima/actualidad/alza-de-precios-golpea-a-las-ollas-comunes-se-reduciran-las-raciones-vocera-de-asociacion-responde-noticia-1719741",
           "fuente": "RPP",
-          "publicado_en": "2026-11-24T18:14:48+00:00",
+          "publicado_en": "2026-11-25T17:33:37+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Marruecos expresa su \"asombro\" tras confirmación de Senegal como campeona de la CAN 2025",
-          "url": "https://rpp.pe/futbol/futbol-mundial/marruecos-expresa-su-asombro-tras-confirmacion-de-senegal-como-campeona-de-la-can-2025-noticia-1719491",
-          "fuente": "RPP",
-          "publicado_en": "2026-11-24T18:14:10+00:00",
+          "titulo": "🟠​​ ESPN HD EN VIVO GRATIS | Ver partido Barcelona vs. Sabah EN DIRECTO hoy por Disney Plus online",
+          "url": "https://elcomercio.pe/mag/usa/en-vivo-us/espn-en-vivo-gratis-ver-partido-fc-barcelona-vs-sabah-en-directo-hoy-por-futbol-tv-y-disney-plus-online-video-nnda-nnrt-noticia/",
+          "fuente": "El Comercio Perú",
+          "publicado_en": "2026-11-25T17:33:29+00:00",
+          "resumen": ""
+        },
+        {
+          "titulo": "Temblor en Colombia HOY, miércoles 25 de noviembre: últimos sismos reportados por el SGC",
+          "url": "https://elcomercio.pe/respuestas/colombia/temblor-en-colombia-hoy-en-vivo-ultimo-sismos-25-y-26-de-noviembre-2026-reporte-de-magnitud-epicentro-y-hora-segun-sgc-servicio-geologico-colombiano-choco-co-lbposting-noticia/",
+          "fuente": "El Comercio Perú",
+          "publicado_en": "2026-11-25T17:32:09+00:00",
           "resumen": ""
         }
       ]
