@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "fecha": "2026-11-26",
-  "actualizado_en": "2026-11-26T18:26:10+01:00",
+  "fecha": "2026-11-27",
+  "actualizado_en": "2026-11-27T18:05:17+01:00",
   "descripcion": "Agregación automática de titulares RSS. No constituye edición periodística verificada.",
   "fuentes_con_errores": [],
   "secciones": [
@@ -9,6 +9,27 @@
       "id": "tecnologia",
       "titulo": "Tecnología, IA y eCommerce",
       "noticias": [
+        {
+          "titulo": "Rebelión científica tras el anuncio de un colaborador de OpenAI que asegura haber resuelto el gran problema de la física",
+          "url": "https://elpais.com/ciencia/2026-11-27/rebelion-cientifica-tras-el-anuncio-de-un-colaborador-de-openai-que-asegura-haber-resuelto-el-gran-problema-de-la-fisica.html",
+          "fuente": "EL PAÍS · Tecnología",
+          "publicado_en": "2026-11-27T13:26:32+00:00",
+          "resumen": ""
+        },
+        {
+          "titulo": "“Recibí una llamada de una supuesta empleada de mi banco que conocía mi número de cuenta y mi DNI. Y confié”",
+          "url": "https://elpais.com/tecnologia/branded/victima-por-un-clic/2026-11-27/recibi-una-llamada-de-una-supuesta-empleada-de-mi-banco-que-conocia-mi-numero-de-cuenta-y-mi-dni-y-confie.html",
+          "fuente": "EL PAÍS · Tecnología",
+          "publicado_en": "2026-11-27T11:05:24+00:00",
+          "resumen": ""
+        },
+        {
+          "titulo": "Un mes con el iPhone Duo es vivir ‘Regreso al futuro’",
+          "url": "https://elpais.com/tecnologia/2026-11-27/un-mes-con-el-iphone-duo-es-vivir-regreso-al-futuro.html",
+          "fuente": "EL PAÍS · Tecnología",
+          "publicado_en": "2026-11-27T04:30:01+00:00",
+          "resumen": ""
+        },
         {
           "titulo": "WhatsApp ya permite programar mensajes: “Algunos es mejor enviarlos más tarde”",
           "url": "https://elpais.com/tecnologia/2026-11-26/whatsapp-ya-permite-programar-mensajes-algunos-es-mejor-enviarlos-mas-tarde.html",
@@ -36,13 +57,6 @@
           "fuente": "EL PAÍS · Tecnología",
           "publicado_en": "2026-11-25T14:17:36+00:00",
           "resumen": ""
-        },
-        {
-          "titulo": "¿Qué pasa en una casa inteligente cuando se cae internet?",
-          "url": "https://elpais.com/tecnologia/2026-11-24/que-pasa-en-una-casa-inteligente-cuando-se-cae-internet.html",
-          "fuente": "EL PAÍS · Tecnología",
-          "publicado_en": "2026-11-24T04:30:01+00:00",
-          "resumen": ""
         }
       ]
     },
@@ -51,73 +65,73 @@
       "titulo": "Empleo, negocios y formación",
       "noticias": [
         {
-          "titulo": "Cientos de transportistas se manifiestan frente a la Seguridad Social porque aún no ha anticipado su jubilación",
-          "url": "https://elpais.com/economia/2026-11-26/cientos-de-transportistas-se-manifiestan-frente-a-la-seguridad-social-porque-aun-no-ha-anticipado-su-jubilacion.html",
+          "titulo": "La pensión media de jubilación de los hombres ya supera los 1.800 euros al mes",
+          "url": "https://elpais.com/economia/2026-11-27/la-pension-media-de-jubilacion-de-los-hombres-ya-supera-los-1800-euros-al-mes.html",
           "fuente": "EL PAÍS · Economía",
-          "publicado_en": "2026-11-26T13:55:47+00:00",
+          "publicado_en": "2026-11-27T15:00:24+00:00",
           "resumen": ""
         },
         {
-          "titulo": "De cómo Pablo ha ganado por goleada",
-          "url": "https://elpais.com/economia/2026-11-26/de-como-pablo-ha-ganado-por-goleada.html",
+          "titulo": "Las pensiones subirán un 3,5% en 2027 tras crecer la inflación el 4,1% en noviembre",
+          "url": "https://elpais.com/economia/2026-11-27/las-pensiones-subiran-un-35-en-2027.html",
           "fuente": "EL PAÍS · Economía",
-          "publicado_en": "2026-11-26T13:40:54+00:00",
+          "publicado_en": "2026-11-27T08:00:08+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Perfil | Hernández de Cos, un liberal pragmático experto en forjar consensos",
-          "url": "https://elpais.com/economia/2026-11-26/hernandez-de-cos-un-liberal-pragmatico-experto-en-forjar-consensos.html",
+          "titulo": "Hernández de Cos, el valor del prestigio",
+          "url": "https://elpais.com/economia/2026-11-27/hernandez-de-cos-el-valor-del-prestigio.html",
           "fuente": "EL PAÍS · Economía",
-          "publicado_en": "2026-11-26T13:32:35+00:00",
+          "publicado_en": "2026-11-27T05:03:52+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Hernández de Cos se convertirá en febrero en el primer español en presidir el BCE",
-          "url": "https://elpais.com/economia/2026-11-26/hernandez-de-cos-se-convertira-en-febrero-en-el-primer-espanol-en-presidir-el-bce.html",
+          "titulo": "Leapmotor, socio de Stellantis, alerta al coche eléctrico chino",
+          "url": "https://cincodias.elpais.com/opinion/2026-11-27/leapmotor-socio-de-stellantis-alerta-al-coche-electrico-chino.html",
           "fuente": "EL PAÍS · Economía",
-          "publicado_en": "2026-11-26T13:19:27+00:00",
+          "publicado_en": "2026-11-27T04:40:00+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Digi lidera la captación de clientes pero sufre el mayor índice de fugas entre operadoras",
-          "url": "https://cincodias.elpais.com/companias/2026-11-26/digi-lidera-la-captacion-de-clientes-pero-sufre-el-mayor-indice-de-fugas-entre-operadoras.html",
+          "titulo": "El retorno de Huang y la destrucción de la cultura corporativa",
+          "url": "https://cincodias.elpais.com/opinion/2026-11-27/el-retorno-de-huang-y-la-destruccion-de-la-cultura-corporativa.html",
           "fuente": "EL PAÍS · Economía",
-          "publicado_en": "2026-11-26T12:54:52+00:00",
+          "publicado_en": "2026-11-27T04:40:00+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Los jóvenes trabajan 13 días más al año que antes de la reforma laboral",
-          "url": "https://elpais.com/economia/2026-11-26/los-jovenes-trabajan-13-dias-mas-al-ano-que-antes-de-la-reforma-laboral.html",
+          "titulo": "Las claves: la caída del cigarrillo empuja a las tabaqueras a unir fuerzas",
+          "url": "https://cincodias.elpais.com/opinion/2026-11-27/las-claves-la-caida-del-cigarrillo-empuja-a-las-tabaqueras-a-unir-fuerzas.html",
           "fuente": "EL PAÍS · Economía",
-          "publicado_en": "2026-11-26T10:29:21+00:00",
+          "publicado_en": "2026-11-27T04:40:00+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Compra ahora y paga después: la tendencia en las compras para el Black Friday y la Navidad",
-          "url": "https://elpais.com/economia/2026-11-26/compra-ahora-y-paga-despues-la-tendencia-en-las-compras-para-el-black-friday-y-la-navidad.html",
+          "titulo": "Los bancos son el canario en la mina de la deuda de los centros de datos",
+          "url": "https://cincodias.elpais.com/opinion/2026-11-27/los-bancos-son-el-canario-en-la-mina-de-la-deuda-de-los-centros-de-datos.html",
           "fuente": "EL PAÍS · Economía",
-          "publicado_en": "2026-11-26T10:02:06+00:00",
+          "publicado_en": "2026-11-27T04:40:00+00:00",
           "resumen": ""
         },
         {
-          "titulo": "La IA puede pensar por los alumnos, pero la escuela no debería permitírselo",
-          "url": "https://elpais.com/economia/formacion/2026-11-26/la-ia-puede-pensar-por-los-alumnos-pero-la-escuela-no-deberia-permitirselo.html",
+          "titulo": "De Francia a la inflación y de la IA a la integración europea: la larga lista de deberes de Hernández de Cos",
+          "url": "https://elpais.com/economia/2026-11-27/de-francia-a-la-inflacion-y-de-la-ia-a-la-integracion-europea-la-larga-lista-de-deberes-de-hernandez-de-cos.html",
           "fuente": "EL PAÍS · Economía",
-          "publicado_en": "2026-11-26T06:30:00+00:00",
+          "publicado_en": "2026-11-27T04:30:01+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Las claves: la derrota electoral no disuade a Trump de su empeño proteccionista",
-          "url": "https://cincodias.elpais.com/opinion/2026-11-26/las-claves-la-derrota-electoral-no-disuade-a-trump-de-su-empeno-proteccionista.html",
+          "titulo": "Los diez minutos que desenredaron el nudo para encumbrar a Hernández de Cos como presidente del BCE",
+          "url": "https://elpais.com/economia/2026-11-27/los-diez-minutos-que-desenredaron-el-nudo-para-encumbrar-a-hernandez-de-cos-como-presidente-del-bce.html",
           "fuente": "EL PAÍS · Economía",
-          "publicado_en": "2026-11-26T04:40:00+00:00",
+          "publicado_en": "2026-11-27T04:30:01+00:00",
           "resumen": ""
         },
         {
-          "titulo": "La IA, entre el vértigo y la realidad",
-          "url": "https://cincodias.elpais.com/opinion/2026-11-26/la-ia-entre-el-vertigo-y-la-realidad.html",
+          "titulo": "Trabas legales y dudas sobre su efectividad: ¿se pueden gravar las remesas de los trabajadores extranjeros como propone Vox?",
+          "url": "https://elpais.com/economia/2026-11-27/trabas-legales-y-dudas-sobre-su-efectividad-se-pueden-gravar-las-remesas-de-los-trabajadores-extranjeros-como-propone-vox.html",
           "fuente": "EL PAÍS · Economía",
-          "publicado_en": "2026-11-26T04:40:00+00:00",
+          "publicado_en": "2026-11-27T04:30:01+00:00",
           "resumen": ""
         }
       ]
@@ -127,73 +141,73 @@
       "titulo": "España y Andalucía",
       "noticias": [
         {
-          "titulo": "La Fórmula 1 se acerca al final de temporada: previa, horario y dónde ver por TV el Gran Premio de Qatar",
-          "url": "https://www.eldiario.es/spin/deportes/formula-1-acerca-final-temporada-previa-horario-donde-ver-gran-premio-qatar-pm_1_13696631.html",
+          "titulo": "Quien fue Mariana de Austria, la reina de España que es protagonista de la última exposición del Museo del Prado",
+          "url": "https://www.eldiario.es/spin/quien-es-mariana-austria-reina-espana-protagonista-exposicion-museo-prado-pm_1_13697642.html",
           "fuente": "ElDiario.es",
-          "publicado_en": "2026-11-26T17:00:49+00:00",
+          "publicado_en": "2026-11-27T17:00:39+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Una concejala del PSOE en Murcia, a Vox tras relatar los abusos que sufrió con 13 años: \"Ustedes dirían que se trata de una denuncia falsa\"",
-          "url": "https://www.eldiario.es/murcia/politica/concejala-psoe-murcia-vox-relatar-abusos-sufrio-13-anos-dirian-trata-denuncia-falsa_1_13696589.html",
+          "titulo": "Retirada la lona racista de Vox en València tras las denuncias de la izquierda en el último día de campaña",
+          "url": "https://www.eldiario.es/comunitat-valenciana/politica/retirada-lona-racista-vox-valencia-denuncias-izquierda-ultimo-dia-campana_1_13699807.html",
           "fuente": "ElDiario.es",
-          "publicado_en": "2026-11-26T16:45:18+00:00",
+          "publicado_en": "2026-11-27T16:11:16+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Preservar y reforzar la trayectoria",
-          "url": "https://www.eldiario.es/opinion/tribuna-abierta/preservar-reforzar-trayectoria_129_13696565.html",
+          "titulo": "El caso de Mercy Brown en 1892: la historia detrás de la exhumación y profanación que dio pie al mito de la \"vampira\" de Nueva Inglaterra",
+          "url": "https://www.eldiario.es/spin/caso-mercy-brown-1892-historia-detras-exhumacion-profanacion-dio-pie-mito-vampira-nueva-inglaterra-pm_1_13699260.html",
           "fuente": "ElDiario.es",
-          "publicado_en": "2026-11-26T16:44:32+00:00",
+          "publicado_en": "2026-11-27T15:00:31+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Muere un marinero tras el naufragio de un buque cargado de combustible cerca de Ibiza",
-          "url": "https://elpais.com/espana/2026-11-26/muere-un-marinero-en-el-hundimiento-de-un-buque-cargado-de-combustible-cerca-de-ibiza.html",
+          "titulo": "Abascal amenaza con \"tumbar la Comisión Europea\" después de que Bruselas cargue contra la \"prioridad nacional\" pactada por PP y Vox",
+          "url": "https://www.eldiario.es/comunitat-valenciana/politica/abascal-amenaza-tumbar-comision-europea-despues-bruselas-cargue-prioridad-nacional-pactada-pp-vox_1_13699700.html",
+          "fuente": "ElDiario.es",
+          "publicado_en": "2026-11-27T14:49:56+00:00",
+          "resumen": ""
+        },
+        {
+          "titulo": "El Govern no quiere en sus puertos el buque accidentado en Ibiza en el que murió el jefe de máquinas",
+          "url": "https://www.eldiario.es/illes-balears/sociedad/govern-no-quiere-puertos-buque-accidentado-ibiza-murio-jefe-maquinas_1_13699485.html",
+          "fuente": "ElDiario.es",
+          "publicado_en": "2026-11-27T14:02:47+00:00",
+          "resumen": ""
+        },
+        {
+          "titulo": "El PP, su giro en redes sociales y el hombre misterioso que las dirige: “La izquierda es un coñazo”",
+          "url": "https://elpais.com/espana/elecciones-generales/2026-11-27/el-pp-su-giro-en-redes-sociales-y-el-hombre-misterioso-que-las-dirige-la-izquierda-es-un-conazo.html",
           "fuente": "EL PAÍS · España",
-          "publicado_en": "2026-11-26T16:37:52+00:00",
+          "publicado_en": "2026-11-27T13:49:18+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Vox concreta su tijeretazo al gasto público: 112.000 millones, el doble del gasto anual en Educación",
-          "url": "https://www.eldiario.es/economia/vox-concreta-tijeretazo-gasto-publico-112-000-millones-doble-gasto-anual-educacion_1_13696579.html",
-          "fuente": "ElDiario.es",
-          "publicado_en": "2026-11-26T16:34:16+00:00",
+          "titulo": "Feijóo pide a los catalanes que le voten “sientan lo que sientan” en un mitin final en L’Hospitalet",
+          "url": "https://elpais.com/espana/elecciones-generales/2026-11-27/feijoo-pide-a-los-catalanes-que-le-voten-sientan-lo-que-sientan-en-un-mitin-final-en-lhospitalet.html",
+          "fuente": "EL PAÍS · España",
+          "publicado_en": "2026-11-27T13:37:28+00:00",
           "resumen": ""
         },
         {
-          "titulo": "La temperatura media global supera en 2 ºC los niveles preindustriales seis días seguidos",
-          "url": "https://www.eldiario.es/sociedad/temperatura-media-global-supera-2-oc-niveles-preindustriales-seis-dias-seguidos_1_13696592.html",
+          "titulo": "La F1 mira más allá del GP de Catar",
+          "url": "https://www.eldiario.es/motor/competicion-y-estilo/f1-mira-gp-catar_1_13695328.html",
           "fuente": "ElDiario.es",
-          "publicado_en": "2026-11-26T16:34:10+00:00",
+          "publicado_en": "2026-11-27T13:30:40+00:00",
           "resumen": ""
         },
         {
-          "titulo": "La investigación del accidente ferroviario de Urda seguirá bajo secreto de sumario hasta el 28 de diciembre",
-          "url": "https://www.eldiario.es/castilla-la-mancha/provincias/toledo/investigacion-accidente-ferroviario-urda-seguira-secreto-sumario-28-diciembre_1_13696666.html",
+          "titulo": "La dramaturga que adaptó a Aldecoa, sobre el veto del PP de Zaragoza: “Las funciones estaban previstas desde octubre”",
+          "url": "https://www.eldiario.es/aragon/cultura/dramaturga-adapto-aldecoa-veto-pp-zaragoza-funciones-estaban-previstas-octubre_1_13699042.html",
           "fuente": "ElDiario.es",
-          "publicado_en": "2026-11-26T16:28:17+00:00",
+          "publicado_en": "2026-11-27T13:28:03+00:00",
           "resumen": ""
         },
         {
-          "titulo": "La jueza rechaza investigar si hay vínculos entre Vox y el apaleamiento de un muñeco de Sánchez en Ferraz",
-          "url": "https://www.eldiario.es/politica/jueza-rechaza-investigar-si-hay-vinculos-vox-apaleamiento-muneco-sanchez-ferraz_1_13696580.html",
+          "titulo": "Feijóo se encomienda a Albiol en el cierre de campaña: \"Nuestro éxito depende de vosotros, así que 'Visca Catalunya'\"",
+          "url": "https://www.eldiario.es/catalunya/feijoo-encomienda-albiol-cierre-campana-exito-depende-visca-catalunya_1_13698431.html",
           "fuente": "ElDiario.es",
-          "publicado_en": "2026-11-26T16:17:42+00:00",
-          "resumen": ""
-        },
-        {
-          "titulo": "Un muerto, 7.000 toneladas de gasoil y un naufragio inesperado: las claves del vuelco del barco  'Med Emre' frente a Ibiza",
-          "url": "https://www.eldiario.es/illes-balears/sociedad/muerto-7-000-toneladas-gasoil-naufragio-inesperado-claves-vuelco-barco-med-emre-frente-ibiza_1_13696344.html",
-          "fuente": "ElDiario.es",
-          "publicado_en": "2026-11-26T16:02:26+00:00",
-          "resumen": ""
-        },
-        {
-          "titulo": "¿IA en las urnas? Investigadores exploran la posibilidad de conceder derecho al voto a sistemas de inteligencia artificial en el futuro",
-          "url": "https://www.eldiario.es/spin/ia-urnas-investigadores-posibilidad-derecho-voto-sistemas-inteligencia-artificial-futuro-pm_1_13695947.html",
-          "fuente": "ElDiario.es",
-          "publicado_en": "2026-11-26T16:00:06+00:00",
+          "publicado_en": "2026-11-27T13:14:24+00:00",
           "resumen": ""
         }
       ]
@@ -203,73 +217,73 @@
       "titulo": "Perú",
       "noticias": [
         {
-          "titulo": "La película “Quasimodo, el alma de París” llega a Netflix: con Vincent Cassel como protagonista y ambientada en 1830",
-          "url": "https://elcomercio.pe/mag/fama/que-ver/quasimodo-el-alma-de-paris-de-que-trata-y-fecha-de-estreno-guia-completa-de-la-pelicula-de-netflix-the-hunchback-soul-of-paris-nnda-nnlt-noticia/",
+          "titulo": "Lista de convocados de Perú EN VIVO: estos son los elegidos por Mano Menezes",
+          "url": "https://elcomercio.pe/deporte-total/seleccion/lista-de-convocados-de-peru-hoy-ver-convocatoria-de-la-seleccion-peruana-noticia/",
           "fuente": "El Comercio Perú",
-          "publicado_en": "2026-11-26T17:22:03+00:00",
+          "publicado_en": "2026-11-27T16:51:34+00:00",
           "resumen": ""
         },
         {
-          "titulo": "La seguridad de Colombia en la mira: qué impacto tienen los recientes atentados en los primeros 100 días de De la Espriella",
-          "url": "https://elcomercio.pe/mundo/latinoamerica/la-seguridad-de-colombia-en-la-mira-que-impacto-tienen-los-recientes-atentados-en-los-primeros-100-dias-de-abelardo-de-la-espriella-apuesplan-noticia/",
+          "titulo": "Corte de Agua hoy en Lima: qué distritos serán afectados, a qué hora vuelve el servicio y más vía Sedapal",
+          "url": "https://elcomercio.pe/respuestas/a-que-hora/corte-de-agua-hoy-en-lima-que-distritos-seran-afectados-a-que-hora-vuelve-el-servicio-y-mas-via-sedapal-tdpe-noticia/",
           "fuente": "El Comercio Perú",
-          "publicado_en": "2026-11-26T17:21:06+00:00",
+          "publicado_en": "2026-11-27T16:51:23+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Algunos beneficiarios del Seguro Social recibirán cuatro pagos en diciembre, dos de ellos con el COLA de 3.6%: quiénes son y en qué fechas",
-          "url": "https://elcomercio.pe/mag/usa/local-us/algunos-beneficiarios-del-seguro-social-recibiran-cuatro-pagos-en-diciembre-dos-de-ellos-con-el-cola-de-36-quienes-son-y-en-que-fechas-ssa-estados-unidos-nnda-nnlt-noticia/",
+          "titulo": "José Mourinho sorprendió con irónica respuesta sobre las elecciones en España | VIDEO",
+          "url": "https://elcomercio.pe/deporte-total/futbol-mundial/jose-mourinho-sorprendio-con-ironica-respuesta-sobre-las-elecciones-en-espana-video-noticia/",
           "fuente": "El Comercio Perú",
-          "publicado_en": "2026-11-26T17:21:00+00:00",
+          "publicado_en": "2026-11-27T16:51:12+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Keiko Fujimori exhorta al Congreso a arribar a acuerdos a favor de la Ley MAPE y cierre del Reinfo",
-          "url": "https://elcomercio.pe/politica/keiko-fujimori-en-vivo-cade-ejecutivos-2026-presidenta-expone-en-sesion-de-clausura-de-conferencia-anual-de-ejecutivos-apuesplan-noticia/",
-          "fuente": "El Comercio Perú",
-          "publicado_en": "2026-11-26T17:19:02+00:00",
+          "titulo": "Piura: vecinos del distrito 26 de Octubre exigen apoyo con motobombas tras inundaciones por intensas lluvias [VIDEO]",
+          "url": "https://rpp.pe/rotafono/emergencias/piura-vecinos-del-distrito-26-de-octubre-exigen-apoyo-con-motobombas-tras-inundaciones-por-intensas-lluvias-video-noticia-1720120",
+          "fuente": "RPP",
+          "publicado_en": "2026-11-27T16:50:53+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Sismos y lluvias en el Perú: cómo enfrentar el miedo y la incertidumbre ante una emergencia",
-          "url": "https://elcomercio.pe/peru/sismos-y-lluvias-en-el-peru-como-enfrentar-el-miedo-y-la-incertidumbre-ante-una-emergencia-noticia/",
+          "titulo": "La nueva función de WhatsApp que podría evitarte buscar una eSIM cuando viajes al extranjero",
+          "url": "https://elcomercio.pe/mag/data/nueva-funcion-whatsapp-podria-evitarte-buscar-esim-cuando-viajes-extranjero-celulares-smartphones-nnda-nnni-noticia/",
           "fuente": "El Comercio Perú",
-          "publicado_en": "2026-11-26T17:17:38+00:00",
+          "publicado_en": "2026-11-27T16:50:53+00:00",
           "resumen": ""
         },
         {
-          "titulo": "¡Llegó Cyber Club! Aprovecha descuentos especiales del 25 al 30 de noviembre",
-          "url": "https://elcomercio.pe/desde-la-redaccion/promociones/llego-cyber-club-aprovecha-descuentos-especiales-del-25-al-30-de-noviembre-noticia/",
+          "titulo": "El 2026 apunta a ser un año récord para las OxI: ¿qué factores impulsan su crecimiento?",
+          "url": "https://elcomercio.pe/economia/peru/el-2026-apunta-a-ser-un-ano-record-para-las-oxi-que-factores-impulsan-su-crecimiento-obras-por-impuestos-proinversion-noticia/",
           "fuente": "El Comercio Perú",
-          "publicado_en": "2026-11-26T17:17:16+00:00",
+          "publicado_en": "2026-11-27T16:45:44+00:00",
           "resumen": ""
         },
         {
-          "titulo": "SBS: morosidad del sistema financiero cae 3,1%, su nivel más bajo en una década",
-          "url": "https://elcomercio.pe/economia/peru/sbs-morosidad-del-sistema-financiero-cae-31-su-nivel-mas-bajo-en-una-decada-l-ultimas-noticia/",
+          "titulo": "Bono ONP de S/200 en diciembre: ¿quiénes recibirán el pago extra y qué requisitos deben cumplir los jubilados?",
+          "url": "https://elcomercio.pe/respuestas/tramites/bono-onp-de-s200-en-diciembre-quienes-recibiran-el-pago-extra-y-que-requisitos-deben-cumplir-los-jubilados-tdpe-noticia/",
           "fuente": "El Comercio Perú",
-          "publicado_en": "2026-11-26T17:17:03+00:00",
+          "publicado_en": "2026-11-27T16:44:53+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Calor en Lima: sensación térmica llega a 34°C mientras se mantiene aviso de ola de calor en la costa central",
-          "url": "https://elcomercio.pe/lima/sucesos/calor-en-lima-sensacion-termica-llega-a-34c-mientras-se-mantiene-aviso-de-ola-de-calor-en-la-costa-central-ultimas-noticia/",
+          "titulo": "Gratificación de diciembre 2026: ¿cómo impactará el aumento del sueldo mínimo en su cálculo?",
+          "url": "https://elcomercio.pe/respuestas/tramites/gratificacion-de-diciembre-2026-como-impactara-el-aumento-del-sueldo-minimo-en-su-calculo-tdpe-noticia/",
           "fuente": "El Comercio Perú",
-          "publicado_en": "2026-11-26T17:10:54+00:00",
+          "publicado_en": "2026-11-27T16:44:47+00:00",
           "resumen": ""
         },
         {
-          "titulo": "“Roberto Sánchez me debe unas disculpas”: Diputada de Obras dice que le hizo creer que firmaba otro proyecto distinto a la amnistía para Castillo",
-          "url": "https://elcomercio.pe/politica/roberto-sanchez-me-debe-unas-disculpas-diputada-de-obras-dice-que-le-hizo-creer-que-firmaba-otro-proyecto-distinto-a-la-amnistia-para-castillo-noticia/",
+          "titulo": "DNI digital en Perú: descubre cómo tramitarlo y tenerlo en tu celular",
+          "url": "https://elcomercio.pe/respuestas/tramites/dni-digital-en-peru-como-descargarlo-gratis-en-tu-celular-requisitos-y-los-tramites-en-los-que-podras-utilizarlo-tdpe-noticia/",
           "fuente": "El Comercio Perú",
-          "publicado_en": "2026-11-26T17:10:00+00:00",
+          "publicado_en": "2026-11-27T16:44:41+00:00",
           "resumen": ""
         },
         {
-          "titulo": "Miguel Araujo publicó mensaje en redes que que generó interrogantes tras finalizar la Liga 1",
-          "url": "https://elcomercio.pe/deporte-total/futbol-peruano/se-despide-de-sporting-cristal-el-mensaje-de-miguel-araujo-que-genero-interrogantes-tras-finalizar-la-liga-1-2026-ultimas-noticia/",
+          "titulo": "Sigue Magaly TV La Firme EN VIVO: a qué hora empieza y cómo ver vía ATV",
+          "url": "https://elcomercio.pe/respuestas/farandula/sigue-magaly-tv-la-firme-en-vivo-a-que-hora-empieza-y-como-ver-via-atv-tdpe-noticia/",
           "fuente": "El Comercio Perú",
-          "publicado_en": "2026-11-26T17:08:56+00:00",
+          "publicado_en": "2026-11-27T16:43:47+00:00",
           "resumen": ""
         }
       ]
